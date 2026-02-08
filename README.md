@@ -41,14 +41,15 @@ Schema.org structured data format for SEO and semantic web applications.
 
 ## 📊 Statistics
 
-- **Total Prompts**: 111+
+- **Total Prompts**: 4386+
 - **Categories**: portrait, landscape, product, character, abstract, food, architecture, animal, other
 - **Styles**: realistic, cinematic, anime, 3d, artistic, minimalist, vintage, illustration
 
 ## 🔗 Links
 
-- **Website**: [nanobananapro.info](https://nanobananapro.info) - Browse prompts with a beautiful UI
-- **Nano Banana Pro**: Available in [Google Gemini](https://gemini.google.com)
+- **Prompt Library**: [nanobananapro.info](https://nanobananapro.info) - Browse prompts with a beautiful UI
+- **Try Nano Banana Pro**: [imgedify.com/ai-models/nano-banana-pro](https://imgedify.com/ai-models/nano-banana-pro) - Generate images online
+- **Google Gemini**: [gemini.google.com](https://gemini.google.com) - Official Gemini app
 
 ## 📜 License
 
