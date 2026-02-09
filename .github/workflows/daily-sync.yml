@@ -1,0 +1,52 @@
+name: Daily Data Sync
+
+on:
+  schedule:
+    # 每天 UTC 00:00 (北京时间 08:00) 执行
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  sync-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Export data from D1
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CF_ACCOUNT_ID: '3a011b14aed5966eb9a2556cdc970cab'
+          D1_DATABASE_ID: 'f8692f19-b69b-48f5-b3d0-11ccce0fed3e'
+        run: |
+          # 从 D1 导出数据
+          curl -s -X POST \
+            "https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/d1/database/${D1_DATABASE_ID}/query" \
+            -H "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}" \
+            -H "Content-Type: application/json" \
+            -d '{"sql": "SELECT id, title, prompt, author, author_url, source_url, images, language, category, tags, style, description, created_at FROM prompts ORDER BY created_at DESC"}' \
+            -o raw_response.json
+          
+          # 解析并转换数据
+          node scripts/convert-data.js
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # 检查是否有变化
+          if git diff --quiet data/; then
+            echo "No changes to commit"
+          else
+            git add data/
+            PROMPT_COUNT=$(cat data/prompts.json | node -e "console.log(JSON.parse(require('fs').readFileSync('/dev/stdin','utf8')).length)")
+            git commit -m "📊 Daily sync: ${PROMPT_COUNT} prompts ($(date -u +%Y-%m-%d))"
+            git push
+          fi
