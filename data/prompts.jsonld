@@ -5,7 +5,7 @@
   "description": "A curated collection of high-quality prompts for Nano Banana Pro AI image generation",
   "url": "https://github.com/ImgEdify/awesome-nano-banana-pro-prompts",
   "license": "https://opensource.org/licenses/MIT",
-  "dateModified": "2026-02-09",
+  "dateModified": "2026-02-10",
   "creator": {
     "@type": "Organization",
     "name": "ImgEdify",
@@ -19,99 +19,47 @@
   "hasPart": [
     {
       "@type": "CreativeWork",
-      "identifier": 4584,
-      "name": "@jocarrasqueira @SuperBowl @openclaw @NanoBanana Nano banana of course.  Prompt: The game is set. It",
+      "identifier": 4901,
+      "name": "Nano banana pro doing best at @SocialSight   Prompt👇  A striking fashion portrait of an elegant wom",
       "author": {
         "@type": "Person",
-        "name": "jessenowlin",
-        "url": "https://x.com/jessenowlin"
-      },
-      "inLanguage": "en",
-      "genre": "landscape",
-      "dateCreated": "2026-02-09 02:02:29"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4583,
-      "name": "Gemini Nano Banana  Prompt :  {   \"image_type\": \"luxury_jewelry_lifestyle_photoshoot\",   \"layout\": {",
-      "author": {
-        "@type": "Person",
-        "name": "TheAIMuseUS",
-        "url": "https://x.com/TheAIMuseUS"
-      },
-      "inLanguage": "en",
-      "genre": "product",
-      "dateCreated": "2026-02-09 02:02:25"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4582,
-      "name": "I asked Nano Banana to visualize food from a random country in Asia  Prompt:  do this for a lesser k",
-      "author": {
-        "@type": "Person",
-        "name": "Gdgtify",
-        "url": "https://x.com/Gdgtify"
-      },
-      "inLanguage": "en",
-      "genre": "food",
-      "dateCreated": "2026-02-09 02:02:17"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4581,
-      "name": "make images like YSL.  Here's the Nano Banana prompt: IMAGE: A single human figure stands centered i",
-      "author": {
-        "@type": "Person",
-        "name": "ai_artdirector",
-        "url": "https://x.com/ai_artdirector"
+        "name": "iamsofiaijaz",
+        "url": "https://x.com/iamsofiaijaz"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-09 02:01:56"
+      "dateCreated": "2026-02-10 03:02:37"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4580,
-      "name": "My Favourite And Beautiful Actress Zhao Lushi   Google Gemini Nano Banana  Pro  Prompt:  { \"subject\"",
+      "identifier": 4900,
+      "name": "A teenage girl into school photo promptGemini Nano Banana creation.  Prompt in alt ⤵️ https://t.co/i",
       "author": {
         "@type": "Person",
-        "name": "AnkitMi16412441",
-        "url": "https://x.com/AnkitMi16412441"
+        "name": "blogbursthub",
+        "url": "https://x.com/blogbursthub"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-09 02:01:46"
+      "dateCreated": "2026-02-10 03:02:30"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4579,
-      "name": "Gemini Nano Banana Pro:  Prompt:  {   \"project_metadata\": {     \"subject_count\": 1,     \"theme\": \"Mo",
+      "identifier": 4884,
+      "name": "GeminiアプリのNano Banana Proを使って、古いビンテージ写真を復元しましょう。  プロンプト：  {   \"task\": \"image-to-image restoration\", ",
       "author": {
         "@type": "Person",
-        "name": "TzqQaiser",
-        "url": "https://x.com/TzqQaiser"
+        "name": "nasan_0422",
+        "url": "https://x.com/nasan_0422"
       },
-      "inLanguage": "en",
+      "inLanguage": "ja",
       "genre": "portrait",
-      "dateCreated": "2026-02-09 02:01:32"
+      "dateCreated": "2026-02-10 02:00:57"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4578,
-      "name": "Ana de Armas 🔥   Prompt  Nano banana Pro   {   \"scene\": {     \"type\": \"cinematic still photograph\",",
-      "author": {
-        "@type": "Person",
-        "name": "kayladavies56",
-        "url": "https://x.com/kayladavies56"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-09 02:01:23"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4577,
-      "name": "Gemini Nano Banana Pro   Prompt 👇  🔥 PROMPT ⏭️ : -  A powerful editorial, highly detailed, photore",
+      "identifier": 4883,
+      "name": "Sydney Sweeney & Ana de Armas   Gemini Nano Banana Pro   Prompt 👇   {   \"composition\": {     \"shot_",
       "author": {
         "@type": "Person",
         "name": "SadiaMalik182",
@@ -119,441 +67,12 @@
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-09 02:01:15"
+      "dateCreated": "2026-02-10 02:00:49"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4575,
-      "name": "Gemini Nano Banana Pro   Prompt:  { \"image_type\": \"photograph\", \"genre\": \"indoor lifestyle portrait\"",
-      "author": {
-        "@type": "Person",
-        "name": "ZaraIrahh",
-        "url": "https://x.com/ZaraIrahh"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-09 01:29:02"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4574,
-      "name": "Gemini nano banana pro 3.0   Prompt: Photorealistic full-length portrait of an elegant young woman, ",
-      "author": {
-        "@type": "Person",
-        "name": "Ai_aylinfc",
-        "url": "https://x.com/Ai_aylinfc"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-09 01:28:55"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4571,
-      "name": "Nano Banana Pro Industrial Prism Glassform  Prompt 👇  {   \"request\": {     \"product\": \"[PRODUCT HER",
-      "author": {
-        "@type": "Person",
-        "name": "lloydcreates",
-        "url": "https://x.com/lloydcreates"
-      },
-      "inLanguage": "en",
-      "genre": "product",
-      "dateCreated": "2026-02-08 05:03:05"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4570,
-      "name": "This look is living in my head rent-free. Editorial or Real life? You decide. 🥂  Polina Gagarina 📸",
-      "author": {
-        "@type": "Person",
-        "name": "JadoonKhan281",
-        "url": "https://x.com/JadoonKhan281"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 05:03:00"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4569,
-      "name": "睡到自然醒的感觉最爽！ 周末了，看看美女吧😁这种小傲娇的气质绝了！  Sunshine buauty.Which pose is your favorite？  Nano Banana Prompt",
-      "author": {
-        "@type": "Person",
-        "name": "Adam38363368936",
-        "url": "https://x.com/Adam38363368936"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 05:02:55"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4568,
-      "name": "Nano Banana Pro on Gemini App.  Prompt:  { [Subject: Monster Energy Drink Can] [Details: Matte black",
-      "author": {
-        "@type": "Person",
-        "name": "mehvishs25",
-        "url": "https://x.com/mehvishs25"
-      },
-      "inLanguage": "en",
-      "genre": "product",
-      "dateCreated": "2026-02-08 05:02:46"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4564,
-      "name": "Gemini Nano Banana Pro  Sydney Sweeney  Ana de Armas  Promt  {   \"image_generation_prompt\": {     \"s",
-      "author": {
-        "@type": "Person",
-        "name": "LunaAI_TR",
-        "url": "https://x.com/LunaAI_TR"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 05:02:26"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4563,
-      "name": "Image on Gemini Nano Banana  Prompt: Surreal conceptual photography of a distressed young woman entw",
-      "author": {
-        "@type": "Person",
-        "name": "Minahil42298354",
-        "url": "https://x.com/Minahil42298354"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 05:02:22"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4562,
-      "name": "Prompt reference below  📷  Heads up: a full character reference image is required. Attach it with t",
-      "author": {
-        "@type": "Person",
-        "name": "daimonishere",
-        "url": "https://x.com/daimonishere"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 05:01:18"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4561,
-      "name": "Your eyes will taste this before your mouth.😍  Google Nano Banana Pro + Grok    Prompt:  Cinematic ",
-      "author": {
-        "@type": "Person",
-        "name": "Mind_Boticni",
-        "url": "https://x.com/Mind_Boticni"
-      },
-      "inLanguage": "en",
-      "genre": "food",
-      "dateCreated": "2026-02-08 05:00:50"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4560,
-      "name": "Raw energy meets precision  Powered by Google Veo 3.1 + Nano Banana Pro  Prompt:- Create an extreme ",
-      "author": {
-        "@type": "Person",
-        "name": "Strength04_X",
-        "url": "https://x.com/Strength04_X"
-      },
-      "inLanguage": "en",
-      "genre": "product",
-      "dateCreated": "2026-02-08 05:00:43"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4559,
-      "name": "Same Prompt. Different Model.  Midjourney(1), Grok(2), GPT(3), Nano Banana Pro(4).  iPhone mirror se",
-      "author": {
-        "@type": "Person",
-        "name": "Inspova",
-        "url": "https://x.com/Inspova"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 04:03:09"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4557,
-      "name": "Nano Banana Pro On Google Gemini   Prompt: Woman looking into mirror but only her reflection is visi",
-      "author": {
-        "@type": "Person",
-        "name": "ChillaiKalan__",
-        "url": "https://x.com/ChillaiKalan__"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 04:01:22"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4556,
-      "name": "Nano Banana Pro  Low-light cinematic portrait of Rosé from Blackpink sitting in a café corner, long ",
-      "author": {
-        "@type": "Person",
-        "name": "youngcatwoman",
-        "url": "https://x.com/youngcatwoman"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 04:01:19"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4554,
-      "name": "Gemini Nano Banana Pro   Prompt:  { \"image_type\": \"photograph\", \"genre\": \"environmental lifestyle po",
-      "author": {
-        "@type": "Person",
-        "name": "ZaraIrahh",
-        "url": "https://x.com/ZaraIrahh"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 04:00:54"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4549,
-      "name": "Where innocence meets elegance Zhao Lusi, timeless beauty  Google Gemini Nano Banana  Pro:  Prompt: ",
-      "author": {
-        "@type": "Person",
-        "name": "AnkitMi16412441",
-        "url": "https://x.com/AnkitMi16412441"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 03:01:57"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4548,
-      "name": "Summer dreams!🔥🌊  Madison Beer & Ana de Armas, Anya Taylor-Joy & Sydney Sweeney, Kylie Jenner & So",
-      "author": {
-        "@type": "Person",
-        "name": "KeorUnreal",
-        "url": "https://x.com/KeorUnreal"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 03:01:50"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4547,
-      "name": "Quiet Mornings, Loud Confidence with Nano Banana Pro🍌   Ana De Armas and me (Alice)      Gemini Nan",
-      "author": {
-        "@type": "Person",
-        "name": "aliceglassierai",
-        "url": "https://x.com/aliceglassierai"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 03:01:43"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4546,
-      "name": "Gemini Nano Banana Pro   Sadia sink 🎇   Prompt:  {   \"subject_reference\": {     \"name\": \"Sadie Sink",
-      "author": {
-        "@type": "Person",
-        "name": "rowanali09",
-        "url": "https://x.com/rowanali09"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 03:01:38"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4545,
-      "name": "Trying Nano banana on Gemni Ai with my own image 🍌   Prompt: Create an image of me in a warm, candi",
-      "author": {
-        "@type": "Person",
-        "name": "Avellaxai",
-        "url": "https://x.com/Avellaxai"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 03:01:31"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4544,
-      "name": "Slide with nano banana pro only on @SocialSight   Prompt👇  A cinematic fantasy scene inside a cozy ",
-      "author": {
-        "@type": "Person",
-        "name": "iamsofiaijaz",
-        "url": "https://x.com/iamsofiaijaz"
-      },
-      "inLanguage": "en",
-      "genre": "abstract",
-      "dateCreated": "2026-02-08 03:01:24"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4543,
-      "name": "AI doing automotive ads better than studios   Google Veo 3.1 + Nano Banana Pro   Prompt: Hyper-reali",
-      "author": {
-        "@type": "Person",
-        "name": "Strength04_X",
-        "url": "https://x.com/Strength04_X"
-      },
-      "inLanguage": "en",
-      "genre": "product",
-      "dateCreated": "2026-02-08 03:01:20"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4542,
-      "name": "Gemini Nano Banana Ai   Prompt:  {   \"subject\": {     \"gender\": \"female\",     \"physical_features\": {",
-      "author": {
-        "@type": "Person",
-        "name": "Shreyayadav",
-        "url": "https://x.com/Shreyayadav"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 03:01:16"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4541,
-      "name": "Enjoying Day and Funky life .🖕💫  Nano Banana Ai Gemini 💎  Prompt:  {   \"prompt\": \"masterpiece, be",
-      "author": {
-        "@type": "Person",
-        "name": "Shreyayadav",
-        "url": "https://x.com/Shreyayadav"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 03:01:09"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4540,
-      "name": "Google Gemini Nano Banana Pro  Prompt: Realistic indoor daytime smartphone photo, candid and unposed",
-      "author": {
-        "@type": "Person",
-        "name": "harboriis",
-        "url": "https://x.com/harboriis"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 03:01:04"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4539,
-      "name": "Gigi Hadid 🔥 Sydney Sweeney 🍓 Belle Delphine 💋  Poison lvy..  Gemini Nano Banana Pro 4.0  Prompt:",
-      "author": {
-        "@type": "Person",
-        "name": "BaharAzamm561",
-        "url": "https://x.com/BaharAzamm561"
-      },
-      "inLanguage": "en",
-      "genre": "character",
-      "dateCreated": "2026-02-08 03:00:58"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4538,
-      "name": "Google Gemini Nano Banana image  Prompt 👇   Ultra-realistic cinematic fine-dining kitchen scene of ",
-      "author": {
-        "@type": "Person",
-        "name": "AIwithkhan",
-        "url": "https://x.com/AIwithkhan"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 03:00:53"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4529,
-      "name": "I asked Nano Banana to draw me fonts based on the work of a famous poet.  Prompt: Do this for a famo",
-      "author": {
-        "@type": "Person",
-        "name": "Gdgtify",
-        "url": "https://x.com/Gdgtify"
-      },
-      "inLanguage": "en",
-      "genre": "abstract",
-      "dateCreated": "2026-02-08 01:02:15"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4528,
-      "name": "Sydney Sweeney, Ana De Armas and me (Alice) ready for tonight.   Nano Banana Pro  Prompt:  {   \"subj",
-      "author": {
-        "@type": "Person",
-        "name": "aliceglassierai",
-        "url": "https://x.com/aliceglassierai"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 01:02:11"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4527,
-      "name": "How to Look Sweet and Mean It with Nano Banana Pro?🍎  Ana De Armas, Sydney Sweeney and me (Alice)  ",
-      "author": {
-        "@type": "Person",
-        "name": "aliceglassierai",
-        "url": "https://x.com/aliceglassierai"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-08 01:02:02"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4517,
-      "name": "Nano banana Pro system prompt  It also work for any image model.  You are REWIND.  You exist because",
-      "author": {
-        "@type": "Person",
-        "name": "IamEmily2050",
-        "url": "https://x.com/IamEmily2050"
-      },
-      "inLanguage": "en",
-      "genre": "other",
-      "dateCreated": "2026-02-08 00:00:54"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4507,
-      "name": "@GeminiApp I was inspired by this prompt to get Nano Banana to show me 4 of the most iconic plays of",
-      "author": {
-        "@type": "Person",
-        "name": "Gdgtify",
-        "url": "https://x.com/Gdgtify"
-      },
-      "inLanguage": "en",
-      "genre": "other",
-      "dateCreated": "2026-02-07 23:00:34"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4503,
-      "name": "Nano Banana Pro  {   \"image_prompt_data\": {     \"subject\": {       \"demographics\": \"Young woman, ear",
-      "author": {
-        "@type": "Person",
-        "name": "youngcatwoman",
-        "url": "https://x.com/youngcatwoman"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 22:01:14"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4502,
-      "name": "#promptshare with Nano Banana Pro using @freepik ✨and my custom style #nostalgicpolaroid https://t.c",
+      "identifier": 4882,
+      "name": "#promptshare with Nano Banana Pro using @freepik and my custom style #sketchbook : https://t.co/jzei",
       "author": {
         "@type": "Person",
         "name": "heathergreen",
@@ -561,506 +80,181 @@
       },
       "inLanguage": "en",
       "genre": "animal",
-      "dateCreated": "2026-02-07 22:01:06"
+      "dateCreated": "2026-02-10 02:00:42"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4501,
-      "name": "Tap to see Billie Eilish Enjoying The Water✨💦  Nano Banana Pro  Prompt: {   \"character\": {     \"gen",
-      "author": {
-        "@type": "Person",
-        "name": "JustBethanyai",
-        "url": "https://x.com/JustBethanyai"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 22:00:56"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4500,
-      "name": "Nano Banana Pro 💗@astronomerozge1  Prompt:  {   \"generation_request\": {     \"meta_data\": {       \"t",
-      "author": {
-        "@type": "Person",
-        "name": "astronomerozge1",
-        "url": "https://x.com/astronomerozge1"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 22:00:48"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4499,
-      "name": "Nano Banana Pro 🥰 @astronomerozge1  Prompt:  {   \"generation_request\": {     \"meta_data\": {       \"",
-      "author": {
-        "@type": "Person",
-        "name": "astronomerozge1",
-        "url": "https://x.com/astronomerozge1"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 22:00:39"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4498,
-      "name": "Ana de Armas, Sydney Sweeney, Sadie Sink Who is your favourite icon?🔥🫦  Gemini Nano Banana Pro  Pr",
-      "author": {
-        "@type": "Person",
-        "name": "alexgarcia_XX",
-        "url": "https://x.com/alexgarcia_XX"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 22:00:31"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4494,
-      "name": "nano banana pro 🍌  prompt ⬇️  { \"subject\": \"Young woman with platinum blonde hair styled in a casua",
-      "author": {
-        "@type": "Person",
-        "name": "xCelesteAIx",
-        "url": "https://x.com/xCelesteAIx"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 21:00:57"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4493,
-      "name": "Billie Eilish, Ana de Armas, Sydney Sweeney 🔥  Which one is the best looking here?✨  Gemini Nano Ba",
-      "author": {
-        "@type": "Person",
-        "name": "YaseenK7212",
-        "url": "https://x.com/YaseenK7212"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 21:00:49"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4492,
-      "name": "Nano Banana Pro | Prompt:⤵️  {   \"prompt\": \"A highly raw, unfiltered 'dirty mirror selfie' of a Gen ",
+      "identifier": 4822,
+      "name": "Nano Banana Pro | Prompt:  A visceral, cinematic photograph of Pandora from Greek mythology in the a",
       "author": {
         "@type": "Person",
         "name": "iamdomprompt",
         "url": "https://x.com/iamdomprompt"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 21:00:35"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4491,
-      "name": "Working on a new prompt to visualize food.  Tried with Nano Banana and GPT  Prompt: Do this for Taco",
-      "author": {
-        "@type": "Person",
-        "name": "Gdgtify",
-        "url": "https://x.com/Gdgtify"
-      },
-      "inLanguage": "en",
-      "genre": "food",
-      "dateCreated": "2026-02-07 20:01:57"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4490,
-      "name": "Nano banana pro 🍌   Created with @ImagineArt_X   Prompt :- A surreal, hyper-realistic urban scene o",
-      "author": {
-        "@type": "Person",
-        "name": "sumiturkude007",
-        "url": "https://x.com/sumiturkude007"
-      },
-      "inLanguage": "en",
-      "genre": "landscape",
-      "dateCreated": "2026-02-07 20:01:47"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4489,
-      "name": "Nano Banana Pro @bageldotcom  🏝️ Prompt: {   \"generation_request\": {     \"meta_data\": {       \"tool",
-      "author": {
-        "@type": "Person",
-        "name": "astronomerozge1",
-        "url": "https://x.com/astronomerozge1"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 20:01:42"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4488,
-      "name": "Sadie Sink  Gemini Nano Banana Pro  Prompt: {   \"vibe_title_en\": \"Organic Leather Sculpture\",   \"mas",
-      "author": {
-        "@type": "Person",
-        "name": "timedoctor_nft",
-        "url": "https://x.com/timedoctor_nft"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 20:01:37"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4487,
-      "name": "Nano Banana Pro @freepik  💙 Prompt: {   \"generation_request\": {     \"meta_data\": {       \"tool\": \"N",
-      "author": {
-        "@type": "Person",
-        "name": "astronomerozge1",
-        "url": "https://x.com/astronomerozge1"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 20:01:33"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4486,
-      "name": "Nano Banana Pro @astronomerozge1 ❤️ Prompt: {   \"generation_request\": {     \"meta_data\": {       \"ta",
-      "author": {
-        "@type": "Person",
-        "name": "astronomerozge1",
-        "url": "https://x.com/astronomerozge1"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 20:01:22"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4485,
-      "name": "Nano Banana Pro 🤍 @astronomerozge1  Prompt: {   \"generation_request\": {     \"meta_data\": {       \"t",
-      "author": {
-        "@type": "Person",
-        "name": "astronomerozge1",
-        "url": "https://x.com/astronomerozge1"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 20:01:13"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4484,
-      "name": "Nano Banana Pro | Prompt:  {   \"image_type\": \"Editorial Fashion Photography\",   \"shot\": \"Intimate Mi",
-      "author": {
-        "@type": "Person",
-        "name": "iamdomprompt",
-        "url": "https://x.com/iamdomprompt"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 20:00:53"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4477,
-      "name": "Trend 394 Would you be trying these couple prompts on valentine? 👩‍❤️‍👨 Use gemini nano banana pro",
-      "author": {
-        "@type": "Person",
-        "name": "gemini_prompts",
-        "url": "https://x.com/gemini_prompts"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 19:01:08"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4476,
-      "name": "Imagine this is your commute home after closing the biggest deal of your life.   What’s the one song",
-      "author": {
-        "@type": "Person",
-        "name": "iamdomprompt",
-        "url": "https://x.com/iamdomprompt"
-      },
-      "inLanguage": "en",
-      "genre": "product",
-      "dateCreated": "2026-02-07 19:00:59"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4475,
-      "name": "This fun Nano Banana prompt turns movies into collectible toys.   Prompt:  Input Variable: [Interste",
-      "author": {
-        "@type": "Person",
-        "name": "Gdgtify",
-        "url": "https://x.com/Gdgtify"
-      },
-      "inLanguage": "en",
-      "genre": "product",
-      "dateCreated": "2026-02-07 19:00:41"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4474,
-      "name": "@BeanieBlossom @by_Danumba @CozyLinaGirl2 @jwilki10 @skychasms Here is what I got with a prompt cons",
-      "author": {
-        "@type": "Person",
-        "name": "artingent",
-        "url": "https://x.com/artingent"
-      },
-      "inLanguage": "en",
-      "genre": "food",
-      "dateCreated": "2026-02-07 19:00:35"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4473,
-      "name": "Here’s a prompt to try. Made in MJ but should translate well to other platforms. Prompt: A Rococo la",
-      "author": {
-        "@type": "Person",
-        "name": "humble_whisper",
-        "url": "https://x.com/humble_whisper"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 18:01:44"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4472,
-      "name": "Made this static ad in less than 5 min of work  All with nano banana pro and a simple JSON prompt:  ",
-      "author": {
-        "@type": "Person",
-        "name": "realdigitaldao",
-        "url": "https://x.com/realdigitaldao"
-      },
-      "inLanguage": "en",
-      "genre": "product",
-      "dateCreated": "2026-02-07 18:01:41"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4471,
-      "name": "Prompt: A pure white background fills the frame. Thick black ink drops fall in slow motion, splashin",
-      "author": {
-        "@type": "Person",
-        "name": "MrDasOnX",
-        "url": "https://x.com/MrDasOnX"
-      },
-      "inLanguage": "en",
-      "genre": "abstract",
-      "dateCreated": "2026-02-07 18:01:37"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4470,
-      "name": "Nano Banana Pro inside @PixVerse_ Prompt 👇  {   \"model\": \"nano-banana-pro\",   \"prompt\": \"An ultra-p",
-      "author": {
-        "@type": "Person",
-        "name": "mahivisuals",
-        "url": "https://x.com/mahivisuals"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 18:01:33"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4468,
-      "name": "Nano Banana Pro on @SocialSight  Dinner date with Sadie 🥂  Prompt: {   \"metadata\": {     \"title\": \"",
-      "author": {
-        "@type": "Person",
-        "name": "Xmira_belle",
-        "url": "https://x.com/Xmira_belle"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 18:01:15"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4467,
-      "name": "Ana de armas Kylie Jenner   Gemini Nano banana pro   Prompt  [   {     \"box_2d\": [       {         \"",
-      "author": {
-        "@type": "Person",
-        "name": "Cicily_aura",
-        "url": "https://x.com/Cicily_aura"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 18:01:11"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4466,
-      "name": "Nano Banana Pro on @artingai   Try it → https://t.co/sB0PI08bCV  Prompt: An unplanned paparazzi-styl",
-      "author": {
-        "@type": "Person",
-        "name": "ChillaiKalan__",
-        "url": "https://x.com/ChillaiKalan__"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 18:01:02"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4465,
-      "name": "Sydney Sweeney and Billie Eilish...  Nano Banana Pro  Prompt:  {   \"image_analysis\": {     \"overall_",
-      "author": {
-        "@type": "Person",
-        "name": "RubenSalvo_",
-        "url": "https://x.com/RubenSalvo_"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 18:00:57"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4460,
-      "name": "nano banana pro 🍌  {   \"prompt\": \"Intimate bedroom selfie portrait, young woman with long dark wavy",
-      "author": {
-        "@type": "Person",
-        "name": "kaila3535",
-        "url": "https://x.com/kaila3535"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 17:02:34"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4459,
-      "name": "Gemini Nano Banana pro @Neonva2623  Prompt :   Ultra-realistic surreal billboard advertisement photo",
-      "author": {
-        "@type": "Person",
-        "name": "Neonva2623",
-        "url": "https://x.com/Neonva2623"
-      },
-      "inLanguage": "en",
-      "genre": "product",
-      "dateCreated": "2026-02-07 17:02:30"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4458,
-      "name": "Gemini Nano Banana pro @Neonva2623  Prompt :     Ultra-realistic surreal billboard advertisement pho",
-      "author": {
-        "@type": "Person",
-        "name": "Neonva2623",
-        "url": "https://x.com/Neonva2623"
-      },
-      "inLanguage": "en",
-      "genre": "product",
-      "dateCreated": "2026-02-07 17:02:23"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4457,
-      "name": "Gemini Nano Banana Pro   Prompt   {   \"subject\": {     \"description\": \"Young woman with a soft, dire",
-      "author": {
-        "@type": "Person",
-        "name": "SadiaMalik182",
-        "url": "https://x.com/SadiaMalik182"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 17:02:18"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4456,
-      "name": "Nano Banana Pro 🍌  - {   \"prompt\": \"breathtaking young european woman with cascading wavy obsidian ",
-      "author": {
-        "@type": "Person",
-        "name": "katmanai",
-        "url": "https://x.com/katmanai"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 17:02:10"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4455,
-      "name": "Ana de armas, Sydney Sweeney, Sadie sink and Billie eilish 🥵🔥  Gemini nano banana  Prompt:  {   \"p",
-      "author": {
-        "@type": "Person",
-        "name": "Mikasa_rose729",
-        "url": "https://x.com/Mikasa_rose729"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 17:02:03"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4454,
-      "name": "Nano Banana Pro 🍌   Prompt share 👇  {   \"meta\": {     \"purpose\": \"Comic book poster illustration f",
-      "author": {
-        "@type": "Person",
-        "name": "ai_with_shah",
-        "url": "https://x.com/ai_with_shah"
       },
       "inLanguage": "en",
       "genre": "character",
-      "dateCreated": "2026-02-07 17:01:59"
+      "dateCreated": "2026-02-10 00:33:17"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4453,
-      "name": "Gemini Nano Banana Pro 3.0  Prompt.   AI {   \"content_identity\": {     \"project_name\": \"Celebrity Fi",
+      "identifier": 4821,
+      "name": "I asked Nano Banana to come up with new fonts based on Einstein:   Prompt:  Do this for Iran: <instr",
       "author": {
         "@type": "Person",
-        "name": "BaharAzamm561",
-        "url": "https://x.com/BaharAzamm561"
+        "name": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "inLanguage": "en",
+      "genre": "other",
+      "dateCreated": "2026-02-10 00:33:13"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4806,
+      "name": "Zhao Lusi, timeless presence  Google Gemini Nano Banana  Pro   Prompt:   {   \"prompt_type\": \"cinemat",
+      "author": {
+        "@type": "Person",
+        "name": "AnkitMi16412441",
+        "url": "https://x.com/AnkitMi16412441"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 17:01:52"
+      "dateCreated": "2026-02-10 00:00:46"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4452,
-      "name": "Surreal / Dreamlike Illustrations  Gemini Nano Banana Pro Prompt:  “A surreal illustration where [NO",
+      "identifier": 4805,
+      "name": "Free PFP Nano Banana prompt: Anime battle poster  Prompt: Super dynamic Anime art of the 【REFERENCED",
       "author": {
         "@type": "Person",
-        "name": "aleenaamiir",
-        "url": "https://x.com/aleenaamiir"
+        "name": "0xKiriKev",
+        "url": "https://x.com/0xKiriKev"
       },
       "inLanguage": "en",
-      "genre": "abstract",
-      "dateCreated": "2026-02-07 17:00:38"
+      "genre": "character",
+      "dateCreated": "2026-02-10 00:00:40"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4451,
-      "name": "Sydney Sweeney is in the house 🔥❤️  Gemini Nano Banana Pro Prompt: { \"metadata\": { \"title\": \"Sydney",
+      "identifier": 4793,
+      "name": "Nano Banana Pro 💐 @astronomerozge1  Prompt: {   \"generation_request\": {     \"meta_data\": {       \"t",
       "author": {
         "@type": "Person",
-        "name": "IslaSterling",
-        "url": "https://x.com/IslaSterling"
+        "name": "astronomerozge1",
+        "url": "https://x.com/astronomerozge1"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 17:00:34"
+      "dateCreated": "2026-02-09 23:01:06"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4446,
-      "name": "One bite is never enough.  Gemini Nano Banana pro   Prompt : {   \"master_prompt\": {     \"global_sett",
+      "identifier": 4792,
+      "name": "Nano Banana Pro  {   \"image_generation_prompt\": {     \"subject\": {       \"description\": \"The four me",
       "author": {
         "@type": "Person",
-        "name": "meng_dagg695",
-        "url": "https://x.com/meng_dagg695"
+        "name": "youngcatwoman",
+        "url": "https://x.com/youngcatwoman"
       },
       "inLanguage": "en",
-      "genre": "food",
-      "dateCreated": "2026-02-07 16:02:41"
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 23:01:00"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4445,
-      "name": "Sadie Sink In Gym Today… 😓💦  Gemini Nano Banana Pro  Prompt: {   \"image_generation_prompt\": {     ",
+      "identifier": 4791,
+      "name": "Nano Banana Pro  ❤️ @astronomerozge1  Prompt: {   \"generation_request\": {     \"meta_data\": {       \"",
+      "author": {
+        "@type": "Person",
+        "name": "astronomerozge1",
+        "url": "https://x.com/astronomerozge1"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 23:00:48"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4790,
+      "name": "Nano Banana Pro 🌔 @astronomerozge1  Prompt: {   \"generation_request\": {     \"meta_data\": {       \"t",
+      "author": {
+        "@type": "Person",
+        "name": "astronomerozge1",
+        "url": "https://x.com/astronomerozge1"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 23:00:41"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4789,
+      "name": "White wings and a spiked collar 🤍⛓️ Anya Taylor-Joy  Nano Banana Pro Prompt: {   \"meta\": {     \"asp",
+      "author": {
+        "@type": "Person",
+        "name": "Lunakuzu",
+        "url": "https://x.com/Lunakuzu"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 22:06:51"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4786,
+      "name": "Nano Banana Pro 🏹 Prompt: {   \"generation_request\": {     \"meta_data\": {       \"task_type\": \"photor",
+      "author": {
+        "@type": "Person",
+        "name": "astronomerozge1",
+        "url": "https://x.com/astronomerozge1"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 22:04:25"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4785,
+      "name": "Nano Banana Pro via Gemini  {   \"prompt\": \"Glamorous Valentine editorial fashion photo, Laufey, eleg",
+      "author": {
+        "@type": "Person",
+        "name": "youngcatwoman",
+        "url": "https://x.com/youngcatwoman"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 22:04:12"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4784,
+      "name": "I have been working on these educational Nano Banana prompts for a while now. This one turned out pr",
+      "author": {
+        "@type": "Person",
+        "name": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "inLanguage": "en",
+      "genre": "other",
+      "dateCreated": "2026-02-09 22:04:00"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4779,
+      "name": "Gemini Nano Banana  Prompt:  {   \"prompt_details\": {     \"subject_appearance\": {       \"ethnicity\": ",
+      "author": {
+        "@type": "Person",
+        "name": "TheAIMuseUS",
+        "url": "https://x.com/TheAIMuseUS"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 22:02:46"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4778,
+      "name": "Sadie Sink As A Baddie 🔥❤️‍🔥  Nano Banana Pro via @SocialSight  Prompt: {   \"prompt_structure\": { ",
       "author": {
         "@type": "Person",
         "name": "xIrissy",
@@ -1068,155 +262,376 @@
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 16:02:30"
+      "dateCreated": "2026-02-09 22:02:39"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4444,
-      "name": "🔥 Magical AI Prompt for [Target: Boys/Girls/Couples/Selfie etc.]  1. Open [Nano Banana / Grok / Cha",
+      "identifier": 4777,
+      "name": "Nano Banana Pro 🎇 @astronomerozge1  Prompt: {   \"generation_request\": {     \"meta_data\": {       \"t",
       "author": {
         "@type": "Person",
-        "name": "imGopalTiwari",
-        "url": "https://x.com/imGopalTiwari"
+        "name": "astronomerozge1",
+        "url": "https://x.com/astronomerozge1"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 16:02:24"
+      "dateCreated": "2026-02-09 22:02:24"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4443,
-      "name": "Create with Gemini Nano Banana Pro . Prompt:   “An intimate, cinematic close-up of a man sitting in ",
+      "identifier": 4776,
+      "name": "Nano Banana Pro @bageldotcom  Prompt: {   \"generation_request\": {     \"meta_data\": {       \"tool\": \"",
       "author": {
         "@type": "Person",
-        "name": "iamrealsnow",
-        "url": "https://x.com/iamrealsnow"
+        "name": "astronomerozge1",
+        "url": "https://x.com/astronomerozge1"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 16:02:19"
+      "dateCreated": "2026-02-09 22:01:59"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4442,
-      "name": "Gemini Nano banana pro PROMPT  Minimalist black silhouette illustration in the classic style of Naji",
+      "identifier": 4775,
+      "name": "Nano Banana Pro (Chocolate Day Special)  Prompt: Ultra-realistic close-up side profile of a smiling ",
       "author": {
         "@type": "Person",
-        "name": "bewisetojudge_",
-        "url": "https://x.com/bewisetojudge_"
+        "name": "rorschachvibes",
+        "url": "https://x.com/rorschachvibes"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 22:01:18"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4774,
+      "name": "The questions he asks Three feet away What would it be like I wonder This cacophony of building enta",
+      "author": {
+        "@type": "Person",
+        "name": "Bluesquarepanda",
+        "url": "https://x.com/Bluesquarepanda"
+      },
+      "inLanguage": "en",
+      "genre": "abstract",
+      "dateCreated": "2026-02-09 21:01:49"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4773,
+      "name": "Nano Banana Pro @bageldotcom  🍱 Prompt: {   \"generation_request\": {     \"meta_data\": {       \"tool\"",
+      "author": {
+        "@type": "Person",
+        "name": "astronomerozge1",
+        "url": "https://x.com/astronomerozge1"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 21:01:19"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4772,
+      "name": "Let's spread summer vibes before sleep!🌊🌞 GN sleep well!💫✨  Ana de Armas, Addison Rae and Anya Ta",
+      "author": {
+        "@type": "Person",
+        "name": "KeorUnreal",
+        "url": "https://x.com/KeorUnreal"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 21:01:08"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4771,
+      "name": "Nano Banana Pro 👰‍♂️ Prompt:  {   \"generation_request\": {     \"meta_data\": {       \"task_type\": \"ph",
+      "author": {
+        "@type": "Person",
+        "name": "astronomerozge1",
+        "url": "https://x.com/astronomerozge1"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 21:01:02"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4769,
+      "name": "Nano Banana Pro | Prompt:  A visually arresting, ultra-cinematic, low-angle shot of Pete \"Maverick\" ",
+      "author": {
+        "@type": "Person",
+        "name": "iamdomprompt",
+        "url": "https://x.com/iamdomprompt"
       },
       "inLanguage": "en",
       "genre": "character",
-      "dateCreated": "2026-02-07 16:02:13"
+      "dateCreated": "2026-02-09 21:00:49"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4441,
-      "name": "Gemini Nano Banana Pro  Queen energy only 👑 Billie Eilish & Sydney Sweeney  Prompt: {   \"image_type",
+      "identifier": 4768,
+      "name": "Brand system mockups   Prompt:   “Create the identity system one by one. Use 10 high-quality mockups",
       "author": {
         "@type": "Person",
-        "name": "xmliisu",
-        "url": "https://x.com/xmliisu"
+        "name": "botmetryx",
+        "url": "https://x.com/botmetryx"
+      },
+      "inLanguage": "en",
+      "genre": "product",
+      "dateCreated": "2026-02-09 20:13:17"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4767,
+      "name": "Ariana Grande w/ Nano Banana Pro  {   \"vibe_title_en\": \"Zero-G Laundromat\",   \"master_prompt\": \"A ci",
+      "author": {
+        "@type": "Person",
+        "name": "timedoctor_nft",
+        "url": "https://x.com/timedoctor_nft"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 16:01:01"
+      "dateCreated": "2026-02-09 20:09:14"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4440,
-      "name": "Sometimes the best view is the one you leave behind. 🌊✨  Polina Gagarina 📸  Gemini Nano Banana Pro",
+      "identifier": 4766,
+      "name": "SUBMIT YOUR PHOTO IN NANO BANANA PRO (TWINS) AND GET THIS PROMPT  👇 👇 👇  Keeping the person's fea",
       "author": {
         "@type": "Person",
-        "name": "JadoonKhan281",
-        "url": "https://x.com/JadoonKhan281"
+        "name": "nextstepst",
+        "url": "https://x.com/nextstepst"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 16:00:53"
+      "dateCreated": "2026-02-09 20:07:28"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4439,
-      "name": "Gemini Nano Banana Pro   Sadie Sink rocking the ultimate Y2K vibe  Prompt:  {   \"subject_profile\": {",
+      "identifier": 4765,
+      "name": "Nano Banana Pro | Prompt:  {  \"image_type\": \"Lifestyle Photography\", \"shot\": \"Mirror Selfie\", \"shot_",
       "author": {
         "@type": "Person",
-        "name": "rowanali09",
-        "url": "https://x.com/rowanali09"
+        "name": "iamdomprompt",
+        "url": "https://x.com/iamdomprompt"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 16:00:50"
+      "dateCreated": "2026-02-09 20:05:09"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4438,
-      "name": "Prompt day 5: PFP pencil drawing  Nano Banana Prompt: Photorealistic artistic rendering of character",
+      "identifier": 4764,
+      "name": "Desert Oasis Diorama  Image made with Nano Banana Pro Animated with Kling 2.6  Image Prompt [Subject",
       "author": {
         "@type": "Person",
-        "name": "0xKiriKev",
-        "url": "https://x.com/0xKiriKev"
+        "name": "artingent",
+        "url": "https://x.com/artingent"
+      },
+      "inLanguage": "en",
+      "genre": "landscape",
+      "dateCreated": "2026-02-09 20:04:28"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4758,
+      "name": "Nano Banana Pro via Freepik  {   \"image_generation_prompt\": {     \"subject\": {       \"description\": ",
+      "author": {
+        "@type": "Person",
+        "name": "youngcatwoman",
+        "url": "https://x.com/youngcatwoman"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 16:00:43"
+      "dateCreated": "2026-02-09 18:04:29"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4435,
-      "name": "🔥 AI SIDE HUSTLE MOTIVATION – Nano banana pro prompt  {  \"scene\": \"Nomad at cafe in Lisbon, screen ",
+      "identifier": 4757,
+      "name": "Nano Banana Pro on @artingai   Try it → https://t.co/sB0PI08bCV  Prompt: A cinematic, hyper-realisti",
       "author": {
         "@type": "Person",
-        "name": "Ravelberger",
-        "url": "https://x.com/Ravelberger"
+        "name": "ChillaiKalan__",
+        "url": "https://x.com/ChillaiKalan__"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 15:01:58"
+      "dateCreated": "2026-02-09 18:04:20"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4434,
-      "name": "Sealed with a kiss.  Or maybe twenty 💋  Nano Banana Pro  Prompt:  Ultra-realistic beauty fashion ed",
+      "identifier": 4756,
+      "name": "Green commuting  1. Open Gemini Nano Banana Pro  2. Upload your image  👉 【City name】 Enter your cit",
       "author": {
         "@type": "Person",
-        "name": "mayadelmare",
-        "url": "https://x.com/mayadelmare"
+        "name": "Rowancn",
+        "url": "https://x.com/Rowancn"
+      },
+      "inLanguage": "en",
+      "genre": "landscape",
+      "dateCreated": "2026-02-09 18:04:15"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4755,
+      "name": "Nano Banana Pro prompt   { A high-fashion European female model seated elegantly on a deep black Eur",
+      "author": {
+        "@type": "Person",
+        "name": "mahivisuals",
+        "url": "https://x.com/mahivisuals"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 15:01:54"
+      "dateCreated": "2026-02-09 18:04:07"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4433,
-      "name": "Billie Eilish   Gemini Nano Banana   Prompt   {   \"subject\": {     \"person\": \"A young woman with fai",
+      "identifier": 4754,
+      "name": "Turn your image to Fragments of Identity  Nano Banana Pro VS Kling 3.0 Omni on OpenArt  AI  Referenc",
       "author": {
         "@type": "Person",
-        "name": "SadiaMalik182",
-        "url": "https://x.com/SadiaMalik182"
+        "name": "doctorwasif",
+        "url": "https://x.com/doctorwasif"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 15:01:49"
+      "dateCreated": "2026-02-09 18:03:58"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4432,
-      "name": "Visualizing duality with Nano Banana Pro. It's kind of a cute style. Not my usual   Prompt: Do this ",
+      "identifier": 4752,
+      "name": "Sip the sunset in a glass, where citrus meets cozy golden hour vibes.  Google Gemini Nano Banana pro",
+      "author": {
+        "@type": "Person",
+        "name": "WealthEmpireHQ",
+        "url": "https://x.com/WealthEmpireHQ"
+      },
+      "inLanguage": "en",
+      "genre": "food",
+      "dateCreated": "2026-02-09 17:04:39"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4751,
+      "name": "Ana de Armas bringing all the elegance to the Opera House balcony 😍  Gemini Nano Banana Pro 😍   { ",
+      "author": {
+        "@type": "Person",
+        "name": "chatgptpaglu",
+        "url": "https://x.com/chatgptpaglu"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 17:04:34"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4750,
+      "name": "big or small ?  Gemini Nano Banana Pro  Prompt:  { \"subject\": { \"demographics\": \"Young female adult,",
+      "author": {
+        "@type": "Person",
+        "name": "itsjessiababy",
+        "url": "https://x.com/itsjessiababy"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 17:04:24"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4749,
+      "name": "Another food prompt. Not as fancy as others but great for videos. Nano Banana + Grok  Prompt:   <ins",
       "author": {
         "@type": "Person",
         "name": "Gdgtify",
         "url": "https://x.com/Gdgtify"
       },
       "inLanguage": "en",
-      "genre": "product",
-      "dateCreated": "2026-02-07 15:01:44"
+      "genre": "food",
+      "dateCreated": "2026-02-09 17:04:02"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4431,
-      "name": "Gemini Nano Banana Pro:  Sydney Sweeney  Sadie sink and Ana de Armas style 🔥   Prompt:   {     \"tas",
+      "identifier": 4748,
+      "name": "Prompt:  (access Nano Banana here: https://t.co/EY9xacrmOP)   [BRAND NAME]. Act as a Social Media Ar",
+      "author": {
+        "@type": "Person",
+        "name": "AmirMushich",
+        "url": "https://x.com/AmirMushich"
+      },
+      "inLanguage": "en",
+      "genre": "product",
+      "dateCreated": "2026-02-09 17:03:49"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4747,
+      "name": "1. Open Gemini nano banana  2. Upload your image  3. Paste this prompt   {   \"prompt\": \"Ultra-realis",
+      "author": {
+        "@type": "Person",
+        "name": "r4jjesh",
+        "url": "https://x.com/r4jjesh"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 17:03:34"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4746,
+      "name": "Gemini Nano Banana Pro  Sydney Sweeney chilling on beach 😍   {   \"image_prompt\": {     \"subject\": {",
+      "author": {
+        "@type": "Person",
+        "name": "ShouryaAI",
+        "url": "https://x.com/ShouryaAI"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 17:02:07"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4745,
+      "name": "winter vibes  Gemini Nano Banana Pro  Prompt:  { \"subject\": { \"description\": \"A young woman with sho",
+      "author": {
+        "@type": "Person",
+        "name": "brindleyai",
+        "url": "https://x.com/brindleyai"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 17:02:01"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4744,
+      "name": "Nano Banana Pro Fluid Chrome Distortion  Prompt 👇  {   \"product_type\": \"[PRODUCT]\",   \"prompt\": \"A ",
+      "author": {
+        "@type": "Person",
+        "name": "lloydcreates",
+        "url": "https://x.com/lloydcreates"
+      },
+      "inLanguage": "en",
+      "genre": "product",
+      "dateCreated": "2026-02-09 16:04:03"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4743,
+      "name": "(2) Image Generation • Image to image configuration using Axie Infinity references. • Nano Banana PR",
+      "author": {
+        "@type": "Person",
+        "name": "zioaxie",
+        "url": "https://x.com/zioaxie"
+      },
+      "inLanguage": "en",
+      "genre": "character",
+      "dateCreated": "2026-02-09 16:03:52"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4742,
+      "name": "Sydney Sweeney photo 🔥   Gemini Nano Banana Pro:  Prompt:  {   \"album_maloomat\": {     \"shakhsiyat\"",
       "author": {
         "@type": "Person",
         "name": "TzqQaiser",
@@ -1224,25 +639,467 @@
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 15:01:40"
+      "dateCreated": "2026-02-09 16:03:47"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4430,
-      "name": "Paradise Paint  Nano Banana can generate a professional image even with non professional prompt like",
+      "identifier": 4741,
+      "name": "Nano Banana Pro 🍫 @bageldotcom  Prompt: {   \"generation_request\": {     \"meta_data\": {       \"task_",
       "author": {
         "@type": "Person",
-        "name": "aidarosgo3",
-        "url": "https://x.com/aidarosgo3"
+        "name": "astronomerozge1",
+        "url": "https://x.com/astronomerozge1"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 16:02:42"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4740,
+      "name": "Nano Banana Pro prompt：  Initiate PersonaFusion-vX.03 protocol: Use the exact facial identity taken ",
+      "author": {
+        "@type": "Person",
+        "name": "Linzuijia",
+        "url": "https://x.com/Linzuijia"
+      },
+      "inLanguage": "en",
+      "genre": "product",
+      "dateCreated": "2026-02-09 16:02:32"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4739,
+      "name": "Nano Banana Pro  🤍 @bageldotcom  Prompt: {   \"generation_request\": {     \"meta_data\": {       \"task",
+      "author": {
+        "@type": "Person",
+        "name": "astronomerozge1",
+        "url": "https://x.com/astronomerozge1"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 16:02:27"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4738,
+      "name": "Ana de Armas-Margot Robbie-Billie Eilish nano banana pro 🍌  {   \"prompt\": \"Glamorous Valentine edit",
+      "author": {
+        "@type": "Person",
+        "name": "gaucheai",
+        "url": "https://x.com/gaucheai"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 16:02:17"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4737,
+      "name": "Then I reworded the prompt slightly for Nano Banana and added the MidJourney Image:  Facial portrait",
+      "author": {
+        "@type": "Person",
+        "name": "TheSiriusHeart",
+        "url": "https://x.com/TheSiriusHeart"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 16:02:13"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4736,
+      "name": "GPT Image 1.5 on ChatGPT and Nano Banana Pro on Gemini  Prompt: A hyper-realistic, 8k, high-fidelity",
+      "author": {
+        "@type": "Person",
+        "name": "Sheldon056",
+        "url": "https://x.com/Sheldon056"
+      },
+      "inLanguage": "en",
+      "genre": "product",
+      "dateCreated": "2026-02-09 16:01:00"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4735,
+      "name": "Nano banana pro - ready prompt  {   “subject”: {     “description”: “An ultra-realistic vertical pho",
+      "author": {
+        "@type": "Person",
+        "name": "Ravelberger",
+        "url": "https://x.com/Ravelberger"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 16:00:56"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4734,
+      "name": "Image and the newspaper edition of it using Google Gemini Nano Banana   Prompt   Convert this into a",
+      "author": {
+        "@type": "Person",
+        "name": "tweetbyfurkan",
+        "url": "https://x.com/tweetbyfurkan"
       },
       "inLanguage": "en",
       "genre": "landscape",
-      "dateCreated": "2026-02-07 15:01:35"
+      "dateCreated": "2026-02-09 16:00:42"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4429,
-      "name": "Google Nano Banana Pro 🍌   Prompt:- Hyper-realistic cinematic product photograph of a classic Fanta",
+      "identifier": 4733,
+      "name": "Gemini Nano Banana Pro   Prompt: {   \"prompt_description\": {     \"subject\": {       \"type\": \"Young w",
+      "author": {
+        "@type": "Person",
+        "name": "No_Way_1",
+        "url": "https://x.com/No_Way_1"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 15:03:11"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4732,
+      "name": "Whole worlds nestled in the gears of time. A reminder that every second holds a city of stories  Gem",
+      "author": {
+        "@type": "Person",
+        "name": "Naiknelofar788",
+        "url": "https://x.com/Naiknelofar788"
+      },
+      "inLanguage": "en",
+      "genre": "architecture",
+      "dateCreated": "2026-02-09 15:03:01"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4731,
+      "name": "Nano banana pro 🍌   POV: Brands can’t tell if your UGC is real or AI anymore  Created via @ImagineA",
+      "author": {
+        "@type": "Person",
+        "name": "sumiturkude007",
+        "url": "https://x.com/sumiturkude007"
+      },
+      "inLanguage": "en",
+      "genre": "product",
+      "dateCreated": "2026-02-09 15:02:54"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4729,
+      "name": "Nano Banana Pro  {   \"image_generation_prompt\": {     \"subject\": {       \"description\": \"The K-pop g",
+      "author": {
+        "@type": "Person",
+        "name": "youngcatwoman",
+        "url": "https://x.com/youngcatwoman"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 14:04:14"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4728,
+      "name": "Nano Banana Pro 🍌   Prompt share 👇  { \"meta\": { \"purpose\": \"High-fashion cyberpunk portrait for ed",
+      "author": {
+        "@type": "Person",
+        "name": "ai_with_shah",
+        "url": "https://x.com/ai_with_shah"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 14:04:09"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4727,
+      "name": "Gemini Nano Banana Pro  Prompt: {   \"image_analysis\": {     \"subject_pose_correction\": {       \"body",
+      "author": {
+        "@type": "Person",
+        "name": "lexx_aura",
+        "url": "https://x.com/lexx_aura"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 14:04:00"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4726,
+      "name": "I love visualizing inventions with Nano Banana. Here is the prompt:    Do this for Wright Brothers: ",
+      "author": {
+        "@type": "Person",
+        "name": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "inLanguage": "en",
+      "genre": "architecture",
+      "dateCreated": "2026-02-09 14:03:52"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4725,
+      "name": "Armor On. Fear Off.  Ana De Armas and me (Alice)  Nano Banana Pro  🍌  Prompt:  \"Ultra-realistic stu",
+      "author": {
+        "@type": "Person",
+        "name": "aliceglassierai",
+        "url": "https://x.com/aliceglassierai"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 14:03:45"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4724,
+      "name": "Style, glamour and beauty!💗🌟  Sydney Sweeney 😍  Nano Banana Pro via Hailuo AI Prompt:  {   \"style",
+      "author": {
+        "@type": "Person",
+        "name": "KeorUnreal",
+        "url": "https://x.com/KeorUnreal"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 14:03:40"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4723,
+      "name": "Gemini Nano banana pro   {   \"image_generation_prompt\": {     \"subject_composition\": {       \"type\":",
+      "author": {
+        "@type": "Person",
+        "name": "Cicily_aura",
+        "url": "https://x.com/Cicily_aura"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 14:01:23"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4722,
+      "name": "Google Gemini nano banana ai image.   The Prompt : ​A high-fashion cinematic portrait of a young wom",
+      "author": {
+        "@type": "Person",
+        "name": "iamsofiaijaz",
+        "url": "https://x.com/iamsofiaijaz"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 14:01:14"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4721,
+      "name": "Stranger Things actress Sadie Sink and Millie Bobby Brown behind the scenes photo style ✨  Gemini Na",
+      "author": {
+        "@type": "Person",
+        "name": "Flora_Janer8",
+        "url": "https://x.com/Flora_Janer8"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 14:01:10"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4720,
+      "name": "Nano Banana pro on Gemini   Prompt: Ultra-realistic corporate lifestyle portrait of a professional m",
+      "author": {
+        "@type": "Person",
+        "name": "Taaruk_",
+        "url": "https://x.com/Taaruk_"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 14:01:06"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4717,
+      "name": "Nano Banana Pro | Prompt:  { \"image_type\": \"Fashion Editorial Portrait\", \"shot\": \"Medium Shot\", \"sho",
+      "author": {
+        "@type": "Person",
+        "name": "iamdomprompt",
+        "url": "https://x.com/iamdomprompt"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 13:02:52"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4716,
+      "name": "The face becomes a living cultural canvas, ornament as identity.  Nano Banana Pro Prompt: Close up c",
+      "author": {
+        "@type": "Person",
+        "name": "babymemexx",
+        "url": "https://x.com/babymemexx"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 13:02:36"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4715,
+      "name": "Nano Banana Pro on @SocialSight   Prompt: Ultra-realistic, photorealistic cinematic portrait of Dona",
+      "author": {
+        "@type": "Person",
+        "name": "rovvmut_",
+        "url": "https://x.com/rovvmut_"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 13:01:23"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4714,
+      "name": "Nano Banana Pro On @SocialSight   Prompt: A hyper-realistic, cinematic portrait of the uploaded man ",
+      "author": {
+        "@type": "Person",
+        "name": "ChillaiKalan__",
+        "url": "https://x.com/ChillaiKalan__"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 13:01:18"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4713,
+      "name": "Google Gemini Nano Banana pro 3.0  Prompt  {   \"scene\": {     \"type\": \"cinematic 3D photorealistic\",",
+      "author": {
+        "@type": "Person",
+        "name": "WealthEmpireHQ",
+        "url": "https://x.com/WealthEmpireHQ"
+      },
+      "inLanguage": "en",
+      "genre": "character",
+      "dateCreated": "2026-02-09 13:00:40"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4706,
+      "name": "Here is a fun world mashup prompt for Nano Banana that can be used for trippy videos.   Prompt: <ins",
+      "author": {
+        "@type": "Person",
+        "name": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "inLanguage": "en",
+      "genre": "landscape",
+      "dateCreated": "2026-02-09 12:01:25"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4705,
+      "name": "Margot Robbie - Gemini Nano Banana Pro  Prompt: {   \"vibe_title_en\": \"Synthetic Tradition Portrait\",",
+      "author": {
+        "@type": "Person",
+        "name": "timedoctor_nft",
+        "url": "https://x.com/timedoctor_nft"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 12:01:19"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4704,
+      "name": "1. Open Grok / Nano Banana   2. Paste this Magical Prompt   \"Ultra-realistic luxury Valentine’s Choc",
+      "author": {
+        "@type": "Person",
+        "name": "imGopalTiwari",
+        "url": "https://x.com/imGopalTiwari"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 12:01:12"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4703,
+      "name": "Gemini Nano Banana Pro:  Sydney Sweeney  Ana De Armas and Sadie sink   Prompt:  [   {     \"file_name",
+      "author": {
+        "@type": "Person",
+        "name": "TzqQaiser",
+        "url": "https://x.com/TzqQaiser"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 12:01:06"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4702,
+      "name": "Nano banana Pro on higgsfield  Prompt { \"subject\": { \"description\": \"A young Asian woman taking a hi",
+      "author": {
+        "@type": "Person",
+        "name": "saniaspeaks_",
+        "url": "https://x.com/saniaspeaks_"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 12:00:53"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4701,
+      "name": "Create with Nano Banana pro In Gemini App. . Prompt: .  {   \"campaign_metadata\": {     \"brand_identi",
+      "author": {
+        "@type": "Person",
+        "name": "iamrealsnow",
+        "url": "https://x.com/iamrealsnow"
+      },
+      "inLanguage": "en",
+      "genre": "product",
+      "dateCreated": "2026-02-09 12:00:42"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4695,
+      "name": "Gemini nano banana pro 3.0  Prompt: A breathtaking young woman in her early twenties with long, silk",
+      "author": {
+        "@type": "Person",
+        "name": "Ai_aylinfc",
+        "url": "https://x.com/Ai_aylinfc"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 11:01:37"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4694,
+      "name": "#PromptShare #AIart  Humanoid Mech Generator  Created with Nano Banana Pro on @mitte_ai   Prompt: De",
+      "author": {
+        "@type": "Person",
+        "name": "aimikoda",
+        "url": "https://x.com/aimikoda"
+      },
+      "inLanguage": "en",
+      "genre": "character",
+      "dateCreated": "2026-02-09 11:01:06"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4693,
+      "name": "Convert your romantic moment that is lost to time into a professional-grade portrait that honors eve",
+      "author": {
+        "@type": "Person",
+        "name": "doctorwasif",
+        "url": "https://x.com/doctorwasif"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 11:01:02"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4692,
+      "name": "Impact frozen at its peak with Google Veo 3.1 + Nano Banana Pro  Prompt: {   \"image_type\": \"photogra",
       "author": {
         "@type": "Person",
         "name": "Strength04_X",
@@ -1250,25 +1107,12 @@
       },
       "inLanguage": "en",
       "genre": "product",
-      "dateCreated": "2026-02-07 15:01:30"
+      "dateCreated": "2026-02-09 11:00:58"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4428,
-      "name": "Gemini Nano Banana Pro  Prompt👇👇  Create a 8k hd ultra realistic picture of reference uploaded pic",
-      "author": {
-        "@type": "Person",
-        "name": "psworldvibes",
-        "url": "https://x.com/psworldvibes"
-      },
-      "inLanguage": "en",
-      "genre": "portrait",
-      "dateCreated": "2026-02-07 15:01:26"
-    },
-    {
-      "@type": "CreativeWork",
-      "identifier": 4427,
-      "name": "Nano Banana Pro on Gemini App and GPT Image 1.5  Prompt;  {   \"resolution\": \"8K ultra-HD\",   \"aspect",
+      "identifier": 4691,
+      "name": "Google Nano Banana Pro on Gemini App and Grok Imagine 1.0  Prompt;  A single ripe cherry suspended i",
       "author": {
         "@type": "Person",
         "name": "john_my07",
@@ -1276,46 +1120,202 @@
       },
       "inLanguage": "en",
       "genre": "food",
-      "dateCreated": "2026-02-07 15:01:21"
+      "dateCreated": "2026-02-09 11:00:51"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4426,
-      "name": "Gemini Nano Banana Pro  Prompt👇👇  Create a 8k hd ultra realistic picture of reference uploaded pic",
+      "identifier": 4690,
+      "name": "Google Gemini Nano Banana Pro   Prompt:  Ultra-realistic cinematic studio portrait of a stylish man ",
       "author": {
         "@type": "Person",
-        "name": "psworldvibes",
-        "url": "https://x.com/psworldvibes"
+        "name": "Kashberg_0",
+        "url": "https://x.com/Kashberg_0"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 15:01:14"
+      "dateCreated": "2026-02-09 11:00:46"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4425,
-      "name": "Sadie Sink, Billie Eilish, Sydney Sweeney and Kat Dennings  Nano Banana Pro  Prompt: {    \"scene_typ",
+      "identifier": 4689,
+      "name": "#NanoBananaPro @GoogleAI   \"Bağlamsal Kayma\"  Görsel: Nano Banana Pro  Prompt: \"İstanbul'un kalabalı",
       "author": {
         "@type": "Person",
-        "name": "JustBethanyai",
-        "url": "https://x.com/JustBethanyai"
+        "name": "kazimtaskin",
+        "url": "https://x.com/kazimtaskin"
+      },
+      "inLanguage": "tr",
+      "genre": "landscape",
+      "dateCreated": "2026-02-09 11:00:42"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4683,
+      "name": "Like a glass of fine wine 🍷 🔥  Gemini Nano Banana Pro  Prompt:  {   \"image\": {     \"type\": \"photog",
+      "author": {
+        "@type": "Person",
+        "name": "tabu_8114",
+        "url": "https://x.com/tabu_8114"
       },
       "inLanguage": "en",
       "genre": "portrait",
-      "dateCreated": "2026-02-07 15:01:09"
+      "dateCreated": "2026-02-09 10:01:41"
     },
     {
       "@type": "CreativeWork",
-      "identifier": 4424,
-      "name": "People confuse him for a tech genius. He wasn't. He was a taste genius. That distinction is the whol",
+      "identifier": 4682,
+      "name": "Kling AI + Nano Banana Pro delivering realism so clean it forgets it’s AI  Prompt: {   \"image_type\":",
       "author": {
         "@type": "Person",
-        "name": "Dheepanratnam",
-        "url": "https://x.com/Dheepanratnam"
+        "name": "Strength04_X",
+        "url": "https://x.com/Strength04_X"
+      },
+      "inLanguage": "en",
+      "genre": "food",
+      "dateCreated": "2026-02-09 10:01:23"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4681,
+      "name": "Whimsical Illustrations  Gemini Nano Banana Pro Prompt:  “Create a whimsical, playful illustration f",
+      "author": {
+        "@type": "Person",
+        "name": "aleenaamiir",
+        "url": "https://x.com/aleenaamiir"
+      },
+      "inLanguage": "en",
+      "genre": "character",
+      "dateCreated": "2026-02-09 10:01:15"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4680,
+      "name": "Sadie Sink And Millie Bobby Brown   Gemini Nano Banana Pro   Prompt 👇   {   \"scene_description\": \"A",
+      "author": {
+        "@type": "Person",
+        "name": "SadiaMalik182",
+        "url": "https://x.com/SadiaMalik182"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 10:01:11"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4679,
+      "name": "@BeanieBlossom Coffee art Gemini Nano banana pro prompt  \"Abstract microscopic view of living coffee",
+      "author": {
+        "@type": "Person",
+        "name": "bewisetojudge_",
+        "url": "https://x.com/bewisetojudge_"
+      },
+      "inLanguage": "en",
+      "genre": "food",
+      "dateCreated": "2026-02-09 10:01:06"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4678,
+      "name": "@BeanieBlossom Coffee art Gemini Nano banana pro prompt  \"Abstract microscopic view of living coffee",
+      "author": {
+        "@type": "Person",
+        "name": "bewisetojudge_",
+        "url": "https://x.com/bewisetojudge_"
+      },
+      "inLanguage": "en",
+      "genre": "abstract",
+      "dateCreated": "2026-02-09 10:01:02"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4677,
+      "name": "Royal look on  with nano banana by Gemini.   Prompt:  A refined, handsome man with neatly styled dar",
+      "author": {
+        "@type": "Person",
+        "name": "iamsofiaijaz",
+        "url": "https://x.com/iamsofiaijaz"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 10:00:40"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4666,
+      "name": "good morning  Gemini Nano Banana Pro  Prompt:  { \"subject\": { \"description\": \"Young woman with an at",
+      "author": {
+        "@type": "Person",
+        "name": "brindleyai",
+        "url": "https://x.com/brindleyai"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 09:01:12"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4665,
+      "name": "Nano Banana Pro vs GPT Image 1.5  Prompt: An astronaut standing on a beach of white volcanic sand, f",
+      "author": {
+        "@type": "Person",
+        "name": "junwatu",
+        "url": "https://x.com/junwatu"
+      },
+      "inLanguage": "en",
+      "genre": "landscape",
+      "dateCreated": "2026-02-09 09:01:00"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4664,
+      "name": "Nano Banana pro image generation   Prompt: Ultra-realistic fine-art portrait of a young woman with s",
+      "author": {
+        "@type": "Person",
+        "name": "Taaruk_",
+        "url": "https://x.com/Taaruk_"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 09:00:52"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4663,
+      "name": "Sydney Sweeney  Ana De Armas and Billie Eilish  To 🔥 hot 🥵   Gemini Nano Banana pro:  Prompt:  [  ",
+      "author": {
+        "@type": "Person",
+        "name": "TzqQaiser",
+        "url": "https://x.com/TzqQaiser"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 09:00:47"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4648,
+      "name": "Image on Gemini Nano Banana   Prompt: {   \"subject\": {     \"gender\": \"Female\",     \"appearance\": \"So",
+      "author": {
+        "@type": "Person",
+        "name": "Minahil42298354",
+        "url": "https://x.com/Minahil42298354"
+      },
+      "inLanguage": "en",
+      "genre": "portrait",
+      "dateCreated": "2026-02-09 08:00:42"
+    },
+    {
+      "@type": "CreativeWork",
+      "identifier": 4646,
+      "name": "Images made on @SocialSight using Nano Banana Pro and GPT model  Can you guess which image is from w",
+      "author": {
+        "@type": "Person",
+        "name": "AIwithSynthia",
+        "url": "https://x.com/AIwithSynthia"
       },
       "inLanguage": "en",
       "genre": "product",
-      "dateCreated": "2026-02-07 15:01:01"
+      "dateCreated": "2026-02-09 07:33:46"
     }
   ]
 }
