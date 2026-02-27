@@ -1,5 +1,237 @@
 [
   {
+    "id": 6158,
+    "title": "Prompt for Nano Banana 🍌 : I want to wash my car. The automated car wash is 50 meters away. Should ",
+    "prompt": "I want to wash my car. The automated car wash is 50 meters away. Should I walk or drive to get my car washed? Please create me a visual diagram showing pros and cons of walk vs drive with a final verdict. Thanks!",
+    "author": "mitanshu",
+    "author_url": "https://x.com/mitanshu",
+    "source_url": "https://x.com/mitanshu/status/2027189852328923426",
+    "images": [
+      "https://pbs.twimg.com/media/HCIGbQXW8AAg1b5.jpg"
+    ],
+    "language": "en",
+    "category": "other",
+    "tags": [
+      "visual diagram",
+      "car wash",
+      "pros and cons",
+      "decision making"
+    ],
+    "style": "minimalist",
+    "description": null,
+    "created_at": "2026-02-27 02:04:12"
+  },
+  {
+    "id": 6157,
+    "title": "Nano Banana 2 on Google Gemini   Prompt: Hyper-realistic, cinematic portrait of a stylish person in ",
+    "prompt": "Hyper-realistic, cinematic portrait of a stylish person in a cool side-profile pose, looking back over their shoulder. One hand is raised, gripping the lapel near the chest. The image features dramatic, dual-tone studio lighting: an intense blue rim light outlining the back and arm, contrasting with a red edge light highlighting the face and sunglasses. The background is pitch black, creating high contrast. The style is commercial fashion photography with 8K resolution.",
+    "author": "ChillaiKalan__",
+    "author_url": "https://x.com/ChillaiKalan__",
+    "source_url": "https://x.com/ChillaiKalan__/status/2027193329692356909",
+    "images": [
+      "https://pbs.twimg.com/media/HCIJljHbgAEYjwF.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "hyper-realistic",
+      "dual-tone lighting",
+      "fashion photography",
+      "side-profile",
+      "8K resolution"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-02-27 02:03:02"
+  },
+  {
+    "id": 6156,
+    "title": "Create Gemini Nano Banana 2  .  Prompt: . A gritty, intense portrait of a man, a friend of real lion",
+    "prompt": "A gritty, intense portrait of a man, a friend of real lion, captured in a raw, hyper-realistic style. The background is a textured, neutral concrete wall, keeping the environment simple and industrial. Lighting is soft and diffuse, provided by a large octagon softbox, mimicking overcast daylight. The camera is a Canon EOS R5 with an 85mm f/1.2 lens. The subject, with the [face from reference image], is forehead-to-forehead with the lion, displaying a deep bond. He wears a distressed leather motorcycle jacket and a white t-shirt, embracing a classic rebel aesthetic. The 8K image captures the pores on his skin and the coarse individual hairs of the lion's mane. The HDR aesthetic ensures vibrant colors and deep shadows, making the image feel three-dimensional and alive.",
+    "author": "iamrealsnow",
+    "author_url": "https://x.com/iamrealsnow",
+    "source_url": "https://x.com/iamrealsnow/status/2027193518708662672",
+    "images": [
+      "https://pbs.twimg.com/media/HCIJwJebkAAbsi4.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "hyper-realistic",
+      "lion",
+      "man",
+      "8K",
+      "cinematic lighting"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-02-27 02:02:55"
+  },
+  {
+    "id": 6155,
+    "title": "El mejor prompt de Nano Banana 2 para crear un degradado chrome de cualquier objeto. 🍌✨  Nivel: ren",
+    "prompt": "Nivel: render publicitario 8K.\nFondo negro infinito.\nProducto flotando al centro.\nObsidiana anodizada + chrome líquido.\nIluminación rim dura y alto contraste.",
+    "author": "FutureToolsAI",
+    "author_url": "https://x.com/FutureToolsAI",
+    "source_url": "https://x.com/FutureToolsAI/status/2027196135740162412",
+    "images": [
+      "https://pbs.twimg.com/media/HCILuXLWYAAU9OR.jpg"
+    ],
+    "language": "es",
+    "category": "product",
+    "tags": [
+      "render publicitario",
+      "chrome líquido",
+      "fondo negro",
+      "obsidiana",
+      "iluminación rim"
+    ],
+    "style": "3d",
+    "description": null,
+    "created_at": "2026-02-27 02:02:35"
+  },
+  {
+    "id": 6154,
+    "title": "prompt to test at @grok or any ai image generator, I used Nano banana 2 at Hailuo   ✨Glass 3D cat si",
+    "prompt": "✨Glass 3D cat silhouette with rounded proportions standing in a dreamy flower meadow. Soft pastel flowers surround the figure with slight natural randomness. Minor surface distortions in the glass catch the light. Shot at a cinematic mid distance angle. Soft morning lighting. Glass reflections add depth. Whimsical feminine atmosphere.",
+    "author": "AiMeowing",
+    "author_url": "https://x.com/AiMeowing",
+    "source_url": "https://x.com/AiMeowing/status/2027197099528310849",
+    "images": [
+      "https://pbs.twimg.com/media/HCIM5NYXEAA_fH9.jpg"
+    ],
+    "language": "en",
+    "category": "animal",
+    "tags": [
+      "glass 3D cat",
+      "flower meadow",
+      "soft morning lighting",
+      "cinematic",
+      "whimsical"
+    ],
+    "style": "3d",
+    "description": null,
+    "created_at": "2026-02-27 02:02:29"
+  },
+  {
+    "id": 6153,
+    "title": "Nano Banana Pro on @hedra_labs   prompt  use the same face rom the reference image without changing ",
+    "prompt": "use the same face rom the reference image without changing facial features. A massive oversized jar of MYBPB Pure Peanut Butter Powder dramatically strapped and taped with huge gray duct tape across a modern glass skyscraper in a big city downtown, the giant jar floating and attached high up on the building facade between tall reflective blue-glass towers, crowded busy street below filled with hundreds of excited people looking up in awe, many taking photos with smartphones raised, some pointing, urban crowd in winter jackets and coats, dramatic daylight with partly cloudy blue sky, realistic advertising stunt style, surreal giant product installation, highly detailed jar label with text “MYBPB® PURE PEANUT BUTTER POWDER”, “100% Peanuts, Nothing Else!”, “2x Protein”, “80% less calories”, “No added sugar & palm oil”, red lid, white jar with green and brown accents, peanut illustrations, photorealistic, cinematic composition, wide angle shot from street level looking up, epic scale, sharp focus, ultra detailed, 8k, confident western woman in the foreground dressed in a stylish beige trench coat and sunglasses, holding a MYBPB jar in one hand and pointing up at the giant installation with a bold smile, wind blowing her hair slightly, strong advertising pose, brand ambassador energy, positioned slightly off-center for dynamic composition, premium commercial campaign vibe",
+    "author": "Just_sharon7",
+    "author_url": "https://x.com/Just_sharon7",
+    "source_url": "https://x.com/Just_sharon7/status/2027199189416112216",
+    "images": [
+      "https://pbs.twimg.com/media/HCIO5LVXYAA4R6K.png"
+    ],
+    "language": "en",
+    "category": "product",
+    "tags": [
+      "advertising stunt",
+      "giant product",
+      "urban skyscraper",
+      "photorealistic",
+      "brand ambassador"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-02-27 02:02:18"
+  },
+  {
+    "id": 6152,
+    "title": "Nano Banana pro on Gemini   Prompt: {   \"product_advertisement\": {     \"composition\": {       \"style",
+    "prompt": "{\n  \"product_advertisement\": {\n    \"composition\": {\n      \"style\": \"Clean, modern, commercial food photography\",\n      \"arrangement\": \"Symmetrical composition, advertising layout\",\n      \"background\": \"High-key, minimal white studio pedestal\"\n    },\n    \"central_element\": {\n      \"item\": \"Vibrant fruit smoothie\",\n      \"container\": \"Transparent glass\",\n      \"details\": {\n        \"texture\": \"Rich layered, visible fruit seeds, creamy blending\",\n        \"reflections\": \"Glossy glass reflections\"\n      }\n    },\n    \"dynamic_elements\": {\n      \"action\": \"Fruits floating dynamically in mid-air\",\n      \"fruit_types\": [\n        \"Strawberries\",\n        \"Kiwi slices\",\n        \"Mango chunks\",\n        \"Blueberries\",\n        \"Orange slices\"\n      ],\n      \"effect\": \"Fresh and energetic composition\"\n    },\n    \"infographics\": {\n      \"style\": \"Minimal, clean UI-style, circular icons, soft shadows\",\n      \"typography\": \"Modern typography\",\n      \"labels\": [\n        {\n          \"text\": \"Fresh Ingredients\",\n          \"description\": \"Benefits label\"\n        },\n        {\n          \"text\": \"Vitamin C\",\n          \"description\": \"Benefits label\"\n        },\n        {\n          \"text\": \"Hydrating\",\n          \"description\": \"Benefits label\"\n        },\n        {\n          \"text\": \"Natural Sweetness\",\n          \"description\": \"Benefits label\"\n        },\n        {\n          \"text\": \"Fiber Rich\",\n          \"description\": \"Benefits label\"\n        },\n        {\n          \"text\": \"No Artificial Flavors\",\n          \"description\": \"Benefits label\"\n       \n    },\n    \"technical_specs\": {\n      \"lighting\": \"Soft studio lighting\",\n      \"shadows\": \"Subtle shadows\",\n      \"texture_quality\": \"Ultra-realistic textures\",\n      \"resolution\": \"8K\"\n    }",
+    "author": "Taaruk_",
+    "author_url": "https://x.com/Taaruk_",
+    "source_url": "https://x.com/Taaruk_/status/2027176722958016816",
+    "images": [
+      "https://pbs.twimg.com/media/HCH6e40aAAAO0UU.jpg",
+      "https://pbs.twimg.com/media/HCH6e4jbEAAg_xO.jpg"
+    ],
+    "language": "en",
+    "category": "product",
+    "tags": [
+      "fruit smoothie",
+      "commercial photography",
+      "floating fruits",
+      "infographics",
+      "8K resolution"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-02-27 01:03:35"
+  },
+  {
+    "id": 6151,
+    "title": "Google Nano Banana 2 vs Nano Banana Pro on Gemini App.  Prompt;  {   \"master_prompt\": {     \"scene_t",
+    "prompt": "{\n  \"master_prompt\": {\n    \"scene_type\": \"ultra-realistic fitness lifestyle photoshoot\",\n\n    \"subject\": {\n      \"type\": \"male model (same as reference)\",\n      \"expression\": \"focused, confident, determined look\",\n      \"pose\": \"leaning slightly forward with hands resting on knees after a workout set, or standing upright holding dumbbells with strong posture\",\n      \"energy\": \"powerful, disciplined, athletic presence\"\n    },\n\n    \"wardrobe\": {\n      \"top\": \"fitted performance compression t-shirt in charcoal or deep navy\",\n      \"bottom\": \"tapered athletic joggers or structured gym shorts in black\",\n      \"footwear\": \"premium training sneakers in neutral tones\",\n      \"accessories\": \"minimal sports watch, subtle wrist wraps\",\n      \"styling_notes\": \"light natural sweat effect on skin, defined physique emphasis, clean hairstyle\"\n    },\n\n    \"location\": {\n      \"setting\": \"modern high-end gym interior\",\n      \"environment_details\": \"free weights area, matte black dumbbells, squat rack, textured rubber flooring, subtle industrial walls\",\n      \"atmosphere\": \"motivating, premium fitness environment\",\n      \"background_activity\": \"softly blurred gym equipment for depth\"\n    },\n\n    \"lighting\": {\n      \"type\": \"dramatic gym lighting\",\n      \"quality\": \"controlled overhead lighting with directional side highlights\",\n      \"effects\": \"muscle definition shadows, subtle rim light outlining physique, cinematic contrast\",\n      \"mood\": \"intense yet refined\"\n    },\n\n    \"camera\": {\n      \"angle\": \"slightly low angle for strength emphasis\",\n      \"focus\": \"sharp focus on subject’s face and upper body\",\n      \"depth_of_field\": \"shallow depth for editorial sports campaign feel\",\n      \"resolution\": \"8K ultra high-definition\",\n      \"style\": \"luxury athletic brand campaign photography\"\n    },\n\n    \"color_palette\": {\n      \"dominant_colors\": [\"charcoal\", \"black\", \"steel grey\", \"deep navy\"],\n      \"mood\": \"bold, powerful, masculine, premium fitness aesthetic\"\n    }\n  }\n}",
+    "author": "john_my07",
+    "author_url": "https://x.com/john_my07",
+    "source_url": "https://x.com/john_my07/status/2027181951741022416",
+    "images": [
+      "https://pbs.twimg.com/media/HCH_Pc5aEAETO-n.jpg",
+      "https://pbs.twimg.com/media/HCH_PbeaUAAQr7i.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "fitness",
+      "gym",
+      "male model",
+      "athletic",
+      "cinematic"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-02-27 01:01:39"
+  },
+  {
+    "id": 6150,
+    "title": "Age-worn, damaged images can now turn into 4k with just one prompt using Chatgpt. & Its Free 💸  Nan",
+    "prompt": "Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. 4K output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.",
+    "author": "doctorwasif",
+    "author_url": "https://x.com/doctorwasif",
+    "source_url": "https://x.com/doctorwasif/status/2027182831789539789",
+    "images": [
+      "https://pbs.twimg.com/media/HCIACq1bQAEQH9U.jpg",
+      "https://pbs.twimg.com/media/HCIACqRaIAAZsu3.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "restoration",
+      "ultra-realistic",
+      "4K",
+      "high-fidelity",
+      "cinematic lighting"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-02-27 01:01:29"
+  },
+  {
+    "id": 6149,
+    "title": "Balenciaga ♥️ day 10 of building my AI Influencer from scratch  Nano Banana Pro prompt 👇  { \"subjec",
+    "prompt": "{\n\"subject\": {\n\"demographics\": \"Mid-20s woman, elite athletic physique with hyper-pronounced non-normalized hourglass architecture.\",\n\"hair\": \"Wavy brunette-to-blonde ombre, saturated with saltwater, clumping in high-definition wet strands across the shoulders.\",\n\"face\": \"Sun-kissed complexion with light natural makeup; expressive eyes framed by salt-crusted lashes; direct, high-fashion gaze.\",\n\"anatomy\": \"Anatomy focused on soft tissue mass and gravity. Significant natural bust with realistic gravity-dependent displacement toward the torso. Extremely narrow, tapered waist transitioning into hyper-voluminous, wide-set hips and deep lateral gluteal projection. Skin exhibits unfiltered realism: visible pores, epidermal oil sheen from sun exposure, and faint striae (stretch marks) on the curvature of the hips. Thighs possess athletic density, showing natural soft tissue compression against the yacht cushions without artificial firming or digital smoothing.\",\n\"attire\": \"Glossy black liquid-look synthetic one-piece swimsuit. Features aggressive side cutouts exposing the lateral ribcage and the transition to the iliac crest. Fabric exhibits high-specular highlights and tactile tension over the curves.\",\n\"accessories\": \"70mm polished silver hoop earrings; a reflective silver mirror-finish visor with embossed 'BALENCIAGA' block typography.\"\n},\n\"pose\": {\n\"type\": \"Reclining oblique / Sunbathing\",\n\"details\": \"Subject is reclining on her side/back on a yacht deck. Legs are crossed at the calves, elongating the lower body. Left arm is extended back to support the torso, while the right hand rests delicately on the voluminous hip curvature. Head is angled toward the camera.\"\n},\n\"environment\": {\n\"location\": \"Luxury yacht deck in open sapphire-blue Mediterranean water.\",\n\"elements\": \"White upholstered sunpad cushions, polished chrome safety railings, sparkling deep-blue water with high-frequency wave patterns and caustic light reflections.\"\n},\n\"camera\": {\n\"shot_type\": \"Full-body reclining shot\",\n\"focal_length\": \"50mm (Portrait lens to preserve anatomical volume without wide-angle distortion).\",\n\"perspective\": \"Slightly elevated, looking down at the subject to emphasize the hourglass silhouette.\"\n},\n\"lighting\": {\n\"type\": \"Hard zenith sunlight\",\n\"details\": \"Direct high-noon solar illumination creating sharp, high-contrast shadows. Intense specular highlights on the wet skin, metallic visor, and glossy swimsuit fabric.\"\n},\n\"mood_and_expression\": {\n\"vibe\": \"Elite luxury lifestyle, confident, unfiltered glamour.\",\n\"expression\": \"Slightly parted lips, neutral but intense 'editorial' expression.\"\n},\n\"style_and_realism\": {\n\"fidelity\": \"Unfiltered skin texture, website salt-water droplets, realistic soft tissue mass responding to gravity, no artificial lift.\"\n},\n\"colors_and_tone\": {\n\"palette\": \"Deep noir, reflective silver, vibrant sapphire blue, warm sun-drenched golden skin tones.\",\n\"saturation\": \"Vivid and saturated with high tonal contrast.\"\n},\n\"quality_and_technical_details\": {\n\"resolution\": \"8k\",\n\"grain\": \"ISO 100 for clinical clarity.\"\n},\n\"aspect_ratio_and_output\": {\n\"ratio\": \"3:4\"\n},\n\"controlnet\": {\n\"pose_control\": {\n\"model_type\": \"OpenPose\",\n\"purpose\": \"Exact skeletal lock of the reclining limb placement.\",\n\"recommended_weight\": 1.0\n},\n\"depth_control\": {\n\"model_type\": \"MiDaS\",\n\"purpose\": \"Preservation of volumetric depth for the chest and hip curvature against the deck.\",\n\"recommended_weight\": 0.8\n}\n}\n}",
+    "author": "ellas_pics",
+    "author_url": "https://x.com/ellas_pics",
+    "source_url": "https://x.com/ellas_pics/status/2027185957317845361",
+    "images": [
+      "https://pbs.twimg.com/media/HCICiYVXMAAmn8f.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "AI Influencer",
+      "Balenciaga",
+      "Luxury yacht",
+      "Hourglass physique",
+      "High-fashion"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-02-27 01:01:14"
+  },
+  {
     "id": 6143,
     "title": "None other than Sadie Sink 😻  Gemini Nano Banana Pro 🍌   Prompt:  \"A cinematic high-resolution por",
     "prompt": "A cinematic high-resolution portrait features a young woman with vibrant, voluminous wavy ginger-red hair and striking blue eyes, capturing a nostalgic 1980s aesthetic in a sun-drenched outdoor park. The lighting is characteristic of the golden hour, with warm sunbeams filtering through lush green trees to create a soft, blurred  background that emphasizes the subject. She is dressed in a pale yellow sleeveless cotton crop top featuring a small circular \"OP\" brand logo on the chest, paired with high-waisted denim shorts adorned with thin vertical blue and white stripes. Around her neck, she wears a delicate silver chain holding a round locket pendant, and her expression is gentle and approachable, featuring a subtle half-smile that highlights her natural skin texture and light freckles. The composition is a medium shot that balances the vivid colors of her hair and the sunny environment, resulting in a crisp, detailed image with a vintage, summery atmosphere.",
