@@ -1,5 +1,1925 @@
 [
   {
+    "id": 11929,
+    "title": "Gemini Nano Banana Pro on @yapper_so   Prompt:  \"image_generation\": {   \"quality\": \"hyper-realistic\"",
+    "prompt": "\"image_generation\": {\n  \"quality\": \"hyper-realistic\",\n  \"face\": {\n    \"preserve_original\": true,\n    \"reference_match\": true\n  },\n  \"subject\": {\n    \"description\": \"A stylish person with the same face, interacting with a cute Gugu Gaga character (tiny chibi girl in a fluffy penguin onesie, plush-like, big expressive eyes)\",\n    \"clothing\": {\n      \"top\": {\n        \"type\": \"soft knitted sweater\",\n        \"color\": \"light grey\"\n      },\n      \"pants\": {\n        \"type\": \"high-waisted jeans\",\n        \"color\": \"denim blue\"\n      },\n      \"shoes\": {\n        \"type\": \"high-top sneakers\",\n        \"color\": \"white\"\n      }\n    },\n    \"pose\": \"standing with one arm around a single 3D Gugu Gaga character\",\n    \"expression\": \"fun, playful, slightly mischievous\",\n    \"character_element\": {\n      \"name\": \"Gugu Gaga\",\n      \"type\": \"3D ultra-cute chibi girl, wearing a fluffy penguin onesie, soft plush texture, rounded body, big glossy eyes\",\n      \"interaction\": \"Gugu Gaga stands beside the person, looking adorable and slightly grumpy-cute\"\n    },\n    \"environment\": {\n      \"background\": \"clean soft grey-blue backdrop with cozy, warm lighting\"\n    }\n  }\n}",
+    "author": "ZaraIrahh",
+    "author_url": "https://x.com/ZaraIrahh",
+    "source_url": "https://x.com/ZaraIrahh/status/2035527268563620086",
+    "images": [
+      "https://pbs.twimg.com/media/HD-lQ2pbgAE-iuN.jpg"
+    ],
+    "language": "en",
+    "category": "character",
+    "tags": [
+      "chibi girl",
+      "penguin onesie",
+      "hyper-realistic",
+      "3D character",
+      "soft lighting"
+    ],
+    "style": "3d",
+    "description": null,
+    "created_at": "2026-03-22 02:00:33"
+  },
+  {
+    "id": 11928,
+    "title": "Google Gemini Nano Banana Pro  Prompt: Transform the subject into a partially unbuttoned beige shirt",
+    "prompt": "Transform the subject into a partially unbuttoned beige shirt and brown trousers leans against a yellow vintage car in a medium shot. The warm, diffused lighting highlights his relaxed pose in an industrial setting, with large yellow pipes in the blurred background. The image has a vintage aesthetic, focusing on the man and car with a shallow depth of field. 8k Ultra realstic",
+    "author": "harboriis",
+    "author_url": "https://x.com/harboriis",
+    "source_url": "https://x.com/harboriis/status/2035535090240160146",
+    "images": [
+      "https://pbs.twimg.com/media/HD-sYG-bMAIjmgC.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "vintage car",
+      "industrial setting",
+      "medium shot",
+      "8k ultra realistic",
+      "diffused lighting"
+    ],
+    "style": "vintage",
+    "description": null,
+    "created_at": "2026-03-22 02:00:29"
+  },
+  {
+    "id": 11902,
+    "title": "Sabrina Carpenter. Nano Banana Pro  Prompt: {   \"prompt_type\": \"image_to_image_reference\",   \"style\"",
+    "prompt": "{\n  \"prompt_type\": \"image_to_image_reference\",\n  \"style\": \"photorealistic\",\n  \"subject\": {\n    \"person\": {\n      \"gender_presentation\": \"female\",\n      \"age_appearance\": \"young adult\",\n      \"hair\": {\n        \"color\": \"platinum blonde\",\n        \"style\": \"shoulder-length with soft bangs\"\n      },\n      \"skin\": \"fair skin with glossy, oiled sheen\",\n      \"expression\": \"soft neutral expression, slightly over-the-shoulder gaze toward camera\"\n    }\n  },\n  \"wardrobe\": {\n    \"top\": \"Argentina football jersey, white and sky-blue vertical stripes, black trim, number 10 on the back, tied in a knot at the lower back\",\n    \"bottom\": \"white bikini bottoms\"\n  },\n  \"pose\": {\n    \"body_position\": \"seated on a carpeted floor with back facing the mirror/camera, torso twisted slightly to look back over shoulder\",\n    \"arms\": \"one arm raised holding a smartphone for a mirror selfie\",\n    \"legs\": \"legs bent naturally on the floor\"\n  },\n  \"composition\": {\n    \"shot_type\": \"mirror selfie\",\n    \"framing\": \"medium full-body crop\",\n    \"angle\": \"low indoor angle from behind with over-the-shoulder facial visibility\",\n    \"focus\": \"sharp focus on subject, natural room depth\"\n  },\n  \"environment\": {\n    \"location\": \"modern minimalist bedroom\",\n    \"details\": [\n      \"light carpet\",\n      \"bed in background\",\n      \"white built-in cabinets\",\n      \"wall-mounted TV\",\n      \"soft neutral interior tones\"\n    ]\n  },\n  \"lighting\": {\n    \"type\": \"soft natural daylight\",\n    \"quality\": \"clean, diffused, flattering\",\n    \"highlights\": \"subtle glossy highlights on skin\"\n  },\n  \"camera\": {\n    \"look\": \"smartphone selfie realism\",\n    \"lens_feel\": \"wide smartphone lens\",\n    \"detail_level\": \"high-detail skin texture, fabric texture, realistic indoor lighting\"\n  },\n  \"color_palette\": {\n    \"primary\": [\"white\", \"sky blue\", \"beige\", \"soft skin tones\"],\n    \"mood\": \"clean, bright, modern\"\n  },\n  \"render_instructions\": [\n    \"maintain realistic human proportions\",\n    \"preserve mirror selfie perspective\",\n    \"keep jersey texturing and stripes crisp\",\n    \"keep bedroom background minimal and believable\",\n    \"high realism, natural skin texture, no cartoon styling\"\n  ],\n  \"negative_prompt\": [\n    \"extra limbs\",\n    \"deformed hands\",\n    \"blurry face\",\n    \"over-smoothed skin\",\n    \"unnatural anatomy\",\n    \"warped phone\",\n    \"distorted mirror perspective\",\n    \"duplicate body parts\",\n    \"low-resolution texture\",\n    \"oversaturated colors\"\n  ]\n}",
+    "author": "HighkeySynth",
+    "author_url": "https://x.com/HighkeySynth",
+    "source_url": "https://x.com/HighkeySynth/status/2035499156433699221",
+    "images": [
+      "https://pbs.twimg.com/media/HD-LsRIW0AATzj6.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "Sabrina Carpenter",
+      "mirror selfie",
+      "Argentina football jersey",
+      "photorealistic",
+      "blonde hair"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-22 00:00:27"
+  },
+  {
+    "id": 11892,
+    "title": "Who made the best drawing? 🎨🖌️  Nano Banana 2 🍌   🖤 Sadie Sink  💙 Anne Hathaway 💛 Emily Rudd  ",
+    "prompt": "A high-end photorealistic editorial studio portrait capturing Anne Hathaway in an intimate, artistic, and sophisticated setting. She is seated gracefully sideways on an adjustable wooden and metal drawing stool (round polished wood seat, rustic metal base), her body slightly twisted to face the camera directly with a calm, neutral, and captivating gaze. Her long, wavy, side-parted hair is styled with subtle highlights catching the light. She wears soft nude lipstick, dark well-defined lashes, and minimal makeup, highlighting her impeccable skin. She is dressed solely in an oversized, highly reflective shiny dark blue satin shirt featuring a classic collar and long sleeves; the shirt reaches her upper thighs, leaving her long, elegant legs fully exposed. She is barefoot, with her legs crossed at the knee (right over left), and both feet are suspended above the floor with toes pointed softly. One hand rests on her thigh, the other near her knee. She has well-groomed natural fingernails and toenails. The background is a minimalist, subtly textured dark grey plaster wall. To her right is a tall wooden artist's easel holding a rectangular canvas featuring a classic painting of a Batman and Catwoman movie scene. The scene is bathed in soft, directional studio lighting coming from the left, creating luminous highlights on the satin fabric, her hair, and her legs, while casting subtle shadows for depth. The color palette is dark blue, dark grey, black, light peach, and warm brown. The composition is an eye-level medium full shot capturing her from head-to-toe and the easel, with the camera near the model and easel. The image is highly detailed with sharp focus, professional lighting, perfect composition, and highly realistic textures of fabric and skin. 8k resolution, 9:16 aspect ratio.",
+    "author": "Giulia_4i",
+    "author_url": "https://x.com/Giulia_4i",
+    "source_url": "https://x.com/Giulia_4i/status/2035478340975591752",
+    "images": [
+      "https://pbs.twimg.com/media/HD94wxXbgAArLED.jpg",
+      "https://pbs.twimg.com/media/HD94wvCWkAEcoJg.jpg",
+      "https://pbs.twimg.com/media/HD94w3Qa8AAlSEx.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "photorealistic",
+      "Anne Hathaway",
+      "studio portrait",
+      "satin shirt",
+      "editorial"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 23:00:42"
+  },
+  {
+    "id": 11891,
+    "title": "This iPhone 17 simulation is getting too close to reality. Look at the skin texture and the light bo",
+    "prompt": "{\n  \"image_type\": \"Social Media Snapshot\",\n  \"shot\": \"Medium full shot\",\n  \"shot_details\": \"Handheld smartphone look, slightly off-center framing, capturing her laughing mid-movement\",\n  \"style\": \"Modern Lifestyle\",\n  \"quality\": \"Clean, natural digital look\",\n  \"color_grade\": \"Warm afternoon sun, soft natural highlights\",\n  \"meta\": {\n    \"aspect_ratio\": \"9:16\",\n    \"resolution\": \"4k\"\n  },\n  \"camera\": {\n    \"device\": \"iPhone 17 Pro Max Simulation\",\n    \"lens\": \"24mm wide angle\",\n    \"aperture\": \"f/1.8\",\n    \"distance\": \"5 feet\",\n    \"angle\": \"Slightly low angle\",\n    \"framing\": \"Loose, including sofa edges\",\n    \"pov\": \"Eye level\",\n    \"focus\": \"Sharp on subject, soft background\",\n    \"lens_effect\": \"Natural sun flare\"\n  },\n  \"lighting\": {\n    \"description\": \"Natural light streaming from a nearby window\",\n    \"type\": \"Ambient\",\n    \"source\": \"Sunlight\",\n    \"primary\": \"Golden hour glow\",\n    \"secondary\": \"Soft bounce from white walls\",\n    \"highlights\": \"Soft on skin and denim\",\n    \"shadows\": \"Gentle, natural\"\n  },\n  \"scene\": {\n    \"location\": \"Aesthetic maximalist studio apartment\",\n    \"environment\": \"Emerald green velvet sofa, floor plants, stacks of magazines\",\n    \"time\": \"4:00 PM\",\n    \"atmosphere\": \"Cozy, relaxed, authentic\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"age\": \"22\",\n    \"ethnicity\": \"Mixed-Brazilian\",\n    \"appearance\": \"Athletic build, long wavy dark hair, sun-kissed skin\",\n    \"body\": {\n      \"type\": \"Toned\",\n      \"waist\": \"Small, visible midriff\",\n      \"hips\": \"Curvy\",\n      \"chest\": \"Natural\",\n      \"ass\": \"Covered by denim minirock\",\n      \"skin\": \"Smooth with natural pores\"\n    },\n    \"expression\": {\n      \"eyes\": \"Sparkling with laughter\",\n      \"gaze\": \"Looking slightly away from camera\",\n      \"mouth\": \"Wide smile\",\n      \"face_vibe\": \"Spontaneous and happy\"\n    },\n    \"hair\": {\n      \"color\": \"Espresso dark brown\",\n      \"style\": \"Tousled waves\",\n      \"details\": \"Natural volume, messy part\"\n    },\n    \"pose\": {\n      \"description\": \"Sitting back on the sofa, legs pulled up and held by hands at the feet\",\n      \"stance\": \"Seated wide-legged\",\n      \"arms\": \"Extended to reach feet\",\n      \"legs\": \"Bent at knees, lifted high\",\n      \"energy\": \"High and playful\"\n    }\n  },\n  \"wardrobe\": \"Streetwear-meets-cozy aesthetic\",\n  \"outfit_details\": {\n    \"top\": {\n      \"type\": \"Cropped baby tee\",\n      \"color\": \"Off-white\",\n      \"fit\": \"Tight\",\n      \"details\": \"Ribbed texture\"\n    },\n    \"bottom\": {\n      \"type\": \"Pleated denim minirock\",\n      \"color\": \"Light wash blue\",\n      \"fit\": \"Short and flared\",\n      \"details\": \"Raw hem\"\n    },\n    \"legs\": {\n      \"details\": \"Bare feet, clean soles, visible red undergarment peeking through\"\n    }\n  },\n  \"accessories\": {\n    \"jewelry\": [\n      \"Small gold hoop earrings\"\n    ],\n    \"nails\": [\n      \"Short, almond-shaped with clear gloss\"\n    ]\n  },\n  \"selective_color\": {\n    \"mask_target\": \"Red undergarment\",\n    \"palette_hex\": [\n      \"#FF0000\"\n    ],\n    \"rule\": \"Make the red pop against the green sofa\"\n  },\n  \"details\": {\n    \"skin_effects\": [\n      \"Faint freckles on nose\"\n    ],\n    \"realism\": \"High, looks like a real IG story post\"\n  },\n  \"negatives\": \"p*rnographic act, explicit n*dity, cartoon, 3d render, professional studio lighting, vintage film grain, perfectly posed, airbrushed skin, clean background\"\n}",
+    "author": "iamdomprompt",
+    "author_url": "https://x.com/iamdomprompt",
+    "source_url": "https://x.com/iamdomprompt/status/2035481463156511187",
+    "images": [
+      "https://pbs.twimg.com/media/HD97jVzaQAAoDDq.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "iPhone 17 simulation",
+      "Mixed-Brazilian female",
+      "Social Media Snapshot",
+      "golden hour",
+      "hyper-realistic skin"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 23:00:36"
+  },
+  {
+    "id": 11890,
+    "title": "Nano Banana Prompt v.059  prompt: \"Image from subject, tight medium portrait, centered, head slightl",
+    "prompt": "Image from subject, tight medium portrait, centered, head slightly tilted with a direct gaze. Wearing a collared button-down shirt featuring a small diamond-pattern print and a thick metallic link chain necklace. Against a minimalist off-white studio background. Intense monochromatic red light wash saturating the subject with deep, hard-edged shadows obscuring one side of the face. Analog film texture, heavy grain, soft glow.",
+    "author": "Arsistyle",
+    "author_url": "https://x.com/Arsistyle",
+    "source_url": "https://x.com/Arsistyle/status/2035491644426825809",
+    "images": [
+      "https://pbs.twimg.com/media/HDxoCP8aMAAJjQZ.jpg",
+      "https://pbs.twimg.com/media/HDxoCPrX0AAJeHz.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "monochromatic red light",
+      "analog film texture",
+      "medium portrait",
+      "heavy grain",
+      "studio background"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 23:00:28"
+  },
+  {
+    "id": 11879,
+    "title": "Nano Banana 2 @astronomerozge1 ❤️ Prompt: {   \"generation_request\": {     \"meta_data\": {       \"tool",
+    "prompt": "Create a photoreal 3x3 beauty crop editorial grid featuring one elegant adult woman across nine panels. The layout should mix tight beauty crops, partial fashion crops, and full face close portraits in a stylish magazine-like composition. She has icy blue eyes, soft luminous skin, sleek black hair with short front bangs, and a refined intense editorial expression. She wears a red strapless leather top with a glossy fitted finish, modern and minimal, visible in the fashion crop panels. The background should be a soft cool periwinkle or muted blue-lilac studio tone. Keep the woman visually consistent across all panels while varying crop placement and expression. Include a mix of eye close-up, lips close-up, partial shoulder and neckline crop, direct beauty portrait, and one inverted portrait panel for a playful high-fashion editorial effect. The overall result should feel bold, polished, glamorous, and fashion-forward.",
+    "author": "astronomerozge1",
+    "author_url": "https://x.com/astronomerozge1",
+    "source_url": "https://x.com/astronomerozge1/status/2035469716743946679",
+    "images": [
+      "https://pbs.twimg.com/media/HD9w2hzagAAM-2Y.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "beauty crop grid",
+      "red strapless leather top",
+      "icy blue eyes",
+      "fashion editorial",
+      "photorealistic"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 22:00:45"
+  },
+  {
+    "id": 11878,
+    "title": "Alt Sadie Sink era. 👿  Nano Banana 2  Prompt :  {   \"photo_type\": \"Mirror Selfie\",   \"subject\": {  ",
+    "prompt": "{\n  \"photo_type\": \"Mirror Selfie\",\n  \"subject\": {\n    \"age\": \"Early 20s\",\n    \"body_type\": \"Buxom and curvy american woman, fuller bust measurement with high waist-to-hip contrast, defined waistline, prominent hips, and thick, powerful thighs; top-heavy silhouette with visible fabric tension over the chest.\",\n    \"description\": \"Young american woman with an oval face shape, a fair and freckled complexion, and long, wavy red hair. She has a curvy, buxom silhouette with high-contrast proportions between her waist and hips.\",\n    \"ethnicity\": \"american\",\n    \"expression\": \"Sultry and confident pout, head tilted back slightly with a downward gaze into the mirror reflection.\",\n    \"gender\": \"Female\",\n    \"mirror_rules\": \"Text on the shirt must be mirrored and reversed. Mirror surface features faint smudges, micro-dust particles, and streaks. Smartphone and hand are visible in the foreground reflection.\",\n    \"pose_description\": \"Crouched in front of a mirror, holding an iPhone in the left hand to capture the selfie. The right hand is raised to her mouth, holding a pink and white pacifier. Body is angled to emphasize a curvy lower silhouette.\",\n    \"tattoos\": \"Intricate black ink tattoos on the left forearm and hand, including small symbols on the fingers and a larger design on the outer wrist.\"\n  },\n  \"clothing\": {\n    \"bottom\": {\n      \"color\": \"Black\",\n      \"details\": \"High-waisted with a wide black leather belt and a large ornate silver buckle.\",\n      \"fabric\": \"Denim\",\n      \"type\": \"Shorts\"\n    },\n    \"fit_and_physics\": \"The white crop top with celevlage is highly strained over a fuller bust, showing visible tension lines and ribbing expansion. Shorts sit tightly on the hips; sheer black tights show slight stretching and horizontal stress grain at the thighs.\",\n    \"outerwear\": {\n      \"color\": \"Black\",\n      \"details\": \"Sheer texture with slight bunching at the ankles\",\n      \"fabric\": \"Sheer nylon\",\n      \"type\": \"Tights\"\n    },\n    \"shoes\": {\n      \"color\": \"None\",\n      \"details\": \"Not visible\",\n      \"fabric\": \"None\",\n      \"type\": \"None\"\n    },\n    \"top\": {\n      \"color\": \"White\",\n      \"details\": \"Ribbed crop tank top with 'BORN KILLER' printed in black gothic font (mirrored).\",\n      \"fabric\": \"Ribbed cotton\",\n      \"type\": \"Tank top\"\n    }\n  },\n  \"hair\": {\n    \"color\": \"Red\",\n    \"interaction\": \"Long wavy red hair falls naturally over the shoulders, framing the face and chest with fine individual strands visible.\",\n    \"style\": \"Long, wavy red hair with a distinct side part.\"\n  },\n  \"face\": {\n    \"description\": \"Use the uploaded character reference image, keep all facial details 100% unchanged\",\n    \"eyebrows\": \"Reddish-brown, well-defined arched eyebrows.\",\n    \"eyes\": \"Almond-shaped light-colored eyes with sharp corneal reflections.\",\n    \"lips\": \"Full, symmetrical lips in a pouting expression with a light pink matte finish.\",\n    \"makeup\": \"Bold red cut-crease eyeshadow, sharp black winged eyeliner, and faux freckles across the nose and cheeks.\"\n  },\n  \"skin_texture\": \"Fair, freckled complexion with visible pores, realistic skin grain, and soft subsurface scattering on the chest and ears.\",\n  \"biological_features\": {\n    \"eye_complexity\": \"Wetness in the tear ducts, clear reflections of indoor lighting, and subtle vascularity in the sclera.\",\n    \"hair_strand_physics\": \"Fine individual strands and flyaways near the side part; hair texture shows natural sheen and weight.\",\n    \"skin_micro_texture\": \"Visible vellus hair (peach fuzz) along the jawline; natural skin texture with visible pores and minor imperfections.\",\n    \"subsurface_scattering\": \"Natural translucency on the ears and fingertips visible against the reflected room light.\",\n    \"vascularity_and_pigment\": \"Faint blue veins visible on the back of the hand holding the iPhone; natural freckle distribution.\"\n  },\n  \"texture_details\": {\n    \"environment\": \"Smooth black lacquered door with circular patterns, low-pile grey carpet, and metallic surface of a vintage record player.\",\n    \"fabric\": \"Rough denim weave, soft vertical ribbing of the cotton top, and the delicate mesh of sheer nylon tights.\",\n    \"hair\": \"Richly textured wavy red strands with varied highlights and depth.\",\n    \"skin\": \"Freckled skin texture with visible pores on the nose and realistic skin folds at the waist when crouching.\"\n  },\n  \"accessories\": {\n    \"device\": \"Black iPhone 16 Pro with a circular logo sticker and minor fingerprints on the case.\",\n    \"eyewear\": \"None\",\n    \"headwear\": \"Digital red cartoon devil horns overlay centered above the head as a filter effect.\",\n    \"jewelry\": \"None\",\n    \"props\": \"Pink and white baby pacifier; silver chain necklace with a nameplate, black spiked leather choker with a padlock, and several silver rings on both hands.\"\n  },\n  \"background\": {\n    \"atmosphere\": \"Casual, cluttered, lived-in indoor bedroom environment.\",\n    \"elements\": [\n      \"Black wardrobe with decorative circular panels\",\n      \"Red vintage-style record player on the floor\",\n      \"Grey carpeted floor\",\n      \"Unplugged power cord in the corner\"\n    ],\n    \"lighting_interaction\": \"Hard overhead indoor lighting creating shadows under the chin and collarbone, with glare on the mirror surface.\",\n    \"setting\": \"Bedroom\",\n    \"wall_color\": \"Grey and black\"\n  },\n  \"lighting\": \"Direct, flat indoor lighting typical of a household room, producing realistic highlights on the subject's face and chest.\",\n  \"color_grading\": {\n    \"LUT_application\": \"None\",\n    \"contrast_curve\": \"Standard smartphone contrast with deep blacks and slightly bright highlights.\",\n    \"general_look\": \"Raw, unedited amateur smartphone snapshot.\",\n    \"saturation_boost\": \"Slightly high saturation on red accents like the hair, eyeshadow, and record player.\"\n  },\n  \"camera\": \"iPhone 16 Pro front camera\",\n  \"lens_type\": \"Wide-angle smartphone lens with typical arm distortion and lens curvature\",\n  \"resolution_and_aspect_ratio\": \"48MP, 3:4 aspect ratio\",\n  \"style\": \"Amateur snapshot, raw handheld realism\",\n  \"imperfections\": \"Mirror smudges, micro-dust on the glass, fingerprints on the phone case, and background clutter.\",\n  \"shot_type\": \"Medium shot mirror selfie\",\n  \"camera_settings\": {\n    \"aperture\": \"f/8.0\",\n    \"dynamic_range\": \"Smart HDR maintaining detail in both the bright white shirt and dark wardrobe.\",\n    \"focal_length\": \"24mm (equivalent)\",\n    \"iso\": \"400\",\n    \"lens_distortion\": \"Typical wide-angle perspective distortion on the arms and edges of the frame.\",\n    \"optical_artifacts\": {\n      \"bokeh_quality\": \"None, deep focus\",\n      \"chromatic_aberration\": \"Minor fringing along high-contrast edges of the white top\",\n      \"focus_falloff\": \"Sharp focus from the foreground phone to the background wardrobe\",\n      \"vignetting\": \"Faint natural corner shading\"\n    },\n    \"processing\": \"Deep Fusion and Smart HDR\",\n    \"shutter_speed\": \"1/60s\",\n    \"white_balance\": \"Auto\"\n  },\n  \"sensor_atmosphere\": {\n    \"air_particles\": \"None visible\",\n    \"haze_and_glare\": \"Faint glare from the overhead light reflected in the mirror.\",\n    \"iso_noise_structure\": \"Fine grain visible in the darker areas of the room.\",\n    \"sensor_bloom\": \"Minimal bloom on the bright highlights of the white ribbed cotton.\"\n  },\n  \"vibe\": \"Edgy, casual, documentarian, and unpolished.\",\n  \"overall_mood\": \"Youthful, self-expressive, and raw.\",\n  \"color_mode\": \"Vibrant full color\",\n  \"action\": \"Taking a mirror selfie while posing with a pacifier.\",\n  \"composition\": {\n    \"camera_angle_tilt\": \"Eye-level, slightly tilted handheld angle.\",\n    \"depth_layering\": \"iPhone in the immediate foreground reflection, subject in the middle ground, wardrobe in the background.\",\n    \"framing_rule\": \"Casual centered framing\",\n    \"leading_lines\": \"The angle of the arm holding the phone leads toward the subject's face.\",\n    \"perspective\": \"First-person mirror perspective\",\n    \"symmetry_balance\": \"Asymmetrical handheld pose\"\n  },\n  \"color_tone\": \"Neutral with warm skin tones and bold red accents.\",\n  \"depth_and_focus\": \"Deep focus, everything from the foreground phone to the background elements is in sharp focus.\",\n  \"final_director_notes\": \"The focus must be deep (f/8) to ensure no bokeh. Maintain the raw, unpolished smartphone aesthetic with realistic mirror smudges and text reversal on the shirt. Ensure the red devil horns look like a digital filter overlay. Facial identity must strictly follow the character reference's red hair, fair freckled skin, and light eyes.\"\n}",
+    "author": "BananaPromptPro",
+    "author_url": "https://x.com/BananaPromptPro",
+    "source_url": "https://x.com/BananaPromptPro/status/2035471183500743139",
+    "images": [
+      "https://pbs.twimg.com/media/HD9yGLOa0AAP3Tf.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "Mirror Selfie",
+      "Red Hair",
+      "Smartphone Aesthetic",
+      "Alt Era",
+      "Hyper-realistic"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 22:00:41"
+  },
+  {
+    "id": 11877,
+    "title": "Nano Banana 2 @astronomerozge1  👨 Prompt: {  \"generation_request\": {  \"meta_data\": {  \"tool\": \"Nano",
+    "prompt": "Create a photoreal 2x2 editorial portrait grid featuring one adult man across four panels. The visual style should feel like a bold fashion magazine editorial with dramatic neon color lighting. Use a vivid split-light palette with saturated electric blue and hot orange-red casting across the skin and background, creating a striking cinematic studio mood. The man should have curly dark hair, defined facial structure, and a lean athletic physique. He is shirtless in all panels, styled with black pants or dark fabric draped low around the waist. Each panel should show a different pose and crop while preserving strong facial consistency: one intimate curled pose with the face partly framed by the arms, one intense close portrait with direct gaze, one seated pose with expressive hands and soft side gaze, and one standing half-body or three-quarter pose showing the torso and strong body line. The mood should feel sensual, modern, artistic, and high-fashion.",
+    "author": "astronomerozge1",
+    "author_url": "https://x.com/astronomerozge1",
+    "source_url": "https://x.com/astronomerozge1/status/2035471244661862723",
+    "images": [
+      "https://pbs.twimg.com/media/HD9yIx5WMAAqYnB.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "neon lighting",
+      "editorial grid",
+      "male portrait",
+      "electric blue and orange",
+      "high-fashion"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 22:00:29"
+  },
+  {
+    "id": 11876,
+    "title": "GN my friends ✨💫 Be careful not to get bitten in your dreams!😏  Emilia Clarke, Sydney Sweeney, Kyl",
+    "prompt": "Photorealistic high-fashion editorial portrait in strict black-and-white monochrome, high contrast, 8K resolution, ultra-detailed textures. Close-up composition: a majestic panther growling, expressive pose stands powerfully, next to it a young woman with long straight hair and flawless makeup stands close beside and gently touches the panther. She wears a white fishnet sleeveless deep V-neck shirt. Pure white minimalist background. Dramatic studio lighting with strong backlighting creating elegant rim light silhouettes on hair and fur, deep shadows, sharp focus, hyper-realistic fur and fabric detail. Vogue-style editorial photography, gothic chic aesthetic, surreal atmosphere, high-fashion mood, no color.",
+    "author": "KeorUnreal",
+    "author_url": "https://x.com/KeorUnreal",
+    "source_url": "https://x.com/KeorUnreal/status/2035471604873142342",
+    "images": [
+      "https://pbs.twimg.com/media/HD9ymwGXIAE-yMC.jpg",
+      "https://pbs.twimg.com/media/HD9ym3BbAAAYf8a.jpg",
+      "https://pbs.twimg.com/media/HD9ym7JXsAAqaJU.jpg",
+      "https://pbs.twimg.com/media/HD9ynFJXIAAHYjV.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "black-and-white",
+      "high-fashion",
+      "panther",
+      "editorial portrait",
+      "monochrome"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 22:00:25"
+  },
+  {
+    "id": 11865,
+    "title": "Taylor Swift - Gemini Nano Banana Pro  Prompt: {   \"vibe_title_en\": \"The Glacial Atelier\",   \"master",
+    "prompt": "A cinematic medium close-up of The Protagonist, captured through a framing gap in frosted industrial shelving units. The setting is a chaotic, sub-zero ice-sculpting workshop, densely packed with narrative clutter: scattered steel chisels, overflowing bins of crushed ice, hanging heavy-duty plastic tarps, and tangled rubber cooling hoses in the background. The air is thick with visible condensation and swirling dry ice fog. The subject maintains an avant-garde stoic expression, wearing a high-collared, complex-textured thermal garment that acts as a frame for the face. Lighting is high-contrast and crisp, cutting through the atmospheric haze to sharply define facial features while letting the background fall into deep, cool shadows. Shot on a Hasselblad H6D-100c with an 80mm lens, utilizing the cool teal tones and halation of Cinestill 800T film stock.",
+    "author": "timedoctor_nft",
+    "author_url": "https://x.com/timedoctor_nft",
+    "source_url": "https://x.com/timedoctor_nft/status/2035453398091194844",
+    "images": [
+      "https://pbs.twimg.com/media/HD9iFBMW0AAKxxI.jpg",
+      "https://pbs.twimg.com/media/HD9iFAIXQAAf_yl.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "The Protagonist",
+      "ice-sculpting workshop",
+      "Cinestill 800T",
+      "frosted glass",
+      "high-contrast lighting"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 21:00:29"
+  },
+  {
+    "id": 11864,
+    "title": "Nano Banana 2 @bageldotcom  Prompt: {   \"generation_request\": {     \"meta_data\": {       \"tool\": \"Na",
+    "prompt": "Ultra photoreal candid moment of a couple cooking together at home. Must feel warm, natural, intimate, and real, like a spontaneous everyday moment, not staged or stylized. Location: home kitchen, evening. Environment: cozy kitchen, soft warm indoor lighting, simple counter with cooking ingredients, lived-in realistic space. Subjects: they stand close in the kitchen while cooking together, the woman focused on preparing food while smiling softly, the man standing close behind or beside her, lightly assisting or watching her with a warm expression. Emotion: comfort, warmth, intimacy, quiet happiness, feeling at home together. Styling: woman in red spaghetti-strap pajama top with small cherry patterns and matching shorts, soft lightweight fabric, open slightly messy wavy hair, natural no-makeup or light makeup home look; man in red pajama bottoms only, bare upper body, relaxed natural posture, realistic skin tone and texture. Camera: 50mm lifestyle photography, f2, soft shallow depth of field, medium candid shot. Lighting: warm indoor lighting, soft warm light from above or side, gentle shadows, natural skin texture. Realism: fully natural human faces, no AI smoothness, visible pores, slightly messy hair, natural interaction.",
+    "author": "astronomerozge1",
+    "author_url": "https://x.com/astronomerozge1",
+    "source_url": "https://x.com/astronomerozge1/status/2035454355546026480",
+    "images": [
+      "https://pbs.twimg.com/media/HD9i5poXIAAP7BB.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "couple cooking",
+      "home kitchen",
+      "photorealistic",
+      "candid moment",
+      "intimate atmosphere"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 21:00:26"
+  },
+  {
+    "id": 11863,
+    "title": "Nano Banana 2 @astronomerozge1 🍷 Prompt: {   \"generation_request\": {     \"meta_data\": {       \"tool",
+    "prompt": "Create a photoreal 3x3 luxury editorial grid featuring one elegant adult woman across nine panels. She wears a rich deep red satin slip dress with thin straps, soft sheen, and a refined fitted silhouette. Her hair is long, voluminous, and softly wavy, with glamorous movement and polished texture. Each panel should show a different pose and expression while preserving strong facial consistency and high-end beauty styling. In most panels she is holding a glass of red wine, and in some selected panels she is also holding or posing with a wine bottle. The mood should feel glamorous, confident, intimate, and fashion-forward, like a luxury flash-photo beauty editorial. Include a mix of poses such as eyes closed with the glass near the lips, direct gaze to camera, side pose with one hand on the waist, soft pout, elegant arm crossing, bottle held low at the side, bottle near the shoulder, relaxed standing pose, and confident beauty close-up. The overall result should feel polished, feminine, rich, and visually striking.",
+    "author": "astronomerozge1",
+    "author_url": "https://x.com/astronomerozge1",
+    "source_url": "https://x.com/astronomerozge1/status/2035456541013238201",
+    "images": [
+      "https://pbs.twimg.com/media/HD9k3FNbIAAWBIX.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "luxury editorial grid",
+      "red satin dress",
+      "red wine",
+      "fashion photography",
+      "facial consistency"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 21:00:22"
+  },
+  {
+    "id": 11859,
+    "title": "Toshi's Prompt Share:    Postcard! 📬✉️🪵  Create classic postcards displayed in old wooden racks!  ",
+    "prompt": "hyper-realistic close-up of a vintage wooden postcard rack in an old-fashioned shop, the main postcard in the foreground is a beautiful classic vintage postcard from [place], rich saturated colors, elegant typography, detailed scenic illustration or photograph of the location, slightly aged paper with natural creases and subtle wear, surrounded by other vintage postcards in soft focus, warm natural window light casting soft shadows on the wooden rack, ultra detailed paper texture, ink printing, and wood grain, nostalgic collector atmosphere, masterpiece, sharp focus",
+    "author": "ToshiArte",
+    "author_url": "https://x.com/ToshiArte",
+    "source_url": "https://x.com/ToshiArte/status/2035416153234055283",
+    "images": [
+      "https://pbs.twimg.com/media/HD6UKlpa0AAM1o5.jpg",
+      "https://pbs.twimg.com/media/HD6UKlHXYAAaPG1.jpg",
+      "https://pbs.twimg.com/media/HD6UKlmbgAArZcJ.jpg",
+      "https://pbs.twimg.com/media/HD6UKlDWsAA58o8.jpg"
+    ],
+    "language": "en",
+    "category": "product",
+    "tags": [
+      "postcard",
+      "wooden rack",
+      "hyper-realistic",
+      "nostalgic",
+      "vintage shop"
+    ],
+    "style": "vintage",
+    "description": null,
+    "created_at": "2026-03-21 20:01:33"
+  },
+  {
+    "id": 11853,
+    "title": "ocean, clouds, and a blue floral dress. name a better combo 💙  Nano Banana 2 via Artia ✨ https://t.",
+    "prompt": "(9:16) Raw high-fidelity photo, eye-level low-angle, medium-wide environmental portrait, iPhone 17 Pro sim, 35mm, f/2.8, ocean bokeh, authentic grain.\n\nFraming: Subject ~55% frame, centered on sand, camera ~2m, upper ~40% twilight horizon + ocean, foreground textured sand + seaweed.\n\nIdentity Lock: Preserve ALL facial features (structure, skin, hair, marks).\nEnhancement: Natural skin clarity (visible pores), even tone, soft glow, subtle light-based contour, refined highlights (eyes/lips/cheekbones), natural lashes/brows/teeth, salon hair.\nBio-Fidelity: Micro-pores, fine vellus hair, natural skin hydration.\nExpression: Neutral, serene/pensive, direct eye contact, relaxed lips, slight head tilt (~5° left).\n\nHair: Same color/texture, long, sleek, middle part, down back framing right side, soft cool twilight highlights.\nMakeup: Natural base, subtle eyes, soft matte pink lip.\n\nAccessories: Delicate gold necklace (heart pendant), small inner forearm text tattoo (“mind over matter”), thin white bikini straps visible.\n\nOutfit: Bodycon maxi dress, dual-tone blue floral (navy bodice + cerulean floral), high-stretch, realistic folds/tension, defined S-curve.\n\nPose: Seated on sand, torso angled ~45° left leaning back, left arm supporting on sand, right hand touching back of head, legs tucked left, realistic hand/sand interaction.\n\nMood/Color: Serene, moody twilight; palette (cerulean, navy, sand, lavender-grey), 6500K cool light, medium-high contrast.\n\nEnvironment: Beach at dusk, diffused twilight + subtle front fill, waves with white foam, dark ocean, cloudy sky gradient (indigo → lavender → soft orange), background softly blurred (f/2.8).",
+    "author": "daaaaanc",
+    "author_url": "https://x.com/daaaaanc",
+    "source_url": "https://x.com/daaaaanc/status/2035431654802739248",
+    "images": [
+      "https://pbs.twimg.com/media/HD9OS8hXkAIAWyA.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "environmental portrait",
+      "blue floral dress",
+      "twilight beach",
+      "high-fidelity photo",
+      "ocean bokeh"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 20:00:55"
+  },
+  {
+    "id": 11852,
+    "title": "Nota de 1 Dólar Holográfica: diferença do nano banana 2 para gptimage  prompt: Generate a hyper-real",
+    "prompt": "Generate a hyper-realistic 3D render of a one dollar bill floating in mid-air, fully digital and holographic, the entire bill is made of glowing neon green light, translucent holographic material with visible scanlines and digital grid texture across the surface, George Washington's portrait rendered as a bright green hologram with flickering light effect, all bill details including serial numbers, seals and engravings glowing in vivid electric green, volumetric light beams projecting from the bill surface, green lens flares and light particles scattered around, deep black background enhancing the neon glow, dramatic cinematic lighting, subtle floating animation implied through motion blur at edges, ultra high detail, 8k resolution, no watermark",
+    "author": "visaocriativa0",
+    "author_url": "https://x.com/visaocriativa0",
+    "source_url": "https://x.com/visaocriativa0/status/2035432518258692374",
+    "images": [
+      "https://pbs.twimg.com/media/HD9PCSxXoAAfSfp.jpg",
+      "https://pbs.twimg.com/media/HD9PETkWMAAGLY9.jpg"
+    ],
+    "language": "en",
+    "category": "product",
+    "tags": [
+      "holographic",
+      "neon green",
+      "one dollar bill",
+      "3d render",
+      "cinematic lighting"
+    ],
+    "style": "3d",
+    "description": null,
+    "created_at": "2026-03-21 20:00:50"
+  },
+  {
+    "id": 11851,
+    "title": "old money lounge and a heart locket. this is the vibe 🤎  Nano Banana 2 via Artia ✨ https://t.co/6eU",
+    "prompt": "(9:16) Raw high-fidelity photo, eye-level slight high-angle, medium seated portrait, iPhone 17 Pro sim, 35mm, f/2.2, natural bokeh, authentic grain.\n\nFraming: Subject ~75% width, centered on sofa, lower face–upper thighs, ~1m distance, minimal negative space, framed by pillows + dark wood wall.\n\nIdentity Lock: Preserve ALL facial features (structure, skin, hair, marks).\nEnhancement: Natural skin clarity (visible pores), even tone, soft glow, subtle light-based contour, refined highlights (eyes/lips/cheekbones), natural lashes/brows/teeth, salon hair.\nBio-Fidelity: Micro-pores, fine vellus hair, hydrated skin (chest/shoulders).\nExpression: Soft pensive, slight downward gaze, parted neutral pout, head level forward.\n\nHair: Same color/texture, pulled back or behind shoulders, neckline exposed, warm indoor highlights.\nMakeup: High-shine mauve-pink gloss, defined vermilion, soft luminosity.\n\nAccessories: Gold heart locket on dark leather choker.\n\nOutfit: Chocolate-brown off-shoulder long-sleeve mini dress, technical knit, wide folded neckline, tight fit, realistic folds/tension, defined S-curve + collarbones.\n\nPose: Seated, torso angled ~30° left, face forward, hands resting between legs, hips slightly shifted, natural shoulder/neck definition.\n\nMood/Color: Moody, cozy, sophisticated; palette (chocolate, cognac, mahogany, gold), ~3000K warm light, medium-high contrast.\n\nEnvironment: Dim upscale interior, warm diffused light (upper-left), leather sofa, patterned pillows (geometric + floral w/ tassels), dark wood paneling + burgundy wall, background softly blurred (f/2.2).",
+    "author": "daaaaanc",
+    "author_url": "https://x.com/daaaaanc",
+    "source_url": "https://x.com/daaaaanc/status/2035432997000802615",
+    "images": [
+      "https://pbs.twimg.com/media/HD9PhC5aIAABqM6.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "old money lounge",
+      "heart locket",
+      "off-shoulder dress",
+      "high-fidelity photo",
+      "sophisticated interior"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 20:00:40"
+  },
+  {
+    "id": 11850,
+    "title": "Kind of an experimental prompt. I asked Nano Banana to show the evolution of our understanding of th",
+    "prompt": "Render_Target =  ∑(Step_1_to_[N_LAYERS]) of [TOPIC]  Variable_Height(x) = Base_Height + (x * 20cm) Variable_Material(x) = Lerp(Organic_Wood_Stone, Cybernetic_Chrome, x / [N_LAYERS])  Composition: - Array of [N_LAYERS] dioramas. - Arranged Depth_Sort (Front to Back). - Each diorama represents a time-slice of [TOPIC]. - Camera: Isometric 3/4 View, Macro Lens.",
+    "author": "Gdgtify",
+    "author_url": "https://x.com/Gdgtify",
+    "source_url": "https://x.com/Gdgtify/status/2035443829374144960",
+    "images": [
+      "https://pbs.twimg.com/media/HDvBLINXAAAKkOQ.jpg",
+      "https://pbs.twimg.com/media/HDvBLIXXUAAszLX.jpg"
+    ],
+    "language": "en",
+    "category": "abstract",
+    "tags": [
+      "evolution of the universe",
+      "dioramas",
+      "Isometric 3/4 View",
+      "Cybernetic Chrome",
+      "Time-slice"
+    ],
+    "style": "3d",
+    "description": null,
+    "created_at": "2026-03-21 20:00:29"
+  },
+  {
+    "id": 11849,
+    "title": "Midjourney V8 vs Nano Banana Pro   Who wins?  Prompt:   A warm, candid mirror selfie of three young ",
+    "prompt": "A warm, candid mirror selfie of three young women in a stylish vintage bathroom, full of personality and spontaneous energy. They lean together closely, laughing and making playful expressions, capturing a genuine friendship moment. One holds a smartphone with a visible case, partially covering her face in the mirror reflection. The scene is lit with soft golden indoor lighting, creating a cozy, nostalgic atmosphere. The background features retro floral wallpaper with red and beige tones, a decorative mirror, and elegant interior details. In the foreground, a marble sink with shiny gold faucet fixtures adds a luxurious touch. The image has a slightly grainy, natural smartphone aesthetic with imperfect framing, warm color grading, and authentic candid vibes. Medium close-up, slight distortion from mirror perspective, lively composition, joyful mood, photorealistic, lifestyle photography",
+    "author": "craftian_keskin",
+    "author_url": "https://x.com/craftian_keskin",
+    "source_url": "https://x.com/craftian_keskin/status/2035445137824723291",
+    "images": [
+      "https://pbs.twimg.com/media/HD9aef2b0AAJvUS.jpg",
+      "https://pbs.twimg.com/media/HD9ae4VWYAA3M65.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "mirror selfie",
+      "vintage bathroom",
+      "lifestyle photography",
+      "candid moment",
+      "golden lighting"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 20:00:25"
+  },
+  {
+    "id": 11838,
+    "title": "Let's go out for a ride this evening?😉🚘  Dua Lipa, Jennie (Blackpink), Anya Taylor-Joy 🔥  Nano Ba",
+    "prompt": "Photorealistic high-fashion outdoor portrait of a confident young woman with long dark brown hair styled in a high messy ponytail with loose strands blowing in the wind, fair skin with subtle natural freckles, dramatic winged eyeliner, long lashes, glossy nude-pink lips, and a confident direct gaze looking at the camera. She squats low in a strong, balanced pose with knees comfortably apart, one hand resting under her chin, the other arm extended to the side for balance, back in a dynamic confident posture. Wearing a light green crocheted halter crop top with thick braided straps and front tie detail, paired with colorful patterned high-waisted shorts with side accents, and black strappy high-heeled sandals. Background: sunny luxury driveway in front of a modern house with stacked stone wall, paved ground, clear blue sky with light clouds, and a bright yellow Porsche sports car parked directly behind her, headlights and glossy paint reflecting sunlight. Strong natural daylight with golden highlights on skin, hair, and car, realistic skin texture with subtle sheen, detailed crochet fabric texture, patterned shorts, and car reflections, photorealistic, razor-sharp focus, 8k quality, high-end luxury lifestyle fashion photography style, empowering and vibrant summer vibe",
+    "author": "KeorUnreal",
+    "author_url": "https://x.com/KeorUnreal",
+    "source_url": "https://x.com/KeorUnreal/status/2035418910527287338",
+    "images": [
+      "https://pbs.twimg.com/media/HD9CsbvXcAAB5-w.jpg",
+      "https://pbs.twimg.com/media/HD9Csg0WkAE6qca.jpg",
+      "https://pbs.twimg.com/media/HD9CsoRbYAENnsS.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "high-fashion portrait",
+      "yellow Porsche",
+      "crocheted halter top",
+      "luxury lifestyle",
+      "photorealistic"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 19:00:45"
+  },
+  {
+    "id": 11837,
+    "title": "It's a weekend day let's go for a ride with AI beauty  Nano Banana pro via @Hailuo_AI   Nano Banana ",
+    "prompt": "Photorealistic high-fashion outdoor portrait of a confident young woman with long dark brown hair styled in a high messy ponytail with loose strands blowing in the wind, fair skin with subtle natural freckles, dramatic winged eyeliner, long lashes, glossy nude-pink lips, and a confident direct gaze looking at the camera. She squats low in a strong, balanced pose with knees comfortably apart, one hand resting under her chin, the other arm extended to the side for balance, back in a dynamic confident posture. Wearing a sky blue crocheted halter crop top with thick braided straps and front tie detail, paired with vibrant geometric patterned high-waisted shorts with side accents, and black strappy high-heeled sandals. Background: sunny luxury driveway in front of a modern house with stacked stone wall, paved ground, clear blue sky with light clouds, and a bright yellow Porsche sports car parked directly behind her, headlights and glossy paint reflecting sunlight. Strong natural daylight with golden highlights on skin, hair, and car, realistic skin texture with subtle sheen, detailed crochet fabric texture, patterned shorts, and car reflections, photorealistic, razor-sharp focus, 8k quality, high-end luxury lifestyle fashion photography style, empowering and vibrant summer vibe",
+    "author": "Ankit_patel211",
+    "author_url": "https://x.com/Ankit_patel211",
+    "source_url": "https://x.com/Ankit_patel211/status/2035422090011324668",
+    "images": [
+      "https://pbs.twimg.com/media/HD9FmkXaEAAr6sK.jpg",
+      "https://pbs.twimg.com/media/HD9FmiQbsAAupq5.jpg",
+      "https://pbs.twimg.com/media/HD9FmkLaEAAzn6m.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "woman",
+      "luxury lifestyle",
+      "yellow Porsche",
+      "high-fashion",
+      "outdoor portrait"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 19:00:37"
+  },
+  {
+    "id": 11836,
+    "title": "the skirt or the view? 🤎  Nano Banana 2 via Artia ✨ https://t.co/6eU4YOhZ1w  Prompt:  (9:16) Raw hi",
+    "prompt": "(9:16) Raw high-fidelity photo, eye-level, medium-wide environmental portrait, iPhone 17 Pro sim, 35mm, f/2.8, natural bokeh, authentic grain.\n\nFraming: Subject ~60% frame height, camera ~2m, outdoor terrace, wide horizon sky (top ~40%), glass railings, minimal foreground clutter.\n\nIdentity Lock: Preserve ALL facial features (structure, skin, hair, marks).\nEnhancement: Natural skin clarity (pores visible), even tone, soft glow, subtle light-based contour, refined highlights (eyes/lips/cheekbones), natural lashes/brows/teeth, salon hair.\nBio-Fidelity: Micro-pores, fine vellus hair, natural skin hydration.\nExpression: Warm/confident, soft closed-lip smile, direct eye contact over right shoulder, head turned ~80° back.\n\nHair: Same color/texture, long, sleek, straight, down back framing right shoulder, soft daylight highlights.\nMakeup: Natural daytime (soft base, subtle eyes, neutral matte lip).\n\nAccessories: None.\n\nOutfit: White rib-knit cropped sweater (tight fit) + high-waisted pleated plaid micro-skirt (brown/beige/white), sharp pleats, realistic fabric tension, defined S-curve.\n\nPose: Torso facing away (~90°), head turned back (~80°), right hand lightly lifting skirt hem, realistic finger/textile interaction.\n\nMood/Color: Warm, confident travel aesthetic; palette (white, coffee-brown, beige, sky blue), 5500K daylight, medium-high contrast.\n\nEnvironment: Outdoor terrace, diffused sunlight (upper-right), glass railings + metal posts, distant hills + urban skyline, bright sky w/ soft clouds, stone/concrete detail, background softly blurred (f/2.8).",
+    "author": "daaaaanc",
+    "author_url": "https://x.com/daaaaanc",
+    "source_url": "https://x.com/daaaaanc/status/2035429935339503647",
+    "images": [
+      "https://pbs.twimg.com/media/HD9Mu9LaIAAr0gV.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "environmental portrait",
+      "high-fidelity photo",
+      "plaid micro-skirt",
+      "outdoor terrace",
+      "travel aesthetic"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 19:00:33"
+  },
+  {
+    "id": 11835,
+    "title": "Nano Banana Prompt v.058  prompt: \"Image from subject, Cinematic vertical medium close-up. Subject i",
+    "prompt": "Image from subject, Cinematic vertical medium close-up. Subject is positioned centrally, looking slightly downward through dark-tinted eyewear with one hand resting across the midsection. Wearing a formal dark blazer over a dark high-neck garment, accessorized with a thick metallic cuban link chain and a prominent ring. The background is a minimalist, hazy dark space. Entire scene is saturated in a monochromatic amber and deep orange color grade. Low-key, high-contrast lighting featuring a strong warm rim light and deep, warm-tinted shadows. Finished with cinematic film grain and soft highlight halation.",
+    "author": "Arsistyle",
+    "author_url": "https://x.com/Arsistyle",
+    "source_url": "https://x.com/Arsistyle/status/2035431249289126035",
+    "images": [
+      "https://pbs.twimg.com/media/HDxnFpIXIAA2x5a.jpg",
+      "https://pbs.twimg.com/media/HDxnFo0WUAA-QVw.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "amber color grade",
+      "medium close-up",
+      "low-key lighting",
+      "formal blazer",
+      "film grain"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 19:00:29"
+  },
+  {
+    "id": 11834,
+    "title": "Prompt:   (access Nano Banana 2 here: https://t.co/ZGSugSciR3)  [BRAND A] + [BRAND B]. Act as a Bran",
+    "prompt": "[BRAND A] + [BRAND B]. Act as a Brand Identity Designer specializing in Logo Mashups and Visual Parody.\n\nPHASE 1: BRAND ANALYSIS\nAutonomously research both brands:\n- [BRAND A]: The brand whose NAME/TEXT will be used\n- [BRAND B]: The brand whose VISUAL STYLE will be applied\n\nExtract from [BRAND B]:\n- Signature color palette (primary + secondary colors with exact HEX codes)\n- Iconic geometric shapes (ovals, circles, rectangles, specific logo containers)\n- Typography style (font weight, letter spacing, uppercase/lowercase conventions)\n- Layout structure (horizontal/vertical orientation, element positioning)\n- Design era aesthetic (retro/modern/minimalist/ornate)\n\nPHASE 2: LOGO CONSTRUCTION\nRedesign [BRAND A] logo using [BRAND B] visual DNA:\n- Replace all colors with [BRAND B] brand colors\n- Adapt [BRAND A] text to [BRAND B] typography style\n- Insert [BRAND A] name into [BRAND B] signature shape/container\n- Match proportions and spacing of [BRAND B] original layout\n- Preserve [BRAND B] recognizable visual elements (borders, backgrounds, icons)\n\nPHASE 3: TYPOGRAPHY MATCHING\nReplicate [BRAND B] font characteristics:\n- Font family: Match weight (light/regular/bold/heavy) and style (serif/sans-serif/display)\n- Letter spacing: Copy exact kerning behavior\n- Case: Match uppercase/lowercase/mixed conventions\n- Alignment: Center/left/right as per [BRAND B] standard\n- Size relationships: Match hierarchy between primary text and secondary elements\n\nPHASE 4: COLOR IMPLEMENTATION\nApply [BRAND B] exact color system:\n- Primary color: [BRAND B] main brand color on primary elements\n- Secondary color: [BRAND B] accent color on background or text\n- Color placement: Follow [BRAND B] logic (which element gets which color)\n- NO gradients unless [BRAND B] uses them\n- Flat design aesthetic matching [BRAND B] era\n\nPHASE 5: SHAPE & LAYOUT\nReconstruct [BRAND B] signature geometric structure:\n- Container shape: Rectangle/oval/circle/custom shape from [BRAND B]\n- Proportions: Match [BRAND B] width-to-height ratio\n- Borders: Include if [BRAND B] has them (thickness, color, style)\n- Negative space: Replicate [BRAND B] breathing room around elements\n- Orientation: Horizontal/vertical/square matching [BRAND B]\n\nPHASE 6: COMPOSITION\n- Background: Light neutral gray (#E5E5E5) providing contrast\n- Logo placement: Perfect center of canvas\n- Scale: Logo occupies 40-50% of total frame\n- Margins: Equal white space on all sides\n- Clean vector aesthetic: Sharp edges, no textures, no shadows\n\nTECH SPECS:\n- Style: Flat vector graphic design\n- Resolution: 3000x3000px minimum\n- Format: Clean digital illustration\n- No gradients unless [BRAND B] specifically uses them\n- No shadows or 3D effects unless [BRAND B] has them\n- Crisp edges and solid colors only\n\nCRITICAL DIRECTIVES:\n- The result must be INSTANTLY recognizable as [BRAND B] visual style\n- [BRAND A] name must remain readable and clear\n- Match [BRAND B] exact color codes—NO approximations\n- Must look like an official [BRAND B] product at first glance\n- Preserve iconic [BRAND B] elements (shapes, layouts, proportions)\n- Final result should feel like \"[BRAND A] as designed by [BRAND B]\"",
+    "author": "AmirMushich",
+    "author_url": "https://x.com/AmirMushich",
+    "source_url": "https://x.com/AmirMushich/status/2035431268377149465",
+    "images": [
+      "https://pbs.twimg.com/media/HD9N82gWMAAYRKa.jpg"
+    ],
+    "language": "en",
+    "category": "product",
+    "tags": [
+      "brand identity",
+      "logo mashup",
+      "vector graphic",
+      "typography",
+      "flat design"
+    ],
+    "style": "minimalist",
+    "description": null,
+    "created_at": "2026-03-21 19:00:23"
+  },
+  {
+    "id": 11828,
+    "title": "Nano Banana 2 on Google Gemini  Prompt: Create a realistic photo of a person using the face from the",
+    "prompt": "Create a realistic photo of a person using the face from the uploaded image. The person is standing in the middle of a road at night, calm and confident. Cars are passing on both sides at high speed, creating motion blur and light trails around them. The person is still and clearly in focus while everything else looks fast and dynamic. The camera angle is slightly low and centered, making the shot look cinematic. Street lights and car lights illuminate the scene with a dramatic glow. The road looks slightly wet, reflecting the lights. Natural pose, casual modern outfit like a t-shirt, jacket, jeans, and sneakers. Cinematic lighting, realistic shadows, motion blur effect, atmospheric depth, professional photography.",
+    "author": "NikhilRajX",
+    "author_url": "https://x.com/NikhilRajX",
+    "source_url": "https://x.com/NikhilRajX/status/2035386046113042453",
+    "images": [
+      "https://pbs.twimg.com/media/HD8k0oRa8AA9W6y.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "motion blur",
+      "light trails",
+      "night road",
+      "realistic",
+      "dramatic lighting"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 18:01:02"
+  },
+  {
+    "id": 11827,
+    "title": "La IA acaba de cruzar otra línea. Y casi nadie está hablando de esto.  Nano Banana 2 ya está aquí… y",
+    "prompt": "Foto de una mujer de 30 años sentada en una mesa exterior en el Café de Flore en París en una noche fría. Lleva un abrigo camel y una bufanda burdeos, sosteniendo una pequeña taza blanca de espresso en su mano derecha, a mitad de un sorbo. El icónico toldo verde y blanco del Café de Flore es visible sobre ella. Las clásicas sillas de ratán estilo bistró y las mesas redondas de mármol son fieles a la ubicación real. Al otro lado de la calle, los escaparates del Boulevard Saint-Germain están ligeramente desenfocados. Su piel tiene poros visibles, enrojecimiento natural en las mejillas por el frío, sin suavizado. Luz dorada cálida que sale del interior del café. Luz ambiental fría de la calle desde arriba. Condensación en la taza de espresso. Tomada con iPhone 15 Pro, ligero grano natural.",
+    "author": "Ben_escrito",
+    "author_url": "https://x.com/Ben_escrito",
+    "source_url": "https://x.com/Ben_escrito/status/2035387021175177393",
+    "images": [
+      "https://pbs.twimg.com/media/HD8ltP8aYAEeI3Q.jpg"
+    ],
+    "language": "es",
+    "category": "portrait",
+    "tags": [
+      "mujer",
+      "Café de Flore",
+      "noche fría",
+      "realismo",
+      "fotografía"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 18:00:59"
+  },
+  {
+    "id": 11826,
+    "title": "inset your image in chat gpt  and paste the prompt:  The image has poor lighting. Improve it to look",
+    "prompt": "The image has poor lighting. Improve it to look like a professional studio setup, with proper lighting on the face. Ensure there are no harsh rim lights or strong shadows.",
+    "author": "Rehanthumbnails",
+    "author_url": "https://x.com/Rehanthumbnails",
+    "source_url": "https://x.com/Rehanthumbnails/status/2035387068277498123",
+    "images": [
+      "https://pbs.twimg.com/media/HD8js5sasAAzP6z.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "professional studio setup",
+      "proper lighting",
+      "no harsh shadows",
+      "face lighting",
+      "image improvement"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 18:00:55"
+  },
+  {
+    "id": 11825,
+    "title": "Prompt Studio: Exploded Architecture, with Nano Banana 2 in Firefly              [ROOM TYPE] pulled ",
+    "prompt": "[ROOM TYPE] pulled apart in 3D, every surface and object  floating at its exact position, slightly separated.  EXPLOSION: ceiling lifted, four walls sliding outward,  floor dropped, furniture floating in place,  objects orbiting their surfaces, light sources  still emitting across the exploded void.  The ghost of the room readable in the arrangement.  Labels on architectural elements only: \"[SURFACE]\" / \"[MATERIAL]\" / \"[DIMENSION]\"  LIGHTING: each element still lit by its original source,  windows casting light across the gap, lamps throwing cones  into empty space.  BACKGROUND: deep dark, the room floats in void. TITLE: \"[ROOM NAME]\" / SUBTITLE: \"[BUILDING TYPE] [PERIOD]\"  Mood: architectural model that became a universe. 4K, extraordinary spatial clarity, tack sharp.",
+    "author": "AllaAisling",
+    "author_url": "https://x.com/AllaAisling",
+    "source_url": "https://x.com/AllaAisling/status/2035390729527378146",
+    "images": [
+      "https://pbs.twimg.com/media/HD6DarDW8AEUEgj.jpg",
+      "https://pbs.twimg.com/media/HD6D_NrWgAAZdQ3.jpg",
+      "https://pbs.twimg.com/media/HD6EKbSWkAAAJ3L.jpg",
+      "https://pbs.twimg.com/media/HD6EUI_boAQrBA6.jpg"
+    ],
+    "language": "en",
+    "category": "architecture",
+    "tags": [
+      "Exploded Architecture",
+      "architectural model",
+      "3D visualization",
+      "exploded view",
+      "spatial clarity"
+    ],
+    "style": "3d",
+    "description": null,
+    "created_at": "2026-03-21 18:00:50"
+  },
+  {
+    "id": 11824,
+    "title": "Sienna Brooks! Nano Banana Pro! Prompt:  {   \"model\": \"Nano Banana Pro\",   \"aspect_ratio\": \"9:16\",  ",
+    "prompt": "{\n  \"model\": \"Nano Banana Pro\",\n  \"aspect_ratio\": \"9:16\",\n  \"content_rating\": \"SFW\",\n  \"subject\": \"The same consistently recognizable strikingly beautiful woman stepping gracefully out of a luxury sports car in front of an elegant hotel entrance at dusk\",\n  \"appearance\": {\n    \"hair\": \"long chestnut brown hair flowing naturally over her shoulders with soft movement\",\n    \"expression\": \"calm confident expression with subtle elegance while looking slightly ahead and away from the camera\",\n    \"proportions\": \"naturally sculpted hourglass figure with defined waist, elegant hips and long toned legs forming a striking feminine silhouette\"\n  },\n  \"outfit\": {\n    \"description\": \"ultra-short fitted satin micro mini dress with thin straps, refined V-neckline and subtle side curve cut that softly enhances the waist and hip line while elongating the legs\",\n    \"color\": \"midnight sapphire satin\",\n    \"footwear\": \"elegant metallic silver high heel stilettos with minimalist refined straps\",\n    \"accessories\": \"small structured metallic silver mini shoulder bag matching the shoes, worn high on the shoulder\",\n    \"style\": \"refined luxury evening lifestyle elegance\"\n  },\n  \"pose\": \"mid-motion while stepping out of the sports car, one hand holding the car door while the other hand briefly resting along her upper thigh to guide the dress naturally, one long leg fully extended onto the ground while the other remains slightly inside the car creating a pronounced hip curve and long elegant leg line\",\n  \"setting\": {\n    \"location\": \"luxury hotel entrance\",\n    \"details\": \"sleek dark luxury sports car, polished stone flooring, tall glass doors and warm architectural lighting reflecting across the vehicle surface\",\n    \"environment\": \"upscale cinematic evening arrival atmosphere\"\n  },\n  \"lighting\": {\n    \"type\": \"cinematic hotel entrance lighting\",\n    \"effect\": \"warm architectural lights reflecting across her silhouette and satin fabric while subtle highlights shape her legs and waistline\"\n  },\n  \"camera\": {\n    \"camera_body\": \"Full-frame professional mirrorless camera\",\n    \"lens\": \"85mm prime\",\n    \"aperture\": \"f/1.8\",\n    \"iso\": \"200\",\n    \"shutter_speed\": \"1/640s\",\n    \"focus\": \"sharp subject focus with smooth background blur\",\n    \"shot_type\": \"full-body vertical lifestyle portrait\",\n    \"angle\": \"low three-quarter angle slightly from the front emphasizing leg length, hip curve and waist definition\",\n    \"white_balance\": \"balanced warm evening lighting calibration\"\n  },\n  \"style\": {\n    \"aesthetic\": \"high-end luxury lifestyle editorial photography\",\n    \"mood\": \"confident, cinematic and elegant\",\n    \"realism\": \"true-to-life skin texture and balanced body proportions\",\n    \"avoid\": [\n      \"direct eye contact\",\n      \"stiff fashion pose\",\n      \"plastic skin\",\n      \"exaggerated anatomy\"\n    ]\n  }\n}",
+    "author": "Halleyapps",
+    "author_url": "https://x.com/Halleyapps",
+    "source_url": "https://x.com/Halleyapps/status/2035397269525074312",
+    "images": [
+      "https://pbs.twimg.com/media/HD8u35EW4AASujf.jpg",
+      "https://pbs.twimg.com/media/HD8u4e0WYAANtjH.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "luxury sports car",
+      "midnight sapphire satin dress",
+      "cinematic lighting",
+      "high-end lifestyle",
+      "full-body portrait"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 18:00:47"
+  },
+  {
+    "id": 11823,
+    "title": "Created with Gemini Nano Banana Pro on @GeminiApp  How To Use The Prompt: 1. Open Gemini App 2. Uplo",
+    "prompt": "A hyperrealistic fashion portrait of a handsome young man standing outdoors in front of a modern beige stucco house with gray louvered doors. He has short dark hair with a taper fade, styled up at the front. He is wearing round dark sunglasses, a cream beige leather zip-up jacket over a dark chocolate brown turtleneck, and brown trousers. His left thumb is hooked into his pocket. Soft overcast, diffused natural lighting. Pristine, minimalist architectural background. Shot on 85mm lens, medium depth of field.",
+    "author": "pictsbyai",
+    "author_url": "https://x.com/pictsbyai",
+    "source_url": "https://x.com/pictsbyai/status/2035401836367147198",
+    "images": [
+      "https://pbs.twimg.com/media/HD8zIWtW0AAbwG_.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "menswear",
+      "modern architecture",
+      "earth tones",
+      "leather jacket",
+      "fashion photography"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 18:00:41"
+  },
+  {
+    "id": 11822,
+    "title": "Create with Nano banana pro on @GeminiApp  Prompt:  \"Ultra-realistic full-body portrait of the same ",
+    "prompt": "\"Ultra-realistic full-body portrait of the same young man, maintaining strict facial identity and consistency with the reference image. He is positioned outdoors in a modern urban environment, with a softly blurred background featuring lush green plants and contemporary glass architecture.\nThe subject is captured in a natural walking pose — body slightly angled, one hand relaxed by his side while the other moves subtly forward. His head is gently turned to the left, creating a candid, editorial-style moment.\nWardrobe styling is minimal yet fashionable: an oversized black t-shirt with a small chest logo, black cargo pants, black sunglasses, a sleek crossbody sling bag, a wristwatch, and a subtle chain pendant — all styled in a modern streetwear aesthetic.\nLighting is soft natural daylight with cinematic quality, producing gentle highlights and realistic shadows across the subject. The atmosphere feels premium and lifestyle-focused.\nShot using an 85mm lens with a shallow depth of field — the subject remains in razor-sharp focus while the background falls into a smooth, creamy bokeh.\nTextures are highly detailed and lifelike — including fabric folds, skin tones, accessories, and environmental elements.\nColor grading is clean and modern with subtle contrast, enhancing realism while maintaining a polished cinematic tone.\n8K resolution, ultra-sharp details, photorealistic, professional fashion editorial style, high dynamic range, premium composition.\"",
+    "author": "frametheory058",
+    "author_url": "https://x.com/frametheory058",
+    "source_url": "https://x.com/frametheory058/status/2035406353821487241",
+    "images": [
+      "https://pbs.twimg.com/media/HD83SPia4AAybiv.jpg",
+      "https://pbs.twimg.com/media/HD83SWZakAA5ab9.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "young man",
+      "streetwear aesthetic",
+      "cinematic lighting",
+      "urban environment",
+      "photorealistic"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 18:00:37"
+  },
+  {
+    "id": 11821,
+    "title": "Dark Queens of the court 🏀  Minnie Yuqi Soyeon  I-DLE  Nano Banana 2 via Gemini   {   \"prompt\": \"an",
+    "prompt": "an image featuring the heavy grain, specific color grading, high contrast, and flash-bulb lighting typical of a vintage polaroid photo, with no external white film frame. subject is Minnie from (G)I-DLE as a female basketball player. she has her signature heavy-lidded sleepy eyes, a sharp jawline, and unique doll-like features. she has very dark, almost black, long straight hair with a sleek fringe/bangs. she is wearing a dark crimson red lace dress and a black lace choker, sitting on the court with a ball under her feet. she is wearing black lipstick. the scene has a moody, nighttime atmosphere with a dark basketball gym background, evoking a 90s aesthetic.\n\nan image featuring the heavy grain, specific color grading, high contrast, and flash-bulb lighting typical of a vintage polaroid photo, with no external white film frame. subject is Yuqi from (G)I-DLE as a female basketball player. she has a cute yet sophisticated face with rounder eyes and a distinctively deep, expressive gaze. she has long, natural dark hair styled in wavy curls. she is wearing a dark onyx black lace dress and a black lace choker, sitting on the court with a ball under her feet. she is wearing black lipstick. the scene has a moody, nighttime atmosphere with a dark basketball gym background, evoking a 90s aesthetic. \n\nan image featuring the heavy grain, specific color grading, high contrast, and flash-bulb lighting typical of a vintage polaroid photo, with no external white film frame. subject is Soyeon from (G)I-DLE as a female basketball player. she has sharp, fierce cat-like eyes, high cheekbones, and a charismatic small face. she has natural dark, chic, short bobbed hair styled sharply. she is wearing a dark midnight purple lace dress and a black lace choker, sitting on the court with a ball under her feet. she is wearing black lipstick. the scene has a moody, nighttime atmosphere with a dark basketball gym background, evoking a 90s aesthetic.",
+    "author": "youngcatwoman",
+    "author_url": "https://x.com/youngcatwoman",
+    "source_url": "https://x.com/youngcatwoman/status/2035411114486354124",
+    "images": [
+      "https://pbs.twimg.com/media/HDksnEybEAE7_Cj.jpg",
+      "https://pbs.twimg.com/media/HDkswufbEAILQhw.jpg",
+      "https://pbs.twimg.com/media/HDksxZTasAA7f44.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "vintage polaroid",
+      "90s aesthetic",
+      "basketball court",
+      "lace dress",
+      "moody nighttime"
+    ],
+    "style": "vintage",
+    "description": null,
+    "created_at": "2026-03-21 18:00:33"
+  },
+  {
+    "id": 11820,
+    "title": "Nano Banana Pro vs. GPT   Prompt: Create a [2:3] poster where the center is torn diagonally, reveali",
+    "prompt": "Create a [2:3] poster where the center is torn diagonally, revealing two contrasting eras of Kyoto. On the top-left torn layer, show Kyoto in the 1920s with sepia-toned streets, vintage rickshaws, and traditional machiya townhouses. On the bottom-right exposed layer, show a futuristic Kyoto in the year 2080, with hovering transit pods, holographic cherry blossom advertisements, and sleek vertical gardens integrated into cyber-shinto towers.  The torn paper edges are crisp and textured, curling slightly to cast shadows. The word “KYOTO” spans across both eras in bold typography, transitioning from retro woodblock-style lettering on the left to sleek sci-fi neon kanji on the right. Soft studio light, high-resolution print-ready render, clean off-white border.",
+    "author": "Gdgtify",
+    "author_url": "https://x.com/Gdgtify",
+    "source_url": "https://x.com/Gdgtify/status/2035411617236893971",
+    "images": [
+      "https://pbs.twimg.com/media/HDuuSZmWwAAiNGW.jpg",
+      "https://pbs.twimg.com/media/HDuwxmUbIAA5LjE.jpg"
+    ],
+    "language": "en",
+    "category": "landscape",
+    "tags": [
+      "Kyoto",
+      "torn paper effect",
+      "futuristic",
+      "vintage",
+      "typography"
+    ],
+    "style": "artistic",
+    "description": null,
+    "created_at": "2026-03-21 18:00:28"
+  },
+  {
+    "id": 11819,
+    "title": "Dua Lipa or Sydney Sweeney ?  Nano Banana Pro via @hedra_labs   Prompt:  {   \"subject\": {     \"ident",
+    "prompt": "{\n  \"subject\": {\n    \"identity\": {\n      \"likeness_calibration\": \"A 100% high-fidelity physical and anatomical representation of Sydney Sweeney, focusing on her specific facial morphology and genetic markers.\",\n      \"features\": {\n        \"facial_structure\": \"Accurate jawline, cheekbone definition, and facial symmetry unique to Sydney Sweeney.\",\n        \"eyes\": \"Deep-set, clear blue iris pattern with realistic light refraction and detailed eyelashes. Gaze is neutral and composed.\",\n        \"expression\": \"A serious, non-smiling, neutral expression with closed lips. No makeup, maintaining natural skin tones.\",\n        \"hair\": \"Slick, wet-look hair in Sydney Sweeney's natural honey blonde shade (#D6C5A1). The hair is flattened and slicked back, textured with a heavy water sheen and visible droplets, clinging to the neck and shoulders.\",\n        \"skin\": \"Wet, glistening skin texture with visible water droplets on the face and torso. Natural skin pores and fine textures are enhanced by moisture, showing realistic subsurface scattering.\"\n      }\n    },\n    \"body\": {\n      \"form\": {\n        \"structure\": \"A professional and precise representation of the target identity's refined hourglass somatic body type.\",\n        \"definition\": \"Toned muscle definition across the core and limbs, glistening with water sheen. Accurate waist-to-hip ratio and athletic posture.\",\n        \"constraints\": {\n          \"zero_tolerance\": [\n            \"no anatomical artifacts\",\n            \"no extra limbs\",\n            \"no beautify smoothing\",\n            \"no distorted joints\"\n          ]\n        }\n      },\n      \"textures\": {\n        \"surface\": \"Highly granular skin texture with water film and droplets. Skin tone is a natural fair-to-sun-kissed gradient (HEX: #EBCBB2).\",\n        \"interaction\": \"Water reflects the turquoise pool light on the surface of the skin.\"\n      }\n    }\n  },\n  \"wardrobe\": {\n    \"item\": \"A royal blue (#007FFF) criss-cross strap monokini with a sophisticated cutout design.\",\n    \"details\": \"Central gold-tone metal ring connector (#D4AF37) at the solar plexus. The fabric is dark and saturated due to being wet, clinging tightly to the body with visible fiber weave and anisotropic reflections.\",\n    \"accessories\": \"None. Minimalist approach to maintain focus on the identity and wet texture.\"\n  },\n  \"pose_action\": {\n    \"description\": \"The subject is seated on a light-colored stone pool coping edge (#D2D2D2). Legs are crossed and extended forward. The right hand is placed naturally on the coping for balance. The posture is elegant and symmetrical.\"\n  },\n  \"scene\": {\n    \"description\": \"Luxury resort pool area at night. The foreground features wet marble coping with reflection integrity.\",\n    \"environment\": {\n      \"midground\": \"Brightly lit turquoise pool water (#00CED1) with soft surface ripples. Symmetrical row of light gray lounge chairs (#A9A9A9) and closed beach umbrellas.\",\n      \"background\": \"Distant palm trees with warm ground lighting and multi-story resort architecture against a clear, dark night sky.\",\n      \"integrity\": \"Strictly no text, no logos, no branding on any surface. Perfect perspective alignment for reflections on wet surfaces.\"\n    }\n  },\n  \"lighting\": {\n    \"setup\": \"Cinematic dual-tone nocturnal lighting.\",\n    \"pool_uplighting\": \"Intense turquoise (#00CED1) light from below, creating sharp highlights on the wet skin and fabric.\",\n    \"ambient_warmth\": \"Warm, diffused resort lighting (#FFE4B5) providing soft key light on the face and upper body.\",\n    \"technical_lighting\": \"Realistic ray-traced reflections on water droplets and wet hair fibers.\"\n  },\n  \"camera\": {\n    \"technical_specs\": \"8k RAW professional photography, medium shot, eye-level. Hasselblad 80mm lens, f/5.6 for natural depth of field. High-dynamic range (HDR) color science prioritizing skin and fabric accuracy.\",\n    \"aspect_ratio\": \"9:16\"\n  }\n}",
+    "author": "PinodiArt",
+    "author_url": "https://x.com/PinodiArt",
+    "source_url": "https://x.com/PinodiArt/status/2035412403282722978",
+    "images": [
+      "https://pbs.twimg.com/media/HD88tP6XcAA5nRI.jpg",
+      "https://pbs.twimg.com/media/HD88uT6agAAUy30.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "Sydney Sweeney",
+      "monokini",
+      "wet skin",
+      "poolside",
+      "cinematic lighting"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 18:00:24"
+  },
+  {
+    "id": 11811,
+    "title": "Chaitra Navratri with AI 🙏  Gemini Nano Banana Pro 🍌  Prompt ⤵️  “Ultra-cinematic, hyper-realistic",
+    "prompt": "“Ultra-cinematic, hyper-realistic depiction of Goddess Chandraghanta, the third form of Durga, portrayed as a divine warrior goddess with natural human skin texture and lifelike facial details—visible pores, subtle imperfections, and authentic human expression, avoiding any plastic or artificial AI look.\n\nShe has a radiant golden complexion with a powerful divine presence. On her forehead is a glowing crescent moon shaped like a bell, softly emitting sacred golden light. Her expression balances fearless warrior strength and serene compassion.\n\nShe has ten arms, dynamically positioned, holding divine weapons such as a trident, sword, mace, bow, arrow, lotus, and other celestial weapons. One hand is raised in Abhaya Mudra, blessing devotees with protection and fearlessness.\n\nShe wears a majestic antique gold crown, intricately detailed but realistic, along with divine warrior jewelry and a flowing deep red and gold saree or battle attire moving dramatically in the wind.\n\nShe rides a powerful lion, roaring slightly, with extremely detailed fur and muscular anatomy, symbolizing courage and dominance over fear.\n\nA bright golden-yellow divine aura radiates behind her like a celestial halo, with glowing particles and rays of sacred light spreading through the scene.\n\nThe background is a dramatic mythological battlefield sky mixed with Himalayan mountains, dark storm clouds opening with powerful rays of sunlight breaking through, creating an epic divine atmosphere.\n\nWind moves her garments and hair, dust and light particles float in the air, adding motion and intensity.\n\nCamera angle: low cinematic angle (hero shot) looking upward at the goddess to emphasize power and divinity.\n\nLighting: dramatic cinematic lighting with golden god rays, high dynamic range, volumetric light, epic contrast.\n\nMood: powerful, fearless, protective, majestic, divine warrior energy.\n\nStyle: ultra-photorealistic, mythological cinematic scene, 8K detail, HDR lighting, realistic metals, fabrics, and fur, spiritual golden aura, epic fantasy realism, vertical composition (9:16) optimized for Instagram.\n\nEpic cinematic composition, dramatic god rays, volumetric lighting, ultra detailed, trending mythological realism, vertical 9:16 Instagram reel format.”",
+    "author": "punkhuri1",
+    "author_url": "https://x.com/punkhuri1",
+    "source_url": "https://x.com/punkhuri1/status/2035376433078616497",
+    "images": [
+      "https://pbs.twimg.com/media/HD8cED4bcAAYTet.jpg"
+    ],
+    "language": "en",
+    "category": "character",
+    "tags": [
+      "Goddess Chandraghanta",
+      "divine warrior",
+      "hyper-realistic",
+      "mythological realism",
+      "god rays"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 16:00:46"
+  },
+  {
+    "id": 11810,
+    "title": "Where to go?✈️  Made by Nano Banana Pro via https://t.co/l7G4X00UT3🐈💜  Create yours now!  {   \"pro",
+    "prompt": "A cozy lifestyle travel portrait of a young woman with soft red hair tied back, sitting comfortably in an airplane seat. She is wearing a light beige casual top and shorts, with modern over-ear headphones resting around her neck. She is smiling slightly while eating instant noodles with chopsticks from a red cup. The airplane cabin interior is softly lit, with a side table holding a pack of biscuits and travel items. Neutral warm tones, relaxed candid mood, natural skin texture, shallow depth of field, realistic lifestyle photography.",
+    "author": "mizq06",
+    "author_url": "https://x.com/mizq06",
+    "source_url": "https://x.com/mizq06/status/2035381603258802502",
+    "images": [
+      "https://pbs.twimg.com/media/HD8gjYkawAAFlro.jpg",
+      "https://pbs.twimg.com/media/HD8gjYkaEAA_Rc1.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "young woman",
+      "airplane cabin",
+      "instant noodles",
+      "lifestyle photography",
+      "travel"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 16:00:41"
+  },
+  {
+    "id": 11809,
+    "title": "Prompt Share 🚨  Welcome to the world of Mini Beasts Building a comic book is just step one. #AKCB  ",
+    "prompt": "A cinematic macro toy-photography scene of the uploaded reference character multiplied into dozens of miniature identical instances, each actively working on a giant open comic book that tells the story of the same character.\nLikeness Integrity (CRITICAL)\n\nAll miniature instances must preserve the exact identity of the reference character:\n\n• identical proportions\n\n• exact eye shape, spacing, stylization\n\n• same silhouette and material behavior\n\n• no added features, no face changes, no stylization drift\nThe comic book artwork must depict the exact same character design language, translated into printed comic style without altering anatomy or facial structure.\nScene Concept & Action\nThe giant comic book lies open like a construction site of narrative.\nMini characters are scattered across the pages, each performing a specific task:\n• some are drawing panels with tiny tools (pens, brushes, stylus-like tools)\n\n• some are painting color into panels\n\n• some are climbing panel borders like scaffolding\n\n• some are inspecting scenes, pointing, directing\n\n• some are physically interacting with the comic world ( lifting panels, stepping into frames)\nThe scene must feel like they are building their own story in real-time.\nPerspective & Composition (MANDATORY)\nCamera & Perspective (Corrected)\nLow-angle macro shot, camera positioned close to the comic page\nLens: 90–100mm macro (compression, NOT distortion)\n• Perspective compression must preserve consistent object scale\n\n• Foreground character appears larger only due to proximity to lens\n\n• No exaggerated wide-angle distortion\n\n• Spatial depth created through distance falloff + focus, not scaling\n\n• The open comic book stretches diagonally into depth\n\n• Panels form strong leading lines across the frame\n\n• Composition is intentionally off-balance, not centered\n\n• Some characters partially cropped by frame edges\nForeground includes blurred ink tools, paper edges, or panel borders creating depth layering\nDepth of Field (CRITICAL)\nExtremely shallow depth of field\n• Primary focal plane: one or two mini characters in the foreground actively working\n\n• Mid-ground characters slightly softer\n\n• Background characters and panels fall into creamy blur\nNo full-frame sharpness\nFocus must guide the viewer toward the “main worker” character\nLighting Doctrine\nHard directional cinematic light from top-left\n• sharp shadows cast across comic panels\n\n• subtle rim light separating characters from page\n\n• ink reflections create small specular highlights\n\n• shadows from panel edges create natural depth\nNo flat lighting\nEnvironment & Surface Detail\nMacro-level realism of the comic book:\n• visible paper fibers\n\n• ink texture and slight gloss\n\n• subtle imperfections in print\n\n• panel borders slightly raised or embossed\nTiny tools leave micro marks on the page\nColor Grade\nRich comic-book saturation in panels\nForeground characters slightly more saturated\nBackground slightly muted\nWarm highlights with controlled contrast\nEmotion\nSelf-creation.\n\nThe character is not inside the story.\n\nThe character is manufacturing its own myth.\nNegative Constraints\nNo redesign of character\n\nNo added facial features\n\nNo humanization\n\nNo flat composition\n\nNo centered symmetry\n\nNo full sharpness\n\nNo empty or inactive mini figures\n\nUniform Scale Enforcement (CRITICAL)\nAll miniature characters must be exactly the same physical size across the entire scene.\n• No character is larger or smaller than another\n\n• Do NOT scale characters based on distance\n\n• Depth must be created only through perspective and depth of field, not size variation\n\n• Distant characters must appear smaller only due to camera distance, not actual scale change\n\n• If measured side-by-side, all characters would be identical in height and proportions⚠️ Explicitly forbid:\n\n• oversized foreground characters\n\n• undersized background characters\n\n• artificial scale hierarchy\nThis is a physically accurate macro photograph. Object scale is constant.\nar 5:4",
+    "author": "edizkan_",
+    "author_url": "https://x.com/edizkan_",
+    "source_url": "https://x.com/edizkan_/status/2035382282580557892",
+    "images": [
+      "https://pbs.twimg.com/media/HD8hTgkaIAAP3Mq.jpg"
+    ],
+    "language": "en",
+    "category": "character",
+    "tags": [
+      "macro toy-photography",
+      "miniature instances",
+      "comic book construction",
+      "shallow depth of field",
+      "cinematic lighting"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 16:00:34"
+  },
+  {
+    "id": 11808,
+    "title": "Nano Banana 2 is insane!🔥  Create yours now on https://t.co/8vX0Io2qWu!  {   \"prompt\": \"A vibrant b",
+    "prompt": "A vibrant beach portrait of a young woman with long wavy red hair wearing a textured olive green bikini. She is kneeling playfully in shallow ocean waves as water splashes around her. A delicate pink orchid flower is tucked behind her ear. Bright tropical sunlight illuminates her glowing skin and the turquoise sea in the background. Natural movement in the water, soft shadows, high-detail lifestyle swimwear photography, fresh summer mood, realistic textures, shallow depth of field.",
+    "author": "NattyWindstorm",
+    "author_url": "https://x.com/NattyWindstorm",
+    "source_url": "https://x.com/NattyWindstorm/status/2035383896356123015",
+    "images": [
+      "https://pbs.twimg.com/media/HD8h-jFboAAJCJf.jpg",
+      "https://pbs.twimg.com/media/HD8iBtrawAANaiP.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "beach portrait",
+      "red hair",
+      "bikini",
+      "tropical sunlight",
+      "swimwear photography"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 16:00:26"
+  },
+  {
+    "id": 11798,
+    "title": "Nano Banana 2 Gece Yarısı Gerçekçi Bir Özçekim  Harika sonuçlar çıkarıyor!  Prompt:   Çok yakından, ",
+    "prompt": "Çok yakından, ekstra detaylı, düşük kaliteli gece özçekimi. Dikey 9:16 oranındaki bir düşsel görüntüde, tuvalde yirmili yaşlarının başlarında genç bir kadının ışıldayan varlığı hakim; yüz hatları, Kuzey Avrupa'nın soğukluğuna özgü, uhrevi bir simetri ve porselen zarafeti sergiliyor. Yüzü, yandan gelen sıcak, siyah uzun, saçlarıyla çerçevelenmiş; bu da gecenin derin, obsidyen boşluğuna karşı dans eden narin, dağınık saç tutamlarından oluşan bir hale yaratıyor. Hafif bir kedi gözü eğimiyle derin ve büyüleyici gözleri, yumuşak, kanatlı eyeliner ve iç köşelerinde hafif bir ışıltıyla vurgulanmış, sakin ve büyüleyici bir derinlikle ileriye bakıyor. Yüzünün cildi kusursuz ve ışıl ışıl, yüksek, zarif elmacık kemiklerini ve düz, ince bir burnu vurgulayan yumuşak odaklı bir mükemmelliğe sahip. Dudakları, doğal olarak hafif pembe bir tonla dolgun ve gizemli bir ifadeyle süper model cazibesini artırıyor. Üzerinde turkuaz fermuarlı bir kapüşonlu sweatshirt olan sade beyaz bir bluz giymiş; fermuarın metal dişleri ışığı yansıtarak saçının ve teninin yumuşaklığına dokunsal bir kontrast katıyor. İnce ve narin yapısıyla, bu samimi yakın çekimde bile kadrajı domine eden doğal bir duruş sergiliyor. Sağ tarafına yerleştirilen ışık kaynağı, yüz hatlarına hafif bir sıcaklık geçişi sağlarken, sol tarafı yumuşak, sinematik bir gölgede bırakarak kompozisyonu sessiz, gece güzelliğinin bir anına yerleştiriyor.",
+    "author": "girisimcihisler",
+    "author_url": "https://x.com/girisimcihisler",
+    "source_url": "https://x.com/girisimcihisler/status/2035360451496734752",
+    "images": [
+      "https://pbs.twimg.com/media/HD8NiqlWQAATwD6.jpg"
+    ],
+    "language": "tr",
+    "category": "portrait",
+    "tags": [
+      "genç kadın",
+      "gece özçekimi",
+      "sinematik gölge",
+      "kuzey avrupa",
+      "yakın çekim"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 15:00:49"
+  },
+  {
+    "id": 11797,
+    "title": "Let's chew while playing 🕹️  Do you want to join this celeb?  Sydney sweeney, Madlyen cline and Sab",
+    "prompt": "{\n  \"photo_type\": \"Direct smartphone selfie, casual snapshot\",\n  \"subject\": {\n    \"age\": \"early 20s\",\n    \"description\": \"young woman of mixed heritage, olive skin, slim athletic build, playful close-up pulling pink bubblegum from mouth\",\n    \"expression\": \"playful confident smile, direct eye contact\",\n    \"hair\": \"long messy-wavy brown, center-parted, natural volume with flyaways over shoulders\"\n  },\n  \"clothing\": {\n    \"top\": \"baby blue multi-strap crop top with thin criss-cross details, fitted comfortable fabric\"\n  },\n  \"face\": {\n    \"description\": \"preserve uploaded reference 100%\",\n    \"eyebrows\": \"thick dark well-defined arches\",\n    \"eyes\": \"almond-shaped, winged black eyeliner, pink eyeshadow\",\n    \"lips\": \"soft glossy lips, pink bubblegum stretched between teeth\",\n    \"makeup\": \"heavy pink eyeshadow, sharp cat-eye liner, rosy blush, high-shine gloss\"\n  },\n  \"skin_texture\": \"natural with visible pores, minor T-zone oil, fine vellus hair on jawline\",\n  \"pose\": {\n    \"action\": \"holding stretched pink gum strand between thumb & forefinger, head tilted, shoulders relaxed\"\n  },\n  \"accessories\": {\n    \"jewelry\": \"thin black velvet choker necklace\",\n    \"prop\": \"pink bubblegum\"\n  },\n  \"background\": {\n    \"setting\": \"dimly lit arcade/game room with neon written 'Love Games' in backdrop\",\n    \"elements\": [\"black arcade cabinet\", \"pink dripping paint graphic\", \"dark reflective panels\"],\n    \"atmosphere\": \"casual late-night edgy indoor vibe\"\n  },\n  \"lighting\": \"direct on-camera smartphone flash, harsh flat highlights & sharp shadows\",\n  \"camera\": {\n    \"device\": \"iPhone 16 Pro front camera\",\n    \"lens\": \"wide-angle\",\n    \"settings\": \"f/11 deep focus, 1/100s, ISO 400, Smart HDR, Deep Fusion\",\n    \"shot_type\": \"close-up selfie, 9:16\",\n    \"imperfections\": \"lens smudges, minor noise in shadows, flyaways, raw unedited phone look\"\n  },\n  \"style\": \"amateur handheld realism, deep focus everywhere sharp, vibrant color with neon pink pop & warm skin tones\",\n  \"vibe\": \"playful confident late-night casual mood\"\n}",
+    "author": "Ankit_patel211",
+    "author_url": "https://x.com/Ankit_patel211",
+    "source_url": "https://x.com/Ankit_patel211/status/2035361024803770626",
+    "images": [
+      "https://pbs.twimg.com/media/HD8N90JbEAAOB5d.jpg",
+      "https://pbs.twimg.com/media/HD8N92BawAA3SJT.jpg",
+      "https://pbs.twimg.com/media/HD8N93SbEAAdiK0.jpg",
+      "https://pbs.twimg.com/media/HD8N94-aIAAbUqZ.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "smartphone selfie",
+      "bubblegum",
+      "arcade",
+      "neon lighting",
+      "iPhone photography"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 15:00:45"
+  },
+  {
+    "id": 11796,
+    "title": "Bom dia galera...prompt avançado do dia testado no Nano Banana 2 🍌  Essa Paulista do futuro em 2045",
+    "prompt": "Uma visão hiper-realista da Avenida Paulista em 2045 à noite, cyberpunk otimista brasileiro, arranha-céus com fachadas de LED holográfico exibindo arte gerada por IA, carros voadores elétricos com neon verde-amarelo, multidão diversa usando óculos AR e implantes neurais sutis, robôs humanoides entregando açaí e pastel de feira, MASP flutuando com elementos digitais, chuva leve refletindo luzes neon, atmosfera vibrante e esperançosa, ultra-detalhado, cinematográfico, iluminação volumétrica god rays, subsurface scattering na pele, 8k, masterpiece, --ar 16:9 --stylize 750 --v 7 --q 2",
+    "author": "nildojs81",
+    "author_url": "https://x.com/nildojs81",
+    "source_url": "https://x.com/nildojs81/status/2035366000384675993",
+    "images": [
+      "https://pbs.twimg.com/media/HD8SHI6aAAAGJ9e.jpg"
+    ],
+    "language": "pt",
+    "category": "landscape",
+    "tags": [
+      "Avenida Paulista",
+      "cyberpunk",
+      "futuro",
+      "hiper-realista",
+      "neon"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 15:00:40"
+  },
+  {
+    "id": 11795,
+    "title": "Angel Beauty Sadie Sink 😇👑✨️  Gemini Nano Banana Pro   Prompt: {   \"image_prompt\": {     \"subject\"",
+    "prompt": "{\n  \"image_prompt\": {\n    \"subject\": {\n      \"appearance\": \"Young woman with long, voluminous, curly vibrant red hair\",\n      \"likeness\": \"Sadie Sink\",\n      \"expression\": \"Serene, confident, gazing directly at the camera\"\n    },\n    \"pose\": \"Standing upright, both arms raised gracefully and stretched high above her head\",\n    \"wardrobe\": {\n      \"base\": \"Delicate white lace bra and panty lingerie set\",\n      \"outerwear\": \"Large, opulent, floor-length white feathered robe draped over the shoulders\",\n      \"hosiery\": \"Sheer white thigh-high stockings with intricate floral lace trim and detailing\"\n    },\n    \"environment\": {\n      \"setting\": \"Lush, sunlit outdoor garden\",\n      \"background_elements\": [\n        \"Classic, multi-tiered moss-covered stone water fountain\",\n        \"Ancient stone ruins and garden walls\",\n        \"Dense green trees and vibrant foliage\",\n        \"Warm glowing string lights suspended between the trees\"\n      ]\n    },\n    \"lighting_and_atmosphere\": \"Dappled natural sunlight filtering through the canopy, ethereal, magical, soft daytime glow, high fashion editorial aesthetic\",\n    \"technical_specs\": \"Photorealistic, highly detailed, 8k resolution, sharp focus on subject, shallow depth of field, cinematic composition, fashion photography\"\n  }\n}",
+    "author": "NameIsSudee",
+    "author_url": "https://x.com/NameIsSudee",
+    "source_url": "https://x.com/NameIsSudee/status/2035370551058014308",
+    "images": [
+      "https://pbs.twimg.com/media/HD8Wt6xbAAAZEYQ.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "Sadie Sink",
+      "red hair",
+      "white lace lingerie",
+      "outdoor garden",
+      "photorealistic"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 15:00:23"
+  },
+  {
+    "id": 11788,
+    "title": "Nano Banana 2 on Gemini app   Prompt: Cinematic lifestyle street photo of a young man sitting at a s",
+    "prompt": "Cinematic lifestyle street photo of a young man sitting at a small round wooden table at a street-side café, looking at the camera He wears round tortoiseshell glasses, a loose white button-up shirt slightly open at the collar, and light blue wide-leg denim jeans. hand. A small brown cup of coffee on a metal saucer sits on the table.",
+    "author": "Taaruk_",
+    "author_url": "https://x.com/Taaruk_",
+    "source_url": "https://x.com/Taaruk_/status/2035342355231105275",
+    "images": [
+      "https://pbs.twimg.com/media/HD79E6lbUAAoU_m.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "young man",
+      "street-side café",
+      "tortoiseshell glasses",
+      "lifestyle photo",
+      "coffee cup"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 14:01:00"
+  },
+  {
+    "id": 11787,
+    "title": "Google Gemini Nano Banana Pro  Prompt: A cinematic candid portrait of an Asian woman with messy shor",
+    "prompt": "A cinematic candid portrait of an Asian woman with messy short bob hair floating in zero gravity while turning her head back toward the camera, smiling brightly with a cheerful and carefree expression. Her hair drifts freely around her face, creating a soft, weightless motion. She wears a casual oversized hoodie and loose streetwear that gently floats with her body. The moment feels spontaneous and unposed, capturing pure joy in motion. Strong motion blur blends with the drifting movement, while her face remains partially visible.\nThe background is a surreal low-light environment\nfilled with soft floating particles and subtle glowing\nlight, enhancing the sense of weightlessness. Vintage\nbrown monochrome tones dominate the scene,\nenhanced by soft analog film grain and a low light\natmosphere. Imperfect framing, subtle light falloff,\nand nostalgic texture create the feel of a fleeting\nmemory captured on 35mm film. Cinematic filmstill, dreamy and joyful mood, raw candid energy in\nzero gravity --ar 3:4 -raw --stylize 230",
+    "author": "ChillaiKalan__",
+    "author_url": "https://x.com/ChillaiKalan__",
+    "source_url": "https://x.com/ChillaiKalan__/status/2035346596259594328",
+    "images": [
+      "https://pbs.twimg.com/media/HD8A8HwaEAA7jtM.jpg",
+      "https://pbs.twimg.com/media/HD8A8LLaoAADwnh.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "zero gravity",
+      "Asian woman",
+      "35mm film",
+      "motion blur",
+      "vintage brown monochrome"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 14:00:57"
+  },
+  {
+    "id": 11786,
+    "title": "Gal Gadot w/ Gemini Nano Banana Pro  Prompt: {   \"vibe_title_en\": \"Frozen Symmetry\",   \"master_promp",
+    "prompt": "Close-up portrait of The Protagonist wearing an avant-garde, structural headpiece composed of interlocking, semi-translucent ribbons of matte porcelain and frozen aerogel. The headpiece spirals organically around the head and neck, resembling a futuristic ruff or architectural plumage. The color palette is a monochromatic study of icy cyans, pale whites, and soft lavender shadows. The lighting is soft and enveloping, mimicking the diffusion of light through glacial ice. Captured on a Hasselblad H6D-100c with an 80mm f/2.8 HC lens to achieve razor-sharp focus on the skin texture while softening the edges of the abstract structure. Film simulation of Fujifilm Pro 400H to emphasize cool pastel tones and fine grain. The skin is hyper-realistic with visible pores, contrasting against the synthetic smoothness of the sculpture. No CGI feel; practical effects aesthetic.",
+    "author": "timedoctor_nft",
+    "author_url": "https://x.com/timedoctor_nft",
+    "source_url": "https://x.com/timedoctor_nft/status/2035348962295595034",
+    "images": [
+      "https://pbs.twimg.com/media/HD8DGEaWEAAvJj8.jpg",
+      "https://pbs.twimg.com/media/HD8DF_tWIAA5Kyd.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "structural headpiece",
+      "hyper-realistic",
+      "frozen symmetry",
+      "medium format",
+      "avant-garde"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 14:00:51"
+  },
+  {
+    "id": 11785,
+    "title": "Let's chew while playing!😋🕹 who wants to join?🤗  Sophie Rain, Sydney Sweeney, Emily Rudd, Sadie s",
+    "prompt": "{\n  \"photo_type\": \"Direct smartphone selfie, casual snapshot\",\n  \"subject\": {\n    \"age\": \"early 20s\",\n    \"description\": \"young woman of mixed heritage, olive skin, slim athletic build, playful close-up pulling pink bubblegum from mouth\",\n    \"expression\": \"playful confident smile, direct eye contact\",\n    \"hair\": \"long messy-wavy brown, center-parted, natural volume with flyaways over shoulders\"\n  },\n  \"clothing\": {\n    \"top\": \"pink multi-strap crop top with thin criss-cross details, fitted comfortable fabric\"\n  },\n  \"face\": {\n    \"description\": \"preserve uploaded reference 100%\",\n    \"eyebrows\": \"thick dark well-defined arches\",\n    \"eyes\": \"almond-shaped, winged black eyeliner, pink eyeshadow\",\n    \"lips\": \"soft glossy lips, pink bubblegum stretched between teeth\",\n    \"makeup\": \"heavy pink eyeshadow, sharp cat-eye liner, rosy blush, high-shine gloss\"\n  },\n  \"skin_texture\": \"natural with visible pores, minor T-zone oil, fine vellus hair on jawline\",\n  \"pose\": {\n    \"action\": \"holding stretched pink gum strand between thumb & forefinger, head tilted, shoulders relaxed\"\n  },\n  \"accessories\": {\n    \"jewelry\": \"thin black velvet choker necklace\",\n    \"prop\": \"pink bubblegum\"\n  },\n  \"background\": {\n    \"setting\": \"dimly lit arcade/game room with neon written 'Keor Games' in backdrop\",\n    \"elements\": [\"black arcade cabinet\", \"pink dripping paint graphic\", \"dark reflective panels\"],\n    \"atmosphere\": \"casual late-night edgy indoor vibe\"\n  },\n  \"lighting\": \"direct on-camera smartphone flash, harsh flat highlights & sharp shadows\",\n  \"camera\": {\n    \"device\": \"iPhone 16 Pro front camera\",\n    \"lens\": \"wide-angle\",\n    \"settings\": \"f/11 deep focus, 1/100s, ISO 400, Smart HDR, Deep Fusion\",\n    \"shot_type\": \"close-up selfie, 9:16\",\n    \"imperfections\": \"lens smudges, minor noise in shadows, flyaways, raw unedited phone look\"\n  },\n  \"style\": \"amateur handheld realism, deep focus everywhere sharp, vibrant color with neon pink pop & warm skin tones\",\n  \"vibe\": \"playful confident late-night casual mood\"\n}",
+    "author": "KeorUnreal",
+    "author_url": "https://x.com/KeorUnreal",
+    "source_url": "https://x.com/KeorUnreal/status/2035349395680428109",
+    "images": [
+      "https://pbs.twimg.com/media/HD8DeGqbMAANgUp.jpg",
+      "https://pbs.twimg.com/media/HD8DeG6XcAAnWy3.jpg",
+      "https://pbs.twimg.com/media/HD8DeNMXUAAKA53.jpg",
+      "https://pbs.twimg.com/media/HD8DeQHXwAApNSP.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "smartphone selfie",
+      "bubblegum",
+      "arcade setting",
+      "flash photography",
+      "hyper-realistic"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 14:00:47"
+  },
+  {
+    "id": 11784,
+    "title": "Gemini Nano Banana 2  Prompt: Turn my photo into a cartoon/chibi-style illustration, with big bright",
+    "prompt": "Turn my photo into a cartoon/chibi-style illustration, with big bright eyes, smooth skin with a soft blush on the cheeks, and delicate lips. Keep my real features (eye color, face shape, and hair).\n\nThe hair should appear long, with soft waves and natural highlights.\n\nThe illustration should appear emerging from the left side of the image (as if peeking in), leaving plenty of empty space on the right side like a wallpaper.”\n\nOn the side of the picture write \"“Welcome to My World.\"",
+    "author": "Naiknelofar788",
+    "author_url": "https://x.com/Naiknelofar788",
+    "source_url": "https://x.com/Naiknelofar788/status/2035350927259971959",
+    "images": [
+      "https://pbs.twimg.com/media/HD8E3gja8AAmyPR.jpg",
+      "https://pbs.twimg.com/media/HD8E3k-boAAnOMt.jpg",
+      "https://pbs.twimg.com/media/HD8E3tTbsAA_zCL.jpg",
+      "https://pbs.twimg.com/media/HD8E31qacAAmBt3.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "cartoon/chibi-style",
+      "big bright eyes",
+      "long wavy hair",
+      "wallpaper layout",
+      "text overlay"
+    ],
+    "style": "illustration",
+    "description": null,
+    "created_at": "2026-03-21 14:00:42"
+  },
+  {
+    "id": 11783,
+    "title": "Gemini Nano Banana Pro   PROMPT: Ultra-realistic luxury food photography of a rich bowl of tradition",
+    "prompt": "Ultra-realistic luxury food photography of a rich bowl of traditional Sheer Khurma placed at the center in an ornate golden or intricately patterned bowl, filled with creamy vermicelli milk dessert topped with dates, pistachios, almonds and saffron strands, the surface glossy and textured with visible nuts and rich milk consistency, set in a royal festive Eid environment with elegant Middle Eastern decor elements such as intricate lanterns, crescent moon motifs, carved arches and soft draped fabrics in deep emerald, gold and maroon tones, warm ambient lighting from decorative lanterns casting soft golden highlights and shadows, subtle steam rising from the bowl to enhance freshness, luxurious table setting with reflective surfaces and scattered dry fruits around, balanced symmetrical composition emphasizing richness and celebration, high-end festive advertising aesthetic, ultra-detailed textures, soft depth of field with a slightly blurred background, high realism, professional photography, high resolution, sharp focus.",
+    "author": "oggii_0",
+    "author_url": "https://x.com/oggii_0",
+    "source_url": "https://x.com/oggii_0/status/2035353055160402409",
+    "images": [
+      "https://pbs.twimg.com/media/HD8Gz3_bEAAeSJH.jpg",
+      "https://pbs.twimg.com/media/HD8Gz4QbYAAUv34.jpg",
+      "https://pbs.twimg.com/media/HD8Gz4ca4AAoEWw.jpg",
+      "https://pbs.twimg.com/media/HD8Gz5rbsAAiq-4.jpg"
+    ],
+    "language": "en",
+    "category": "food",
+    "tags": [
+      "Sheer Khurma",
+      "luxury food photography",
+      "Eid environment",
+      "Middle Eastern decor",
+      "ultra-detailed textures"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 14:00:39"
+  },
+  {
+    "id": 11782,
+    "title": "Gemini nano banana prompt  Create image: Use the attached reference image as a visual guide for the ",
+    "prompt": "Use the attached reference image as a visual guide for the character’s appearance, maintaining strong resemblance to the person in the reference. Preserve key visual traits such as facial structure and overall proportions, while allowing small natural variations typical of real photography. The generated subject should clearly resemble the reference while remaining a natural photographic interpretation.\nAspect Ratio: 3:4.\nShot on a Phase One XF with a Schneider-Kreuznach 80mm f/2.8 LS lens, this hyper-realistic three-quarter length photograph captures an adult woman in a high-fashion studio setting, framed slightly off-center for a natural, candid feel. The subject exhibits a slender and athletic build with a sophisticated weight shift onto her right leg, causing her right hip to rise subtly while her torso is angled 15 degrees to the left. Her right hand rests gracefully on her upper thigh with fingers relaxed and softly curved, while her left arm is bent at a sharp angle with the hand placed higher on the hip, creating a dynamic, non-symmetrical silhouette. Her head is tilted slightly toward her right shoulder, maintaining a captivating and charismatic direct gaze. Her skin is depicted with microscopic detail, showcasing a radiant glass-skin finish with visible pores and a healthy glow on her exposed shoulders and collarbone. Her voluminous dark brown hair is styled in dramatic, cascading curls swept heavily to one side, creating an asymmetrical flow of texture and deep shadows. She wears an architectural couture gown made of shimmering, pleated icy-blue metallic lamé that catches the light along every sharp ridge. The bodice features intricate diagonal pleating and a structured sweetheart neckline, while a massive, fan-like sculptural ruffle erupts from the left shoulder. The skirt includes a wrap-around front with a high thigh-level slit, bordered by vertical cascading ruffles that suggest mid-motion fluidity. Her face is styled with a glamorous evening makeup look consisting of a soft mauve and charcoal smoky eye, sharp winged eyeliner, and defined dark brown brows, finished with a matte taupe lip color. She is adorned with large, tiered drop earrings in a matching matte blue finish. The lighting is professionally executed with a primary softbox from the front-side creating gentle shadows under the jawline and deep, cinematic contrast against a minimalist, dark charcoal grey studio backdrop with a smooth, non-reflective floor. Aspect Ratio 3:4.",
+    "author": "Chryzleenprompt",
+    "author_url": "https://x.com/Chryzleenprompt",
+    "source_url": "https://x.com/Chryzleenprompt/status/2035353709966921870",
+    "images": [
+      "https://pbs.twimg.com/media/HD8HaL2a0AEtnwM.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "high-fashion",
+      "hyper-realistic",
+      "couture gown",
+      "studio lighting",
+      "Phase One XF"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 14:00:32"
+  },
+  {
+    "id": 11781,
+    "title": "#promptshare with Nano Banana 2 using @freepik  PROMPT: a dog dressed as a private detective, 1970s ",
+    "prompt": "a dog dressed as a private detective, 1970s style comic book art style, anthropomorphic hound in a trench coat and fedora, holding a magnifying glass, dramatic noir city alley backdrop with neon signs and rain-slicked pavement, bold halftone shading, heavy ink outlines, slightly muted retro color palette, dynamic perspective, subtle film grain and vintage print texture",
+    "author": "heathergreen",
+    "author_url": "https://x.com/heathergreen",
+    "source_url": "https://x.com/heathergreen/status/2035355749896065512",
+    "images": [
+      "https://pbs.twimg.com/media/HD2L5E9WAAASyY4.jpg"
+    ],
+    "language": "en",
+    "category": "animal",
+    "tags": [
+      "private detective",
+      "comic book art",
+      "anthropomorphic hound",
+      "noir city alley",
+      "halftone shading"
+    ],
+    "style": "vintage",
+    "description": null,
+    "created_at": "2026-03-21 14:00:26"
+  },
+  {
+    "id": 11769,
+    "title": "Sydney Sweeney, Ana de Armas and Billie Eilish 💦  Nano Banana 2 via @higgsfield   Prompt:  {   \"sub",
+    "prompt": "{\n  \"subject\": {\n    \"identity\": {\n      \"biometric_reference\": \"Sydney Sweeney\",\n      \"facial_anatomy\": {\n        \"facial_structure\": {\n          \"contour\": \"specific high cheekbone profile with soft yet defined jawline, direct selfie pose, slight head tilt down\",\n          \"gaze\": {\n            \"eye_color_hex\": \"#769397\",\n            \"expression\": \"tired, direct, focused stare\"\n          },\n          \"perspiration_profile\": {\n            \"skin_complexion\": {\n              \"base_skin_hex\": \"#F7E1D2\",\n              \"post_workout_erythema_hex\": \"#FFC1C1\"\n            },\n            \"condition\": \"intense surface sweat droplets and full flush visible on face, neck, and chest\"\n          },\n          \"dentition\": {\n            \"description\": \"natural arch, natural bone white tooth color, visible upper teeth edge as lips are slightly parted\"\n          }\n        },\n        \"hair_detailed\": {\n          \"style\": \"damp, sweat-clumped, disheveled pony-tail with clinging strands\",\n          \"color_hex\": \"#F7D590\"\n        }\n      },\n      \"body_morphology\": {\n        \"somatotype\": \"lean and athletic build\",\n        \"torso_perspiration\": \"heavily sweated chest and shoulders, visible water patterns on skin\",\n        \"neck_structure\": \"defined tendons visible under exertion\",\n        \"attire\": {\n          \"item\": \"ribbed knit sports bra, V-neck, pale chartreuse yellow color (#E0E68C)\",\n          \"fabric_micro_texture\": \"distinct ribbed knit detail\",\n          \"condition\": \"sweat-absorbed areas visible on fabric, text-free, logo-free\"\n        }\n      }\n    }\n  },\n  \"aesthetic_matrix\": {\n    \"framing\": \"tight chest-up framing, centered, selfie-style close-up\",\n    \"background_environment\": {\n      \"setting\": \"modern fitness facility (gym)\",\n      \"elements\": [\n        \"linear track LED lighting\",\n        \"mirrored walls reflecting space\",\n        \"industrial power racks and dumbbell racks\",\n        \"concrete and metal surfaces\"\n      ],\n      \"lighting\": {\n        \"source\": \"harsh overhead linear LED tube lighting\",\n        \"intensity\": \"high\",\n        \"specular_highlights\": \"intense, detailed on sweat-moistened skin and clothing ribbed texture\",\n        \"shadows\": \"clean, defined, non-dramatic\"\n      },\n      \"surface_properties\": {\n        \"text_free\": \"no text or branding on equipment or surfaces\",\n        \"logos\": \"forbidden, none allowed\"\n      }\n    }\n  },\n  \"negative_constraints\": {\n    \"anatomical_errors\": \"Zero tolerance for extra limbs, malformed features, or tissue distortions.\",\n    \"surface_artefacts\": \"Forbidden: text, logos, symbols on skin or fabric; garbled background details; soft focus.\",\n    \"aesthetic_deviation\": \"Forbidden: stylized or illustrative looks; cartoonish rendering.\"\n  }\n}",
+    "author": "PinodiArt",
+    "author_url": "https://x.com/PinodiArt",
+    "source_url": "https://x.com/PinodiArt/status/2035326268992782808",
+    "images": [
+      "https://pbs.twimg.com/media/HD7uYW_aoAAyyz_.jpg",
+      "https://pbs.twimg.com/media/HD7uZPNWEAA51m6.jpg",
+      "https://pbs.twimg.com/media/HD7uaHcaYAAeLk-.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "Sydney Sweeney",
+      "sweat droplets",
+      "fitness gym",
+      "hyper-realistic",
+      "sports bra"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 13:00:44"
+  },
+  {
+    "id": 11768,
+    "title": "Key Prompt (image) - Nano Banana 2:   A soaring futuristic skyscraper tower dominating an urban skyl",
+    "prompt": "A soaring futuristic skyscraper tower dominating an urban skyline, its facade composed of vast seamless panels of glass and polished steel reflecting the city below. The tower tapers elegantly toward the sky with clean geometric lines and minimal ornamentation. Surrounding buildings recede in the distance, emphasizing the tower's monumental scale. The scene is viewed from a slight low angle, capturing the full height of the structure against an open sky. Reflections of city lights ripple across the glass surface in long vertical streaks., in a minimal style, viewed from a low-angle, blue-hour lighting, at blue-hour, featuring cool-tones, glass-blue, with glass, mirror-like glass reflections effects",
+    "author": "keypromptninja",
+    "author_url": "https://x.com/keypromptninja",
+    "source_url": "https://x.com/keypromptninja/status/2035333270867448223",
+    "images": [
+      "https://pbs.twimg.com/media/HD70s-PbMAAMY3l.jpg"
+    ],
+    "language": "en",
+    "category": "architecture",
+    "tags": [
+      "futuristic skyscraper",
+      "urban skyline",
+      "blue-hour lighting",
+      "glass reflections",
+      "low-angle"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 13:00:38"
+  },
+  {
+    "id": 11767,
+    "title": "Realistic food product presentation on Nano Banana Pro   As always, made in @SocialSight 👨‍🎨  PROM",
+    "prompt": "minimal studio shot on pure white background, real [Food Name] emerging from a paper packaging, the visible part outside the packaging is fully photorealistic, the continuation of the same food is drawn as a clean black line illustration printed directly on the surface of the packaging, perfectly aligned with the real food shape, the illustration stays strictly on the packaging material, not floating, not extending into the background, seamless transition between real and printed illustration, modern minimal branding, top-down composition, soft shadows",
+    "author": "arceyul",
+    "author_url": "https://x.com/arceyul",
+    "source_url": "https://x.com/arceyul/status/2035340308431389105",
+    "images": [
+      "https://pbs.twimg.com/media/HD77NfObcAA9nw4.jpg",
+      "https://pbs.twimg.com/media/HD77NfIboAAsS0J.jpg"
+    ],
+    "language": "en",
+    "category": "product",
+    "tags": [
+      "minimal studio shot",
+      "photorealistic",
+      "paper packaging",
+      "line illustration",
+      "top-down composition"
+    ],
+    "style": "minimalist",
+    "description": null,
+    "created_at": "2026-03-21 13:00:26"
+  },
+  {
+    "id": 11755,
+    "title": "Nano Banana 2 inside https://t.co/7tnnNjPNHW  prompt: {   “meta”: {     “quality”: “ultra-photoreali",
+    "prompt": "{\n  “meta”: {\n    “quality”: “ultra-photorealistic, raw style, 8k, highly detailed skin and fabric textures”,\n    “camera”: “iPhone 15 Pro Max, professionally lit studio setup”,\n    “lighting”: “bright, even studio illumination, high-fashion editorial standard, soft winter shadows, subtle glisten on snow”,\n    “style”: “Winter Fantasy Editorial, Snow Queen aesthetic, specific subject preservation”,\n    “aspect_ratio”: “9:16”\n  },\n  “scene”: {\n    “location”: “A minimalist, seamless white studio environment. The floor is covered in realistic, scattered patches of fresh white snow and solid ice blocks. Delicate, frosted tree branches hang gracefully from above.”,\n    “atmosphere”: “Ethereal, fantasy-laden, sophisticated, with a sense of playful innocence and winter serenity.”\n  },\n“subject”: {\n    “gender”: “female”,\n    “name”: “Emma Myers”,\n    “body”: {\n      “type”: “Naturally slender and elegant figure, in a graceful crouching pose, body angled towards a snowman.”\n    },\n    “face”: {\n      “features”: “Emma Myers’s distinct facial structure, natural brunette hair styled in a sophisticated updo. Her eyes are closed as she leans against the snowman.”,\n      “expression”: “A soft, serene expression of affection, cheek pressed gently against the snowman’s face.”\n    },\n    “outfit”: {\n      “description”: “A white, sparkling strapless bustier top paired with a layered white tulle ballet tutu mini-skirt. The fabric features fine crystalline shimmer.”,\n      “fit”: “Tailored, delicate, and high-fashion.”,\n      “accessory”: “An intricate snowflake-themed hairpiece with a long, sheer tulle veil flowing behind.”\n    },\n“footwear”: {\n      “description”: “High-heeled d’orsay sandals made of completely transparent PVC. The upper features embedded, intricate white lace-like embellishments. The bare skin of her ankles and feet is fully visible through the clear material, with the transparent PVC resting directly against the skin.”,\n      “fit”: “Sleek and delicate, emphasizing the bare skin within the transparent structure.”\n    },\n“pose”: “Crouching on the floor, body angled toward the snowman. The right leg is bent, and the left leg is slightly forward with both feet flat. Her right arm is wrapped affectionately around the snowman, head tilted up to press her cheek against it.”\n  },\n  “composition”: “Full-body vertical medium-shot, perfectly centering the subject and the snowman. The snowman is highly detailed with a carrot nose, coal eyes, coal buttons, twig arms, and a defined mouth. Background elements like snow patches and hanging branches are clear and in sharp focus. High contrast between the white textures and the subject.”\n}",
+    "author": "DiamondZPetSpa",
+    "author_url": "https://x.com/DiamondZPetSpa",
+    "source_url": "https://x.com/DiamondZPetSpa/status/2035315549983658131",
+    "images": [
+      "https://pbs.twimg.com/media/HD7kq7naIAAlQJi.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "Emma Myers",
+      "Winter Fantasy",
+      "ultra-photorealistic",
+      "snowman",
+      "high-fashion"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 12:00:55"
+  },
+  {
+    "id": 11754,
+    "title": "They're ready to see you know, are you ready to see them?  Wonyoung and Yujin, Ive  Nano Banana 2 vi",
+    "prompt": "Ultra-realistic 8K photo of K-pop idols Wonyoung and Yujin from IVE in a fantastical neon-lit cyberpunk rooftop greenhouse. Wonyoung is wearing a semi-revealing ruby red latex bodycon dress, reclining elegantly on a futuristic velvet chaise lounge. Yujin is wearing a sleek midnight black latex bodysuit, standing beside her with one hand resting on the chaise. Both have attractive, confident poses. --ar 9:16",
+    "author": "youngcatwoman",
+    "author_url": "https://x.com/youngcatwoman",
+    "source_url": "https://x.com/youngcatwoman/status/2035316490950549669",
+    "images": [
+      "https://pbs.twimg.com/media/HDgjb0KbUAA-ome.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "Wonyoung",
+      "Yujin",
+      "cyberpunk",
+      "latex",
+      "K-pop"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 12:00:49"
+  },
+  {
+    "id": 11753,
+    "title": "Which redhead woke up looking the most beautiful today?  Nano Banana 2 🍌   ❣️☕ Emilly Rudd, Sadie S",
+    "prompt": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"subject\": {\n      \"main\": \"Emily Rudd as Nami looking directly at the camera. Her facial expression is joyful, with her mouth slightly open and a gentle smile, highlighting delicate features.\",\n      \"details\": \"Her makeup is relatively natural. She wears a simple, smooth silver ring on her left ring finger, and her nails are painted with a subtle rosy nude polish.\"\n    },\n    \"clothing\": \"An oversized, thick, chunky knit turtleneck sweater in a soft red tone. The sweater features a prominent cable-knit pattern on the main body and thick ribbed cuffs on the sleeves. The long sleeves are pulled down slightly, partially covering her wrists. She has bare legs.\",\n    \"body_type\": \"She has a slender body with a medium build.\",\n    \"pose\": \"She is sitting directly on a tiled floor, leaning her back lightly against a plain white wall. Her knees are bent at chest level, with her legs crossed at the calves. Both hands are raised near her chest, delicately holding a large coffee mug.\",\n    \"setting\": \"A bright and clean indoor environment with a minimalist and modern aesthetic. She is sitting on a floor made of large, light-colored square tiles with subtle grout lines, positioned against a stark white wall. In the background to the left, there is a green indoor plant with broad leaves, slightly out of focus.\",\n    \"props\": [\n      \"Large white ceramic mug with black linear and geometric patterns\",\n      \"Smooth silver ring on the left ring finger\",\n      \"Green indoor plant with broad leaves in the background\"\n    ],\n    \"lighting\": \"Soft, diffused natural lighting coming from a window on the left, creating gentle, even illumination across her face and the front of the sweater. The light casts soft, subtle shadows on the right side of her face, under her chin, and on the white wall behind her.\",\n    \"mood\": \"Cozy, relaxing, peaceful, and intimate. The overall atmosphere conveys the feeling of a chilly morning indoors, evoking calm contemplation and comfort.\",\n    \"color_palette\": [\n      \"Soft red\",\n      \"Auburn\",\n      \"White\",\n      \"Dark green\",\n      \"Black\"\n    ],\n    \"technical\": {\n      \"camera\": \"Medium shot, captured from a slightly elevated angle near eye level, with a relatively shallow depth of field to blur the background plant.\",\n      \"style\": \"Photorealistic lifestyle portrait photography, natural and candid.\",\n      \"quality\": \"Highly detailed, sharp focus on the model's face and sweater texture, soft lighting, 8k resolution, professional photography.\",\n      \"aspect_ratio\": \"9:16\"\n    }\n  }\n}",
+    "author": "Giulia_4i",
+    "author_url": "https://x.com/Giulia_4i",
+    "source_url": "https://x.com/Giulia_4i/status/2035319770996670787",
+    "images": [
+      "https://pbs.twimg.com/media/HD7oi2eaYAA788_.jpg",
+      "https://pbs.twimg.com/media/HD7oi1wbEAA_LeK.jpg",
+      "https://pbs.twimg.com/media/HD7oi3baEAAoMsJ.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "Emily Rudd",
+      "redhead",
+      "chunky knit sweater",
+      "photorealistic",
+      "lifestyle portrait"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 12:00:46"
+  },
+  {
+    "id": 11752,
+    "title": "Nano banana 2 prompt： 🎯 最终复刻提示词  **English Core Prompt:** Medium close-up shot from a high angle lo",
+    "prompt": "Medium close-up shot from a high angle looking down, professional fashion photography of a beautiful young adult East Asian woman with fair skin, long soft black hair, and dark brown almond-shaped eyes. She is reclining on a bed in a three-quarter view pose, head slightly tilted, her left hand gently touching her right cheek. She has a calm, pensive expression, with a soft, distant gaze looking away from the camera. She wears an elegant black form-fitting top with a deep V-neckline, made of intricate floral lace with eyelash trim and scattered glossy sequins, and a single ornate gold earring in her left ear. The setting is a softly lit bedroom at night, against a dark background and a white fluffy comforter. The scene is illuminated by a single, soft, diffused key light from the front-left, casting subtle shadows on the right side of her face and body. Intimate, serene, and moody atmosphere. Photorealistic 8K, ultra detailed, best quality, sharp focus on face, shallow depth of field with soft background blur (bokeh). Shot on Sony A7R IV with an 85mm f/2.2 lens. natural pose, no exaggeration, stick to visible elements only.",
+    "author": "ColorWolf2006",
+    "author_url": "https://x.com/ColorWolf2006",
+    "source_url": "https://x.com/ColorWolf2006/status/2035321242174280163",
+    "images": [
+      "https://pbs.twimg.com/media/HD7p3tLbwAAlSFd.jpg",
+      "https://pbs.twimg.com/media/HD7p3tMakAA__xz.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "East Asian woman",
+      "fashion photography",
+      "floral lace",
+      "soft lighting",
+      "photorealistic"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 12:00:36"
+  },
+  {
+    "id": 11745,
+    "title": "be honest does the the look work or does it work  nano banana pro  Prompt: A woman sitting in an arm",
+    "prompt": "A woman sitting in an armchair in a living room, reading a book with a completely unexpectedly absurd title. The title is visible and is absolutely the last thing you think this woman would be reading",
+    "author": "__degen_dev__",
+    "author_url": "https://x.com/__degen_dev__",
+    "source_url": "https://x.com/__degen_dev__/status/2035301591524270382",
+    "images": [
+      "https://pbs.twimg.com/media/HD7X__lWEAACY4y.png"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "woman",
+      "armchair",
+      "living room",
+      "reading a book",
+      "absurd title"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 11:01:01"
+  },
+  {
+    "id": 11744,
+    "title": "be honest does the the look work or does it work  nano banana pro  Prompt: A woman sitting in an arm",
+    "prompt": "A woman sitting in an armchair in a living room, reading a book with a completely unexpectedly absurd title. The title is visible and is absolutely the last thing you think this woman would be reading",
+    "author": "__degen_dev__",
+    "author_url": "https://x.com/__degen_dev__",
+    "source_url": "https://x.com/__degen_dev__/status/2035301829450354785",
+    "images": [
+      "https://pbs.twimg.com/media/HD7YNm0W0AEgZxs.png"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "woman",
+      "armchair",
+      "living room",
+      "reading a book",
+      "absurd title"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 11:00:58"
+  },
+  {
+    "id": 11743,
+    "title": "be honest does the the look work or does it work  nano banana pro  Prompt: A woman sitting in an arm",
+    "prompt": "A woman sitting in an armchair in a living room, reading a book with a completely unexpectedly absurd title. The title is visible and is absolutely the last thing you think this woman would be reading",
+    "author": "__degen_dev__",
+    "author_url": "https://x.com/__degen_dev__",
+    "source_url": "https://x.com/__degen_dev__/status/2035301978121572694",
+    "images": [
+      "https://pbs.twimg.com/media/HD7YWPBXYAAwuqg.png"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "woman",
+      "armchair",
+      "living room",
+      "reading a book",
+      "absurd title"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 11:00:55"
+  },
+  {
+    "id": 11742,
+    "title": "be honest does the the look work or does it work  nano banana pro  Prompt: A woman sitting in an arm",
+    "prompt": "A woman sitting in an armchair in a living room, reading a book with a completely unexpectedly absurd title. The title is visible and is absolutely the last thing you think this woman would be reading",
+    "author": "__degen_dev__",
+    "author_url": "https://x.com/__degen_dev__",
+    "source_url": "https://x.com/__degen_dev__/status/2035302287413858545",
+    "images": [
+      "https://pbs.twimg.com/media/HD7YoS5W0AAHpQb.png"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "woman",
+      "armchair",
+      "living room",
+      "reading a book",
+      "absurd title"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 11:00:51"
+  },
+  {
+    "id": 11741,
+    "title": "be honest does the the look work or does it work  nano banana pro  Prompt: A woman sitting in an arm",
+    "prompt": "A woman sitting in an armchair in a living room, reading a book with a completely unexpectedly absurd title. The title is visible and is absolutely the last thing you think this woman would be reading",
+    "author": "__degen_dev__",
+    "author_url": "https://x.com/__degen_dev__",
+    "source_url": "https://x.com/__degen_dev__/status/2035303201432338850",
+    "images": [
+      "https://pbs.twimg.com/media/HD7ZdiBWMAAe-_V.png"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "woman",
+      "armchair",
+      "living room",
+      "reading a book",
+      "absurd title"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 11:00:48"
+  },
+  {
+    "id": 11740,
+    "title": "Sadie Sink said tropical era. 🌺🍌  Try it 👇 1 — Go to Nano Banana 2 2 — Copy the full prompt given",
+    "prompt": "{\n  \"photo_type\": \"Casual outdoor snapshot, amateur smartphone photography\",\n  \"subject\": {\n    \"age\": \"Early 20s\",\n    \"body_type\": \"Athletic and extremely curvy hourglass figure with highly pronounced glutes\",\n    \"description\": \"An individual with an oval-shaped face and a smooth, fair complexion. Long, red, wavy hair is parted to the side, with a red hibiscus flower tucked behind one ear.\",\n    \"ethnicity\": \"Fair-skinned\",\n    \"expression\": \"Soft, direct gaze with a subtle, natural smile\",\n    \"gender\": \"Female\",\n    \"mirror_rules\": \"n/a\",\n    \"pose_description\": \"Standing with her back to the camera, twisting her torso to look back over her right shoulder directly at the lens. Her hands are raised near her shoulders, lightly touching the sides of her head and hair.\",\n    \"tattoos\": \"Small dark tattoo visible on the side of the ribs, partially obscured by the left arm.\"\n  },\n  \"clothing\": {\n    \"bottom\": {\n      \"color\": \"Matte black\",\n      \"details\": \"High-waisted, tight-fitting athletic compression shorts\",\n      \"fabric\": \"High-density spandex-polyester blend\",\n      \"type\": \"Athletic shorts\"\n    },\n    \"fit_and_physics\": \"Extreme fabric tension over the glutes and hips, visible compression creases around the waist and underarms, with stretching seams highlighting the material's elasticity.\",\n    \"outerwear\": {\n      \"color\": \"n/a\",\n      \"details\": \"n/a\",\n      \"fabric\": \"n/a\",\n      \"type\": \"n/a\"\n    },\n    \"shoes\": {\n      \"color\": \"n/a\",\n      \"details\": \"n/a\",\n      \"fabric\": \"n/a\",\n      \"type\": \"n/a\"\n    },\n    \"top\": {\n      \"color\": \"Matte black\",\n      \"details\": \"Tight-fitting short-sleeved athletic shirt with a small white stylized 'x' logo on the left sleeve\",\n      \"fabric\": \"Performance compression fabric\",\n      \"type\": \"Athletic top\"\n    }\n  },\n  \"hair\": {\n    \"color\": \"red\",\n    \"interaction\": \"Hand interaction with hair strands near the shoulders\",\n    \"style\": \"Long, dark, wavy hair is parted to the side, with a red hibiscus flower tucked behind one ear\"\n  },\n  \"face\": {\n    \"description\": \"Use the uploaded character reference image, keep all facial details 100% unchanged\",\n    \"eyebrows\": \"Dark, well-defined arched eyebrows\",\n    \"eyes\": \"Large, almond-shaped brown eyes\",\n    \"lips\": \"Full, symmetrical lips with a prominent cupid's bow\",\n    \"makeup\": \"Minimal, natural 'no-makeup' look\"\n  },\n  \"skin_texture\": \"Smooth, fair complexion with visible micro-texture, including natural pores and very fine vellus hair (peach fuzz) along the jawline.\",\n  \"biological_features\": {\n    \"eye_complexity\": \"Sharp corneal reflections and visible veins in the sclera for realistic wetness\",\n    \"hair_strand_physics\": \"Individual flyaway strands reacting to the air, richly textured dark waves\",\n    \"skin_micro_texture\": \"Authentic skin grain with varying pore sizes on the nose and cheeks\",\n    \"subsurface_scattering\": \"Soft light penetration on the edges of the ears and nose\",\n    \"vascularity_and_pigment\": \"Faint natural redness and realistic skin tone variations\"\n  },\n  \"texture_details\": {\n    \"environment\": \"Densely packed green ivy leaves with varying shades and a natural waxy sheen\",\n    \"fabric\": \"Matte synthetic athletic fabric with a visible fine knit pattern and minor lint\",\n    \"hair\": \"Silky yet textured red wavy strands with natural light reflections\",\n    \"skin\": \"Lived-in skin texture with faint natural oils and visible micro-pores\"\n  },\n  \"accessories\": {\n    \"device\": \"None\",\n    \"eyewear\": \"None\",\n    \"headwear\": \"Red hibiscus flower tucked behind one ear\",\n    \"jewelry\": \"None\",\n    \"props\": \"Gold link-style watch on the left wrist\"\n  },\n  \"background\": {\n    \"atmosphere\": \"Casual outdoor afternoon light\",\n    \"elements\": [\n      \"Dense green ivy wall\",\n      \"lush foliage\",\n      \"overlapping small leaves\"\n    ],\n    \"lighting_interaction\": \"Flat natural light casting soft, non-dramatic shadows across the leaves\",\n    \"setting\": \"Outdoor vertical garden wall\",\n    \"wall_color\": \"Vibrant natural green\"\n  },\n  \"lighting\": \"Flat, natural outdoor daylight, avoiding dramatic highlights or studio wrapping\",\n  \"color_grading\": {\n    \"LUT_application\": \"None\",\n    \"contrast_curve\": \"Standard smartphone HDR curve\",\n    \"general_look\": \"Unedited, raw snapshot appearance\",\n    \"saturation_boost\": \"Natural, realistic saturation\"\n  },\n  \"camera\": \"iPhone 16 Pro main lens\",\n  \"lens_type\": \"Standard wide-angle smartphone lens\",\n  \"resolution_and_aspect_ratio\": \"48MP, 9:16 aspect ratio\",\n  \"style\": \"Amateur handheld snapshot, non-staged raw aesthetic\",\n  \"imperfections\": \"Minor lint on black clothing, stray hair strands, natural skin pores, and slightly uneven ivy growth\",\n  \"shot_type\": \"Medium-full shot from a slightly low angle\",\n  \"camera_settings\": {\n    \"aperture\": \"f/11\",\n    \"dynamic_range\": \"Smart HDR enabled, retaining detail in shadows and highlights\",\n    \"focal_length\": \"26mm (equivalent)\",\n    \"iso\": \"400\",\n    \"lens_distortion\": \"Slight wide-angle curvature typical of smartphone optics\",\n    \"optical_artifacts\": {\n      \"bokeh_quality\": \"None (Deep Focus)\",\n      \"chromatic_aberration\": \"Faint at high-contrast foliage edges\",\n      \"focus_falloff\": \"None, everything is sharp from subject to background\",\n      \"vignetting\": \"Minimal natural sensor vignetting\"\n    },\n    \"processing\": \"Deep Fusion for enhanced texture and detail\",\n    \"shutter_speed\": \"1/250s\",\n    \"white_balance\": \"Auto, slightly warm daylight\"\n  },\n  \"sensor_atmosphere\": {\n    \"air_particles\": \"Minimal dust visible in natural light\",\n    \"haze_and_glare\": \"Soft natural glare from the sky\",\n    \"iso_noise_structure\": \"Fine-grain luminance noise typical of mobile sensors\",\n    \"sensor_bloom\": \"None\"\n  },\n  \"vibe\": \"Casual, fitness-oriented, everyday life snapshot\",\n  \"overall_mood\": \"Relaxed and self-assured\",\n  \"color_mode\": \"Vibrant full color\",\n  \"action\": \"Turning to look at the photographer\",\n  \"composition\": {\n    \"camera_angle_tilt\": \"Slightly low angle to emphasize height and athletic build\",\n    \"depth_layering\": \"Subject in the immediate foreground against a flat background wall\",\n    \"framing_rule\": \"Casual, centered snapshot framing\",\n    \"leading_lines\": \"None\",\n    \"perspective\": \"Eye-level with the subject's torso\",\n    \"symmetry_balance\": \"Asymmetrical due to the over-the-shoulder pose\"\n  },\n  \"color_tone\": \"Natural greens and deep blacks\",\n  \"depth_and_focus\": \"Deep focus, entire scene is sharp including the ivy wall\",\n  \"final_director_notes\": \"Ensure the clothing fits with high tension over the curves, showing the physics of compression fabric. The face must strictly follow the character reference description while the body and pose match the source image. The final output must feel like a non-professional photo taken on a phone, with deep focus and no artistic blur.\"\n}",
+    "author": "BananaPromptPro",
+    "author_url": "https://x.com/BananaPromptPro",
+    "source_url": "https://x.com/BananaPromptPro/status/2035307789946659112",
+    "images": [
+      "https://pbs.twimg.com/media/HD7dh7CaoAAtjNZ.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "athletic female",
+      "smartphone photography",
+      "red wavy hair",
+      "ivy wall background",
+      "compression clothing"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 11:00:44"
+  },
+  {
+    "id": 11739,
+    "title": "GM my friends!🌞 let's start the weekend with style!😉  Sabrina Carpenter, Emma Myers and Lisa Black",
+    "prompt": "{\n  \"image_generation_prompt\": {\n    \"subject\": {\n      \"description\": \"Young woman with a strong resemblance to Sabrina Carpenter. \",\n      \"hair\": \"Voluminous, flowing blonde layers styled with texture and natural movement, featuring realistic strands. A light pink headscarf is tied over the crown, letting hair emerge naturally.\",\n      \"face\": \"Confident expression with sharp eyeliner, voluminous lashes, defined brows, and soft blush; visible, natural skin texture with a subtle sheen and defined features.\",\n      \"body\": \"Slender physique, legs clad in opaque white thigh-high stockings, positioned dynamically with smooth skin and muscle definition.\"\n    },\n    \"attire\": {\n      \"clothing\": \"A red long-sleeved button-down shirt tucked into a pleated dark orange and black plaid mini skirt; worn with a thin black necktie; the skirt has a visible sheer pink tulle underskirt peeking from beneath.\",\n      \"style\": \"Avant-garde Punk-Schoolgirl / Harajuku-influenced Street Style with Y2K flair.\"\n    },\n    \"styling_and_accessories\": {\n      \"jewelry\": [\n        \"Soft pink silk headscarf\",\n        \"Chunky red platform Mary Jane shoes with black star cutouts and silver buckles\",\n        \"Thin red necktie\",\n        \"Dark-painted fingernails\"\n      ]\n    },\n    \"environment\": {\n      \"setting\": \"A minimalist, gritty urban corner at night with retro neon written 'KeorUnreal' on wall.\",\n      \"background\": \"Large-format light grey tiled wall with sharp grout lines; dark pavement/asphalt floor with natural texture and grit.\",\n      \"water\": \"None\"\n    },\n    \"pose\": {\n      \"posture\": \"Crouched in a dynamic, high-fashion against the wall, legs opened in a badass pose.\",\n      \"arms\": \"Arms crossed in a badass pose.\",\n      \"angle\": \"Low-angle shot, emphasizing the dramatic platforms and the geometric lines of the pose and environment.\"\n    },\n    \"lighting_and_mood\": {\n      \"lighting\": \"Hard, direct front-facing flash (paparazzi-style) creating sharp, defined shadows against the back wall and vibrant highlights on the clothing fabrics and skin.\",\n      \"mood\": \"Edgy, rebellious, cinematically stylish, and confident.\",\n      \"colors\": \"A strong palette of stark white, black, pink, and dark green, popping against a neutral background.\"\n    },\n    \"camera_and_technical\": {\n      \"style\": \"Ultra Photorealistic, RAW photo.\",\n      \"lens\": \"24mm wide-angle lens (exaggerated perspective)\",\n      \"aperture\": \"f/5.6 for sharp detail throughout the subject and background\",\n      \"quality_tags\": [\n        \"8k resolution\",\n        \"highly detailed\",\n        \"flash photography aesthetic\",\n        \"hyper-realistic skin texture\",\n        \"fashion editorial\",\n        \"Sony A1\",\n        \"gritty urban texture\"\n      ]\n    }\n  }\n}",
+    "author": "KeorUnreal",
+    "author_url": "https://x.com/KeorUnreal",
+    "source_url": "https://x.com/KeorUnreal/status/2035308361109877230",
+    "images": [
+      "https://pbs.twimg.com/media/HD7eJpOW0AAfeLu.jpg",
+      "https://pbs.twimg.com/media/HD7eJsvaEAAFJia.jpg",
+      "https://pbs.twimg.com/media/HD7eJxBWQAAN0nh.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "Sabrina Carpenter",
+      "Punk-Schoolgirl",
+      "flash photography",
+      "urban night",
+      "Y2K fashion"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 11:00:34"
+  },
+  {
+    "id": 11738,
+    "title": "Nano Banana 2 on https://t.co/wtt0M3NJmj  prompt:{   \"style\": {     \"genre\": \"fashion editorial phot",
+    "prompt": "{\n  \"style\": {\n    \"genre\": \"fashion editorial photography\",\n    \"aesthetic\": \"minimal studio fashion\",\n    \"mood\": \"soft, playful, slightly flirtatious\",\n    \"color_palette\": [\"cream\", \"soft white\", \"pastel blue\", \"light pink\"]\n  },\n  \"character\": {\n    \"identity_placeholder\": \"Kendall Jenner\",\n    \"gender_presentation\": \"feminine\",\n    \"age_range\": \"young adult\",\n    \"body_type\": \"slim\",\n    \"skin_tone\": \"light to medium neutral tone\"\n  },\n  \"hair\": {\n    \"color\": \"dark brown\",\n    \"length\": \"long\",\n    \"style\": \"messy ponytail\",\n    \"strands\": \"loose strands falling around face\",\n    \"texture\": \"slightly tousled\"\n  },\n  \"accessories\": {\n    \"earrings\": \"medium silver hoop earrings\",\n    \"other\": []\n  },\n  \"expression\": {\n    \"facial_expression\": \"soft neutral expression\",\n    \"mood\": \"calm and relaxed\",\n    \"gaze\": \"looking back over shoulder toward camera\"\n  },\n  {\n  \"pose\": {\n    \"body_position\": \"sitting on studio floor\",\n    \"torso\": \"upright but slightly leaned to the side\",\n    \"legs\": \"crossed and extended forward\",\n    \"feet_position\": \"feet on the floor with heels slightly lifted\",\n    \"head_angle\": \"slightly tilted toward camera\",\n    \"pose_vibe\": \"elegant and flirty editorial fashion pose\"\n  }\n}\n  },\n  \"clothing\": {\n    \"top\": {\n      \"type\": \"short sleeve fitted t-shirt\",\n      \"color\": \"white\",\n      \"fit\": \"tight\"\n    },\n    \"waist_detail\": {\n      \"type\": \"thin pink wrap tie around waist\",\n      \"style\": \"ribbon-like strap tied at back\"\n    },\n    \"bottom\": {\n      \"type\": \"lace tights / lace leggings\",\n      \"color\": \"white\",\n      \"pattern\": \"floral lace pattern\",\n      \"opacity\": \"semi-sheer\"\n    },\n    \"shoes\": {\n      \"type\": \"open toe mule heels\",\n      \"color\": \"pastel blue\",\n      \"heel_height\": \"mid heel\",\n      \"material\": \"smooth leather\"\n    }\n  },\n  \"camera\": {\n    \"angle\": \"low rear three-quarter angle\",\n    \"framing\": \"full body\",\n    \"focus\": \"sharp focus on subject\",\n    \"lens\": \"50mm fashion photography lens\",\n    \"depth_of_field\": \"moderate shallow depth\"\n  },\n  \"lighting\": {\n    \"type\": \"soft studio lighting\",\n    \"setup\": \"large softbox\",\n    \"direction\": \"front-left soft light\",\n    \"shadows\": \"very soft minimal shadows\",\n    \"contrast\": \"low contrast\"\n  },\n  \"background\": {\n    \"type\": \"seamless studio backdrop\",\n    \"color\": \"warm cream\",\n    \"texture\": \"smooth matte\",\n    \"environment\": \"minimalist studio\"\n  },\n  \"composition\": {\n    \"subject_placement\": \"centered slightly left\",\n    \"negative_space\": \"large empty background\",\n    \"editorial_style\": \"magazine fashion shoot\",\n    \"aspect_ratio\": \"3:4\"\n  },\n  \"quality\": {\n    \"resolution\": \"high resolution\",\n    \"detail_level\": \"high detail fabric texture\",\n    \"photorealism\": \"photorealistic\",\n    \"post_processing\": \"clean editorial color grading\"\n  }\n}",
+    "author": "l_w_lorenzen",
+    "author_url": "https://x.com/l_w_lorenzen",
+    "source_url": "https://x.com/l_w_lorenzen/status/2035309890194067799",
+    "images": [
+      "https://pbs.twimg.com/media/HD7fjJAbcAA04pP.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "fashion editorial",
+      "studio photography",
+      "lace leggings",
+      "full body",
+      "minimalist"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 11:00:28"
+  },
+  {
+    "id": 11730,
+    "title": "Nano Banana Pro on @yapper_so  Prompt:  Photorealistic portrait of a smiling young woman standing in",
+    "prompt": "Photorealistic portrait of a smiling young woman standing in a field of yellow wildflowers, wearing a black top, beige high-waisted pants, and a loose beige shirt, long dark brown hair, natural makeup, casual pose with one hand touching her hair, soft natural daylight, shallow depth of field with blurred yellow flowers in the foreground, background featuring a lake and trees under a bright cloudy sky, warm tones, cinematic composition, high detail, 85mm lens, bokeh effect.",
+    "author": "ZaraIrahh",
+    "author_url": "https://x.com/ZaraIrahh",
+    "source_url": "https://x.com/ZaraIrahh/status/2035281219550937560",
+    "images": [
+      "https://pbs.twimg.com/media/HD7FeRSXUAAdUPw.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "smiling young woman",
+      "yellow wildflowers",
+      "cinematic composition",
+      "85mm lens",
+      "soft natural daylight"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 10:00:43"
+  },
+  {
+    "id": 11729,
+    "title": "Don't worry, he only bites if I tell him to.🖤 Sydney Sweeney & Maya  Nano Banana 2 Pro  Prompt:  Cr",
+    "prompt": "Create a portrait without altering the facial features. A stylish black-and-white photo with high contrast. Close-up: a majestic black Doberman with its mouth open in a powerful snarl, showing its teeth. Next to it, gently pressing against and embracing the dog, stands a young woman with long straight hair, wearing flawless makeup. The woman is dressed in a luxurious, voluminous coat of dense black fur. The background is completely white and minimalist. High-fashion aesthetics, gothic chic, dramatic lighting, hyper-realism, deep shadows, and highly detailed textures of the fur and coat.\n\nColor scheme: Monochrome (Black and White), high contrast. Lighting: Studio lighting, backlighting (to accentuate the silhouette of the hair and fur).Style: Editorial photography, Vogue style, Surrealism.Detail: 8K resolution, highly detailed fur texture, sharp focus.",
+    "author": "mayadelmare",
+    "author_url": "https://x.com/mayadelmare",
+    "source_url": "https://x.com/mayadelmare/status/2035281663702217193",
+    "images": [
+      "https://pbs.twimg.com/media/HD7FzPAXQAA8oxk.jpg",
+      "https://pbs.twimg.com/media/HD7F1YragAAaoLb.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "Doberman",
+      "black-and-white",
+      "gothic chic",
+      "high-fashion",
+      "monochrome"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 10:00:39"
+  },
+  {
+    "id": 11728,
+    "title": "Nano Banana 2 on Google Gemini  Prompt: Create a realistic cinematic photo of a person using the fac",
+    "prompt": "Create a realistic cinematic photo of a person using the face from the uploaded image. The person is sitting alone in a large empty cinema hall, facing the screen. The camera is placed slightly to the side, capturing both the person and part of the big screen. The only light in the scene comes from the movie screen, softly lighting the person’s face and creating a dark surrounding. Rows of empty seats are visible around, fading into darkness. The mood is calm, emotional, and cinematic. The person is wearing casual modern clothes like a t-shirt, jacket, jeans, and sneakers. Natural relaxed posture, looking toward the screen. Cinematic lighting, soft glow on the face, deep shadows, atmospheric depth, ultra realistic photography, movie-scene composition.",
+    "author": "NikhilRajX",
+    "author_url": "https://x.com/NikhilRajX",
+    "source_url": "https://x.com/NikhilRajX/status/2035292260666097889",
+    "images": [
+      "https://pbs.twimg.com/media/HD7PhmUbcAAvyjZ.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "cinema hall",
+      "soft lighting",
+      "ultra realistic",
+      "empty seats",
+      "emotional mood"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 10:00:33"
+  },
+  {
+    "id": 11727,
+    "title": "Powerful pose for powerful group  Blackpink  Nano Banana Pro via @Hailuo_AI   {   \"prompt\": \"Photore",
+    "prompt": "Photorealistic group portrait of the four members of Blackpink—Jisoo, Jennie, Rosé, and Lisa—posed together on a wide modern indoor staircase. They are dressed in a coordinated high-fashion theme of plunging tailored blazers styled as bodysuits with latex t-fronts and glossy stilettos. The composition is a staggered, symmetrical arrangement across the wooden steps. --ar 3:4",
+    "author": "youngcatwoman",
+    "author_url": "https://x.com/youngcatwoman",
+    "source_url": "https://x.com/youngcatwoman/status/2035292835247751289",
+    "images": [
+      "https://pbs.twimg.com/media/HDdo_KxbQAAw8Dg.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "Blackpink",
+      "high-fashion",
+      "photorealistic",
+      "staircase",
+      "group portrait"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 10:00:29"
+  },
+  {
+    "id": 11726,
+    "title": "My luxury life style ✨️💖  Gemini Nano Banana Pro   Prompt: {   \"image_prompt\": {     \"subject\": {  ",
+    "prompt": "{\n  \"image_prompt\": {\n    \"subject\": {\n      \"description\": \"Young woman\",\n      \"hair\": \"Long, wavy strawberry-blonde hair\",\n      \"expression\": \"Neutral, serious, confident eye contact\"\n    },\n    \"attire\": {\n      \"clothing\": \"Short, black satin slip dress with a cowl neckline\",\n      \"footwear\": \"High-heeled sandals with silver rhinestone strappy wraps spiraling up the ankles\",\n      \"details\": \"Dark nail polish on toes\"\n    },\n    \"pose\": {\n      \"action\": \"Sitting casually on the edge of a counter\",\n      \"posture\": \"Legs extended and crossed at the lower calf, leaning slightly back with one arm resting on the surface for support\"\n    },\n    \"setting\": {\n      \"environment\": \"Modern luxury interior, likely a kitchen or open-plan living space\",\n      \"background\": \"Black matte cabinetry on the left, a modern wooden staircase in the background\",\n      \"surfaces\": \"White marble island/countertop, highly reflective glass or mirrored surface immediately below capturing a clear reflection of her legs and shoes\"\n    },\n    \"photography_style\": {\n      \"lighting\": \"Warm, ambient indoor lighting with recessed ceiling spotlights\",\n      \"angle\": \"Full body shot, slightly lower angle emphasizing the legs and footwear\",\n      \"aesthetic\": \"High fashion, glamorous, photorealistic, sharp focus, high-end lifestyle photography\"\n    }\n  }\n}",
+    "author": "NameIsSudee",
+    "author_url": "https://x.com/NameIsSudee",
+    "source_url": "https://x.com/NameIsSudee/status/2035292900553379933",
+    "images": [
+      "https://pbs.twimg.com/media/HD7QGWzaYAAEz-X.jpg",
+      "https://pbs.twimg.com/media/HD7QGX8bwAAEH4_.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "luxury lifestyle",
+      "strawberry-blonde hair",
+      "satin slip dress",
+      "modern interior",
+      "high fashion"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 10:00:26"
+  },
+  {
+    "id": 11716,
+    "title": "Created with Gemini Nano Banana Pro on @GeminiApp  How To Use The Prompt: 1. Open Gemini App 2. Uplo",
+    "prompt": "A tack-sharp portrait of a handsome man with a neatly trimmed beard and a textured modern quiff fade hairstyle, wearing a charcoal grey double-breasted suit, crisp white shirt, and black bow tie. He is standing on a red carpet with his hands casually clasped at his waist, revealing a high-end skeleton watch on his left wrist. The background features blurred red carpet stairs, silhouettes of photographers in formal wear, three warm spherical hanging lights, and a cool blue-gray event backdrop. Soft, diffused overcast lighting, shallow depth of field, 85mm lens, photorealistic.\n\nCinematic red carpet medium shot of a confident male celebrity. He wears a subtle pinstripe dark grey double-breasted tuxedo and black bow tie. His hair is short on the sides, swept up and textured on top with matte product. His right hand rests gently over his left hand at his waist, showing off a silver tonneau luxury watch. The background is heavily blurred (bokeh), showing vibrant red stairs, crowd figures, and round glowing overhead lights. Exceptional detail on face and suit texture, natural skin tones, professional event photography.",
+    "author": "pictsbyai",
+    "author_url": "https://x.com/pictsbyai",
+    "source_url": "https://x.com/pictsbyai/status/2035265750772879676",
+    "images": [
+      "https://pbs.twimg.com/media/HD63Vw9W0AAARqw.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "red carpet",
+      "celebrity portrait",
+      "luxury watch",
+      "double-breasted suit",
+      "shallow depth of field"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 09:00:44"
+  },
+  {
+    "id": 11715,
+    "title": "Ana De Armas 🩷📸  Nano Banana   Prompt  {   \"meta\": {     \"quality\": \"ultra_photorealistic, raw sty",
+    "prompt": "{\n  \"meta\": {\n    \"quality\": \"ultra_photorealistic, raw style, 8k\",\n    \"camera\": \"iPhone 15 Pro Max\",\n    \"lighting\": \"bright natural daylight filtering in through the arched window and door, creating a warm glow\",\n    \"style\": \"cinematic low-angle portrait, environmental fashion focus\",\n    \"aspect_ratio\": \"9:16\"\n  },\n  \"scene\": {\n    \"location\": \"The detailed strawberry-themed pink entrance hall, with pink carpeted steps and white balustrades. The arched doorway with the unique strawberry-patterned sheer curtains is framed by the pink archway. The strawberry-filled vases, gold-framed round mirror, pink side table, and strawberry-patterned floor mat are visible. The crystal chandelier hangs prominently from the pink ceiling at the top of the frame.\",\n    \"atmosphere\": \"Whimsical, vintage-inspired chic, sun-drenched and vibrant, with a sense of graceful repose.\"\n  },\n  \"subject\": {\n    \"gender\": \"female\",\n    \"name\": \"use the reference image\",\n    \"body\": {\n      \"type\": \"Naturally proportioned figure with defined curves, realistic proportions, maintaining elegant and balanced lines.\"\n    },\n    \"face\": {\n      \"features\": \"reference images’ distinctive facial features, warm brown eyes, and soft brunette hair styled in a sophisticated high messy bun with delicate loose tendrils framing her face.\",\n      \"expression\": \"She looks softly down toward the camera with a calm, confident and slightly playful expression.\"\n    },\n    \"outfit\": {\n      \"description\": \"A customized two-piece outfit: A plain, solid white camisole top with small red bow accents on the straps, completely plain with no text. Paired with a red and white gingham plaid pleated mini-skirt with small bows. She wears a simple pearl pendant necklace.\",\n      \"fit\": \"Tailored, form-fitting, and stylish, emphasizing the clean lines and textures.\",\n      \"accessory\": \"No handbag is present.\"\n    },\n    \"pose\": \"She is standing mid-staircase on the pink carpeted steps, facing slightly away from the camera. One leg is placed a step higher, creating a natural asymmetry in posture. Her torso is gently turned toward the camera while her head tilts downward, making eye contact with a soft, engaging gaze. Her left hand rests lightly on the white balustrade for balance, while her right hand hangs relaxed by her side, fingers slightly curled. She is completely barefoot, with one foot flat on the step and the other slightly lifted at the heel, emphasizing natural movement and elegance.\",\n    \"feet\": \"Completely barefoot, with bare feet in clear view on the pink carpeted steps. The foreground emphasizes the closer foot, showing natural skin texture, toes, and subtle pressure against the carpet.\"\n  },\n  \"composition\": \"A dramatic, low-angle vertical shot (9:16) from the very bottom of the staircase, looking up. The pink carpeted steps recede upwards, providing complex leading lines towards Ana de Armas, who is positioned mid-staircase. Her entire body from bare feet to head is captured, filling the frame. Her detailed bare feet are in the foreground, followed by her legs, skirt, and upper body. The background elements (the unique arched doorway, strawberry-themed decorations, and crystal chandelier) are stacked behind her and up towards the top of the frame, receding in distance. The focus is critically sharp on her face, eyes, and overall posture, creating a depth-of-field effect that isolates her while keeping the context clear.\"\n}",
+    "author": "JustBethanyai",
+    "author_url": "https://x.com/JustBethanyai",
+    "source_url": "https://x.com/JustBethanyai/status/2035276126789005613",
+    "images": [
+      "https://pbs.twimg.com/media/HD7Ay7gWIAAElVj.jpg",
+      "https://pbs.twimg.com/media/HD7Azu5bYAA7pIN.jpg",
+      "https://pbs.twimg.com/media/HD7A0jwbwAAkfuO.jpg",
+      "https://pbs.twimg.com/media/HD7A1OjbkAAU6T7.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "photorealistic",
+      "strawberry-themed",
+      "low-angle portrait",
+      "Ana de Armas",
+      "cinematic"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 09:00:37"
+  },
+  {
+    "id": 11702,
+    "title": "Sadie Sink said fit check. 🍌  she was never in this bedroom. Nano Banana was. 💀  Try it 👇 1 — Go ",
+    "prompt": "{\n  \"photo_type\": \"Mirror Selfie captured on an iPhone 16 Pro front camera with typical arm distortion and lens curvature\",\n  \"subject\": {\n    \"age\": \"Early 20s\",\n    \"body_type\": \"Young American Woman, round breast shape, prominent projected profile, fuller bust measurement, large-breasted proportions, fuller chest frame, shapely upper silhouette, top-heavy silhouette, buxom figure, high waist-to-hip contrast, defined waistline, fuller glute measurement, curvy, prominent hips, rounded hip contour, curvy lower body, thick, powerful thighs, full thighs, push-up bra effect\",\n    \"description\": \"A Young American Woman with a buxom figure and heart-shaped facial structure, posing for a casual self-portrait in a mirror.\",\n    \"ethnicity\": \"American\",\n    \"expression\": \"Neutral with a slight pout and soft gaze\",\n    \"gender\": \"Female\",\n    \"mirror_rules\": \"Reflected image showing the back of the smartphone; lens curvature and slight elongation of the arm holding the device; text on objects would be reversed.\",\n    \"pose_description\": \"Standing front-facing toward a mirror, holding a smartphone in the left hand to capture the reflection, while the right hand rests naturally on the upper thigh. The weight is shifted slightly to one hip.\",\n    \"tattoos\": \"None\"\n  },\n  \"clothing\": {\n    \"bottom\": {\n      \"color\": \"Matte Black\",\n      \"details\": \"Side-tie strings, high-cut leg openings, thong style\",\n      \"fabric\": \"Elasticated spandex-nylon blend\",\n      \"type\": \"Bikini bottom\"\n    },\n    \"fit_and_physics\": \"The bikini top is strained over a fuller chest frame creating a push-up effect; fabric tension causes minor compression creases around the side-tie knots on the hips; strings show realistic bunching.\",\n    \"outerwear\": {\n      \"color\": \"None\",\n      \"details\": \"None\",\n      \"fabric\": \"None\",\n      \"type\": \"None\"\n    },\n    \"shoes\": {\n      \"color\": \"None\",\n      \"details\": \"None\",\n      \"fabric\": \"None\",\n      \"type\": \"None\"\n    },\n    \"top\": {\n      \"color\": \"Matte Black\",\n      \"details\": \"Triangle cups with thin spaghetti straps that tie behind the neck and back\",\n      \"fabric\": \"Microfiber swim fabric\",\n      \"type\": \"Bikini top\"\n    }\n  },\n  \"hair\": {\n    \"color\": \"Red\",\n    \"interaction\": \"High ponytail with two long, thin strands framing the face\",\n    \"style\": \"Wavy hair pulled back into a messy but secure high ponytail\"\n  },\n  \"face\": {\n    \"description\": \"Use the uploaded character reference image, keep all facial details 100% unchanged\",\n    \"eyebrows\": \"None\",\n    \"eyes\": \"None\",\n    \"lips\": \"None\",\n    \"makeup\": \"None\"\n  },\n  \"skin_texture\": \"Fair complexion with visible micro-texture, natural skin pores of varying sizes, and slight flushing on the cheeks.\",\n  \"biological_features\": {\n    \"eye_complexity\": \"Wetness in the tear ducts, sharp corneal reflections, and faint veins in the sclera.\",\n    \"hair_strand_physics\": \"Fine, loose flyaway hairs around the crown and nape; richly textured dark strands.\",\n    \"skin_micro_texture\": \"Visible vellus hair (peach fuzz) along the jawline; natural skin pores visible on the nose and cheeks; slight razor bumps near the bikini line.\",\n    \"subsurface_scattering\": \"Light translucency in the ears and nose where natural light hits.\",\n    \"vascularity_and_pigment\": \"Faint blue veins visible on the chest and inner arms; minor stretch marks on the hips.\"\n  },\n  \"texture_details\": {\n    \"environment\": \"Smooth semi-gloss white door, brushed metal handle with minor scratches, and a woven white fabric bin.\",\n    \"fabric\": \"Matte microfiber texture with visible stretching seams and lint particles.\",\n    \"hair\": \"Silky but individual strands are visible, reflecting light unevenly.\",\n    \"skin\": \"Natural smoothness with visible pores, not airbrushed; slight skin oils on the forehead.\"\n  },\n  \"accessories\": {\n    \"device\": \"Dark grey iPhone with triple-camera array, showing minor smudges on the glass back.\",\n    \"eyewear\": \"None\",\n    \"headwear\": \"None\",\n    \"jewelry\": \"Thin gold chain with a small heart pendant, a thin gold bracelet on the left wrist, and a simple gold bangle on the right wrist.\",\n    \"props\": \"White fabric laundry basket in the background.\"\n  },\n  \"background\": {\n    \"atmosphere\": \"Casual, domestic indoor setting; uncurated and lived-in.\",\n    \"elements\": [\n      \"White paneled door\",\n      \"Silver door handle\",\n      \"Light grey carpet\",\n      \"White fabric bin\"\n    ],\n    \"lighting_interaction\": \"Flat, overhead indoor lighting creating soft, realistic shadows beneath the chin and arms.\",\n    \"setting\": \"Minimalist bedroom or dressing area\",\n    \"wall_color\": \"Off-white\"\n  },\n  \"lighting\": \"Natural daylight spilling from a nearby window, flat and even, no artificial studio light, highlights retaining detail (HDR).\",\n  \"color_grading\": {\n    \"LUT_application\": \"Standard iPhone color science, no filters applied.\",\n    \"contrast_curve\": \"Natural contrast with detailed shadows.\",\n    \"general_look\": \"Raw, unedited smartphone snapshot.\",\n    \"saturation_boost\": \"None, realistic skin tones.\"\n  },\n  \"camera\": \"iPhone 16 Pro front camera\",\n  \"lens_type\": \"Wide-angle smartphone lens (approx. 24mm equivalent)\",\n  \"resolution_and_aspect_ratio\": \"48MP, 9:16 aspect ratio\",\n  \"style\": \"Amateur handheld snapshot, casual capture with no professional staging.\",\n  \"imperfections\": \"Faint dust and minor streaks on the mirror surface; slight fingerprints on the smartphone screen lens; minor scuffs on the door frame.\",\n  \"shot_type\": \"Eye-level mirror selfie\",\n  \"camera_settings\": {\n    \"aperture\": \"f/11\",\n    \"dynamic_range\": \"High (Smart HDR)\",\n    \"focal_length\": \"24mm\",\n    \"iso\": \"800\",\n    \"lens_distortion\": \"Typical wide-angle distortion on the forearm closest to the camera.\",\n    \"optical_artifacts\": {\n      \"bokeh_quality\": \"None, deep focus\",\n      \"chromatic_aberration\": \"Very minor at high-contrast edges\",\n      \"focus_falloff\": \"None, everything in focus\",\n      \"vignetting\": \"Slight natural corner shading\"\n    },\n    \"processing\": \"Deep Fusion processing for micro-detail retention\",\n    \"shutter_speed\": \"1/125s\",\n    \"white_balance\": \"Auto\"\n  },\n  \"sensor_atmosphere\": {\n    \"air_particles\": \"None\",\n    \"haze_and_glare\": \"Slight glare on the mirror from overhead light\",\n    \"iso_noise_structure\": \"Fine luminance noise in the shadow areas\",\n    \"sensor_bloom\": \"None\"\n  },\n  \"vibe\": \"Authentic, casual, everyday life document.\",\n  \"overall_mood\": \"Relaxed and self-assured.\",\n  \"color_mode\": \"Vibrant full color\",\n  \"action\": \"Taking a mirror selfie\",\n  \"composition\": {\n    \"camera_angle_tilt\": \"Slightly tilted handheld angle\",\n    \"depth_layering\": \"Subject in foreground, door in middle ground, wall in background\",\n    \"framing_rule\": \"Centered subject, amateur framing\",\n    \"leading_lines\": \"Vertical lines of the door frame\",\n    \"perspective\": \"First-person reflection\",\n    \"symmetry_balance\": \"Asymmetrical pose\"\n  },\n  \"color_tone\": \"Neutral with warm skin tones\",\n  \"depth_and_focus\": \"Deep focus, everything from the subject to the background is sharp.\",\n  \"final_director_notes\": \"Maintain the exact buxom proportions and facial identity from the reference. The image must feel like an unedited, raw smartphone photo with all natural imperfections like mirror smudges and skin texture intact. Absolutely no background blur or cinematic lighting.\"\n}",
+    "author": "BananaPromptPro",
+    "author_url": "https://x.com/BananaPromptPro",
+    "source_url": "https://x.com/BananaPromptPro/status/2035251193589768641",
+    "images": [
+      "https://pbs.twimg.com/media/HD6p59YboAEoJb0.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "mirror selfie",
+      "iPhone 16 Pro",
+      "buxom figure",
+      "red hair",
+      "bikini"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 08:00:40"
+  },
+  {
+    "id": 11701,
+    "title": "Prompt Share 🚨  Not copies. Multiverse variants. 🌌  (Recommended: Nano Banana 2 – Thinking Mode)  ",
+    "prompt": "A detailed, collectible-style 3D render of a linear procession of twelve identical figures, viewed in a dynamic diagonal 3/4 perspective down the line.\n\nThe figures are arranged on a dark, gradient studio floor with a progressively shallower depth of field, making the furthest characters less detailed.\nSpecific Pose Sequence:\n\nThe procession must follow a distinct sequence of poses along the line:\nThe first and closest figure stands with arms at their sides.\n\nThe second figure stands with arms crossed over their chest.\n\nThe third figure stands with one hand raised in a salute or wave.\n\nThe subsequent receding figures doing different poses.\nLighting and Atmosphere:\n\nThe scene features dramatic, atmospheric backlighting from a powerful source behind the furthest characters, creating a bright halo and deep rim-lighting, combined with a strong, texturing haze or fog. Dramatic, focused front-side lighting illuminates the features of the nearest character. The background fades to complete shadow.\nFixed Elements:\n\nThe overall style is a high-end, textured, 3D vinyl toy aesthetic.\nCamera:\n\nLow-to-medium camera angle looking down the diagonal line.\nCamera & Framing Refinement (CRITICAL):\n\nShot with a close-range 28–35mm lens to introduce natural perspective compression without distortion.\n\nThe camera is positioned slightly below chest level of the first figure and very close to it, creating strong foreground dominance.\nThe first figure occupies approximately 65–75% of the frame height and must be tightly cropped at knee level. The feet of the first figure must NOT be visible.\n\nThe head of the first figure sits very close to the top edge of the frame with minimal breathing room. The figure should feel slightly too large for the frame, as if it cannot fully fit inside.\nSubsequent figures progressively reveal more of their full bodies as they recede into depth.\nThe diagonal line of figures must start large in the foreground (left side of frame) and recede tightly into the background (right side), with each figure overlapping slightly with the next.\n\nThe camera is not centered to the line. It is offset to the left, looking across the figures, not directly along them.\nSpacing between figures compresses progressively toward the background, enhancing depth and scale illusion.\n\nNo wide empty gaps between characters. The line must feel dense and continuous.\n2D to 3D Translation (ONLY if input is 2D artwork):\n\nIf the uploaded reference is 2D (illustration, anime, flat graphic, cel-shaded), convert it into a fully realized 3D cinematic form while preserving exact identity fidelity.\n• Maintain exact head shape, eye design, spacing, and proportions\n\n• Preserve original stylization, do NOT add realism that alters design language\n\n• Translate linework into subtle surface geometry or shading transitions\n\n• Keep original colors, expressed through physically believable materials\n\n• Convert flat shading into controlled cinematic light falloff\nThe result must feel physically real, not redesigned.\nar 1:1",
+    "author": "rocsolmiami",
+    "author_url": "https://x.com/rocsolmiami",
+    "source_url": "https://x.com/rocsolmiami/status/2035257210083721428",
+    "images": [
+      "https://pbs.twimg.com/media/HD6vpT9XAAAGKfh.jpg"
+    ],
+    "language": "en",
+    "category": "character",
+    "tags": [
+      "3D vinyl toy",
+      "linear procession",
+      "cinematic lighting",
+      "depth of field",
+      "collectible-style"
+    ],
+    "style": "3d",
+    "description": null,
+    "created_at": "2026-03-21 08:00:29"
+  },
+  {
+    "id": 11687,
+    "title": "Just me and some Eid vibes. Created with Nano Banana Pro.  Eid special Prompt:   A stylish young man",
+    "prompt": "A stylish young man taking a mirror selfie in a modern minimalist bedroom. He is wearing a black traditional thobe and a black and white keffiyeh (shemagh) neatly draped over his head. His expression is calm and neutral, slightly focused on his phone screen. He is holding a modern smartphone with multiple rear cameras, partially covering his face.\nThe room has a clean, aesthetic setup with a monochrome color palette. Behind him, there is a clothing rack with neatly arranged neutral-toned outfits (white, beige, black). Below the rack are organized shelves with shoes placed in pairs. To the right, a small white shelving unit holds books, a small lamp with warm light, and minimal decor items.\nOn the wall, there are framed posters and album-style artworks arranged in a grid layout, giving a modern artistic vibe. The room lighting is soft and diffused, creating a cozy yet clean atmosphere. The mirror has rounded corners and a thin black frame, adding to the minimal aesthetic.\nThe floor is light gray carpet, with a circular black and white rug partially visible. The overall composition is centered, symmetrical, and balanced, with a strong focus on fashion, simplicity, and modern lifestyle aesthetics.\nStyle & Details: ultra realistic, high resolution, soft lighting, minimal aesthetic, clean composition, modern interior design, fashion photography style, mirror selfie perspective, shallow depth of field, muted tones, cozy atmosphere",
+    "author": "harboriis",
+    "author_url": "https://x.com/harboriis",
+    "source_url": "https://x.com/harboriis/status/2035231269987262952",
+    "images": [
+      "https://pbs.twimg.com/media/HD6YDZyboAUiNCC.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "mirror selfie",
+      "minimalist bedroom",
+      "traditional thobe",
+      "modern lifestyle",
+      "fashion photography"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 07:00:34"
+  },
+  {
+    "id": 11674,
+    "title": "QT with cute well dressed pet  Nano Banana Pro in @ImagineArt_X Prompt:-  Left:- Super adorable kitt",
+    "prompt": "Left:- Super adorable kitten character standing upright like a tiny dancer, wearing a soft pink tutu dress with duppata, tiny bow ponytail, shy pose with paw near mouth, fluffy fur, pastel pink minimal background, Pixar style animated character, ultra detailed 3D render, soft cinematic lighting, centered character, minimal pastel background, soft shadows, ultra cute expression, trending Pixar style 3D character\n\nRight:- Ultra cute baby puppy standing on two legs like a tiny human, wearing a colorful Indian salwar suit with a flowing dupatta draped over shoulders, small decorative hair clip, fluffy soft fur, big sparkling eyes, shy adorable pose with paw near mouth, pastel studio background, Pixar style 3D animated character, soft cinematic lighting, glossy floor reflection, vibrant Indian outfit details, ultra detailed 3D render, adorable viral character design, centered character, minimal pastel background, soft shadows, ultra cute expression, trending Pixar style 3D character",
+    "author": "AIARTGALLARY",
+    "author_url": "https://x.com/AIARTGALLARY",
+    "source_url": "https://x.com/AIARTGALLARY/status/2035224772439626059",
+    "images": [
+      "https://pbs.twimg.com/media/HD6SI0gboAIkOGp.jpg",
+      "https://pbs.twimg.com/media/HD6SI8PboAMUvPk.jpg"
+    ],
+    "language": "en",
+    "category": "animal",
+    "tags": [
+      "Pixar style",
+      "3D render",
+      "cute kitten",
+      "baby puppy",
+      "Indian outfit"
+    ],
+    "style": "3d",
+    "description": null,
+    "created_at": "2026-03-21 06:00:48"
+  },
+  {
+    "id": 11673,
+    "title": "Gemini Nano Banana 2  Prompt: Create a realistic photo of a person using the face from the uploaded ",
+    "prompt": "Create a realistic photo of a person using the face from the uploaded image. The person is walking forward inside a long tunnel filled with bright neon lights on the walls and ceiling. The lights are glowing in colors like blue, pink, and purple. The camera is placed in front of the person, capturing them walking toward it. The background has slight motion blur to give a fast, cinematic feel, while the person stays sharp and clear. The floor reflects the neon lights slightly. The person is wearing modern stylish clothes like a jacket, t-shirt, jeans, and sneakers. The scene looks futuristic, with soft fog in the air and glowing lights creating a cinematic vibe. Ultra realistic photography, smooth lighting, atmospheric depth.",
+    "author": "NikhilRajX",
+    "author_url": "https://x.com/NikhilRajX",
+    "source_url": "https://x.com/NikhilRajX/status/2035230075394957527",
+    "images": [
+      "https://pbs.twimg.com/media/HD6W98UboAARsxy.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "neon lights",
+      "futuristic tunnel",
+      "motion blur",
+      "realistic photography",
+      "cyberpunk vibe"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 06:00:43"
+  },
+  {
+    "id": 11661,
+    "title": "Prompt 98 Creating A creative Eid Al-Fitr greeting illustration ✨  Use Gemini Nano Banana Pro 2.0  ���",
+    "prompt": "PERSON NAME: [اكتب اسمك هنا]\nCOUNTRY: [اكتب اسم بلدك هنا]\nUse the attached image as the facial reference of the person.\nCRITICAL RULES:\n1. Preserve the exact likeness of the person. Do NOT change facial features, proportions, identity, or expression.\n2. Character posture: slight natural stance, back straight, no slouching or exaggerated bending.\n3. CLOTHING MUST STRICTLY FOLLOW THE TRADITIONAL FORMAL EID ATTIRE OF THE SPECIFIED COUNTRY. \n   - BEFORE DESIGNING, reference authentic sources (online images or cultural references) to ensure clothing is accurate for the COUNTRY. \n   - Examples:\n     - Yemen → white thobe, traditional shawl (shal), coat (koot), NO agal.\n     - Gulf countries → white thobe with ghutra and agal.\n     - Morocco → traditional djellaba.\n     - Egypt → elegant galabeya.\n   - Do NOT invent or mix clothing styles. Clothes must look authentic, elegant, and culturally correct.\nCreate a high-quality, creative Eid Al-Fitr greeting illustration with the person integrated naturally as a beautifully illustrated vector character.\nStyle:\nProfessional vector illustration similar to Adobe Illustrator, sharp lines, smooth shapes, elegant shading, high detail, artistic but clear.\nBackground:\nShow the city and architectural elements of the COUNTRY clearly and beautifully. Emphasize cultural landmarks and traditional architectural details, but ensure they do NOT overpower the character or the text. Add subtle, artistic watercolor splashes only for texture, not on the face or clothing.\nText:\nArabic calligraphy integrated beautifully:\nعيد مبارك  \nوكل عام وأنتم بخير  \nوتقبل الله منا ومنكم الصيام وصالح الأعمال\n\nPlace the PERSON NAME directly in a wide, clear, and elegantly designed space, as if crafted by a designer with 20 years of experience.  \nThe name should appear in flowing, artistic script resembling silk or fabric threads, compatible with both Arabic and English, and visually balanced with the artwork.\nComposition:\nSquare 1:1 format, balanced, professional greeting card layout. Character is the focal point, background rich but harmonious, text prominent and well-integrated.",
+    "author": "Aipromptslap",
+    "author_url": "https://x.com/Aipromptslap",
+    "source_url": "https://x.com/Aipromptslap/status/2035208457897254994",
+    "images": [
+      "https://pbs.twimg.com/media/HD6DST0XYAANJim.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "Eid Al-Fitr",
+      "vector illustration",
+      "traditional attire",
+      "Arabic calligraphy",
+      "greeting card"
+    ],
+    "style": "illustration",
+    "description": null,
+    "created_at": "2026-03-21 05:00:40"
+  },
+  {
+    "id": 11660,
+    "title": "Eid Mubarak to everyone celebrating it today!  Eid Special image generated with Google Nano Banana P",
+    "prompt": "A cinematic fashion portrait of a stylish young man posed confidently before a grand traditional wooden doorway adorned with intricate carvings. He wears a sophisticated off-white kurta featuring delicate gold embroidery, exuding understated luxury. His posture is relaxed yet poised, one hand casually tucked into his pocket while the other adjusts his collar, with a calm, self-assured expression.\nHe has medium-length wavy dark hair, a neatly groomed beard, and is styled with black rectangular sunglasses, a premium wristwatch, and a bold statement ring.\nThe scene is illuminated with warm natural light, casting soft shadows that enhance depth and mood. Shot with a shallow depth of field, the subject remains in crisp focus while the richly detailed background gently blurs. The composition carries a festive cultural vibe, inspired by Eid, with elegant golden Arabic calligraphy reading “Eid Mubarak” subtly placed to the side.\nUltra-realistic skin texture, high contrast, cinematic color grading with warm yet moody tones. Captured in professional fashion photography style using an 85mm lens at f/1.8, 8K resolution, highly detailed, photorealistic finish.",
+    "author": "j_smeaton99",
+    "author_url": "https://x.com/j_smeaton99",
+    "source_url": "https://x.com/j_smeaton99/status/2035210081940488344",
+    "images": [
+      "https://pbs.twimg.com/media/HD6ExVebwAA9v24.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "cinematic fashion portrait",
+      "Eid Mubarak",
+      "traditional kurta",
+      "85mm lens",
+      "photorealistic"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 05:00:34"
+  },
+  {
+    "id": 11659,
+    "title": "Eid Mubarak everyone   Edited on Google Gemini Nano Banana   Prompt 👇    A young woman in a soft be",
+    "prompt": " A young woman in a soft beige outfit with light embroidery, minimal jewelry, posing against a clean neutral background with subtle Eid decorations like crescent moon and ketupat ornaments, soft diffused lighting, calm expression, modern aesthetic, high resolution portrait, natural skin tones, elegant and minimal, Eid Mubarak text in simple modern font",
+    "author": "AIwithSynthia",
+    "author_url": "https://x.com/AIwithSynthia",
+    "source_url": "https://x.com/AIwithSynthia/status/2035215444106215851",
+    "images": [
+      "https://pbs.twimg.com/media/HD6JqSIaAAAfADs.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "young woman",
+      "Eid decorations",
+      "minimalist",
+      "high resolution portrait",
+      "modern aesthetic"
+    ],
+    "style": "realistic",
+    "description": null,
+    "created_at": "2026-03-21 05:00:28"
+  },
+  {
+    "id": 11627,
+    "title": "Eid Mubarak to everyone 🌙   Used my own image on Google Gemini Nano Banana   Prompt 👇    A beautif",
+    "prompt": " A beautiful young woman wearing a pastel embroidered salwar kameez with a matching dupatta draped gracefully over her head, soft natural makeup, standing in a warmly lit room decorated with glowing fairy lights, golden crescent moon and hanging lanterns, subtle Arabic calligraphy in the background, soft bokeh lighting, shallow depth of field, cinematic portrait, ultra realistic, 85mm lens, warm tones, Eid Mubarak text in elegant gold typography",
+    "author": "AIwithkhan",
+    "author_url": "https://x.com/AIwithkhan",
+    "source_url": "https://x.com/AIwithkhan/status/2035178117522956323",
+    "images": [
+      "https://pbs.twimg.com/media/HD5ntkrboAE4sks.jpg"
+    ],
+    "language": "en",
+    "category": "portrait",
+    "tags": [
+      "salwar kameez",
+      "Eid Mubarak",
+      "85mm lens",
+      "bokeh lighting",
+      "ultra realistic"
+    ],
+    "style": "cinematic",
+    "description": null,
+    "created_at": "2026-03-21 03:00:42"
+  },
+  {
     "id": 11613,
     "title": "Gemini nano banana 2  Prompt: Five asymmetric editorial panels collage, fashion contact sheet style,",
     "prompt": "Five asymmetric editorial panels collage, fashion contact sheet style, irregular layout with varied panel sizes, dynamic magazine composition  \n\nJeju Island summer 2026 fashion editorial, face reference, a stylish subject appearing across the panels in spontaneous travel moments around Jeju Island, South Korea  \n\neach panel may capture a different moment — the subject may appear facing the camera, from behind, side view, three quarter view, mid-turn, glancing back over the shoulder, or looking toward something off-frame  \n\nactions may vary across panels — sitting, standing, leaning, walking, running, jumping mid-air, straddling an object, pausing mid-step, posing casually, laughing, fixing hair in the coastal wind, taking photos on land, browsing a shop, on the phone, eating a popsicle, sipping iced coffee, relaxing near the sea, snorkeling, preparing to dive, emerging from the water, or floating in shallow water  \n\ncamera perspectives may vary across panels — close portrait, half body, full body, wide environmental shot, street photographer distance, overhead angle, low angle, tilted framing, dynamic editorial composition, underwater viewpoint or half-submerged perspective  \n\nKorean summer wardrobe interpreted freely with layered possibilities — light outer pieces, breezy inner garments, relaxed Korean silhouettes, airy fabrics such as cotton, linen, light denim, knit or mesh, open color palette ranging from soft neutrals and pastel tones to vibrant seasonal colors, occasionally mixed with beachwear or light aquatic gear such as snorkel masks, wetsuit elements, or swim layers  \n\nfootwear may vary including sneakers, casual shoes, sandals, slippers, beach footwear, barefoot moments, or diving fins in water scenes  \n\naccessories are optional and varied — headwear, glasses, bracelets, rings, necklaces, watches, scarves, small bags, hats, snorkel masks, or no accessories at all  \n\nsmall objects may appear such as handheld fans, popsicles, iced coffee, canned drinks, shopping bags, snorkeling gear, or casual travel items  \n\nimportant constraint — cameras may appear only in dry land scenes, cameras are never taken into the water or used during underwater moments  \n\nset anywhere across Jeju Island — volcanic coastlines, black rock beaches, seaside roads, coastal cliffs, clear blue water coves, snorkeling spots, small harbors, tangerine orchards, grassy hills, quiet village streets, seaside cafes, markets, stairways, countryside paths, lighthouses, fields, or scenic overlooks  \n\ndifferent panels may occur at different times of day — bright morning sunlight, soft afternoon light, golden hour glow, sunset warmth, blue hour twilight, or evening scenes with harbor lights  \n\nweather may vary — clear sky, coastal wind, humid warmth, light rain, sea mist, or fresh post-rain air  \n\nsubtle travel scrapbook details — a few small playful sticker doodles inspired by Jeju such as tiny tangerines, seashells, dolphins, waves, lighthouse icons, or small hearts, minimal and lightly scattered so they do not dominate the composition  \n\ncandid documentary fashion photography feeling, gritty grainy texture, low quality camera, uneven lighting, spontaneous imperfections  \n\nvertical Japanese text  \n僕  \nの  \n花 positioned at the top left of the composition",
